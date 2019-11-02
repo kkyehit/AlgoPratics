@@ -1,0 +1,2321 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	Backjoon/2869.cpp	/^int64 A,B,V;$/;"	v	line:9
+A	Fossil.cpp	/^vector<pair<double,double> > A,B;$/;"	v	line:50
+A	MaxSum.cpp	/^int A[MAX], N;$/;"	v	line:12
+A	NumB3RS.cpp	/^int A[51][51],Pos[51];$/;"	v	line:8
+A	algospot9th/sfw.cpp	/^int A,B;$/;"	v	line:10
+ACK	EditerWar.cpp	/^	bool ACK(int node1, int node2){$/;"	f	line:38	struct:unionFindTree
+ACKSTR	EditerWar.cpp	5;"	d	line:5	file:
+ALPHABET	AhoCorasick.cpp	10;"	d	line:10	file:
+Ai	Death.cpp	/^int Ai[MAX_N], Bi[MAX_M];$/;"	v	line:13
+An	Death.cpp	/^int An[MAX_N];$/;"	v	line:14
+ArcticInput	RandomInputMake.cpp	/^void ArcticInput(){$/;"	f	line:61
+Area	Backjoon/1006.cpp	/^int Area[2*MAX_N];$/;"	v	line:10
+AsymSearch	AsymTiling.cpp	/^int AsymSearch(int index,int &m, int *cache2){	$/;"	f	line:12
+B	Backjoon/2869.cpp	/^int64 A,B,V;$/;"	v	line:9
+B	Fossil.cpp	/^vector<pair<double,double> > A,B;$/;"	v	line:50
+B	NumB3RS.cpp	/^double B[101][51];$/;"	v	line:9
+B	OCR.cpp	/^double B[500],T[500][500],M[500][500];$/;"	v	line:9
+B	algospot9th/sfw.cpp	/^int A,B;$/;"	v	line:10
+B	line/najab.cpp	/^int C, B;$/;"	v	line:10
+BUF_LEN	tcpClient.cpp	11;"	d	line:11	file:
+BUF_LEN	tcpServer.cpp	15;"	d	line:15	file:
+Begin	OCRSol.cpp	/^double Begin[501];$/;"	v	line:23
+Bi	Death.cpp	/^int Ai[MAX_N], Bi[MAX_M];$/;"	v	line:13
+Board	BlockGame.cpp	/^int Board;$/;"	v	line:21
+Board	NumberGame.cpp	/^int c,n, Board[MAX_N];$/;"	v	line:16
+Board	Tictactoe.cpp	/^char Board[MAX_N][MAX_N];$/;"	v	line:20
+Board	kakao_C.cpp	/^char Board[MAX_M + 1][MAX_N + 1];$/;"	v	line:13
+C	Backjoon/11050.cpp	/^int C[11][11];$/;"	v	line:6
+C	Backjoon/2931.cpp	/^int R, C;$/;"	v	line:12
+C	Backjoon/6593.cpp	/^int L, R, C;$/;"	v	line:35
+C	BlockGame.cpp	/^int C;$/;"	v	line:20
+C	BoardCover2.cpp	/^int H,W,R,C;$/;"	v	line:11
+C	NumB3RS.cpp	/^int C,n,d,p,t,q;$/;"	v	line:7
+C	Packing.cpp	/^int C,n,w;$/;"	v	line:16
+C	Tictactoe.cpp	/^int C;$/;"	v	line:19
+C	backjoon1010.cpp	/^int C[31][31];$/;"	v	line:5
+C	line/najab.cpp	/^int C, B;$/;"	v	line:10
+Clime	snail.cpp	/^double Clime(int day,int now){$/;"	f	line:10
+Comperater	Habit.cpp	/^	Comperater(vector<int> &_group, int _t) : group(_group), t(_t){$/;"	f	line:12	struct:Comperater
+Comperater	Habit.cpp	/^struct Comperater{$/;"	s	line:9	file:
+D	Christmas.cpp	/^int psum[100001],D[100000];$/;"	v	line:10
+DIS	EditerWar.cpp	/^	bool DIS(int node1, int node2){$/;"	f	line:48	struct:unionFindTree
+DISSTR	EditerWar.cpp	6;"	d	line:6	file:
+DarpaInput	RandomInputMake.cpp	/^void DarpaInput(){$/;"	f	line:33
+E	Backjoon/1707.cpp	/^int V, E;$/;"	v	line:11
+E	Backjoon/1753.cpp	/^int V, E, K;$/;"	v	line:14
+E	Backjoon/1753_v2.cpp	/^int V,E,K;$/;"	v	line:12
+EPSILON	Braveduck.cpp	/^const double EPSILON = 1e-9;$/;"	v	line:10
+EPSILON	Death.cpp	/^const double EPSILON = 1e-9;$/;"	v	line:8
+EPSILON	Pinball.cpp	/^const double EPSILON = 1e-9;$/;"	v	line:4
+EPSILON	vector2.h	/^const double EPSILON = 1e-9;$/;"	v	line:3
+FINISH	Backjoon/2098.cpp	6;"	d	line:6	file:
+FOR	GggCccDdd.cpp	5;"	d	line:5	file:
+FactorPow	Pass486.cpp	/^int FactorPow[MAX + 1];$/;"	v	line:15
+FamilyTreeInput	RandomInputMake.cpp	/^void FamilyTreeInput(){$/;"	f	line:105
+G	CanadaTrip.cpp	/^int L[MAX_N],M[MAX_N],G[MAX_N];$/;"	v	line:14
+H	Backjoon/1600.cpp	/^int W, H;$/;"	v	line:14
+H	Backjoon/1600_2.cpp	/^int W, H;$/;"	v	line:15
+H	BoardCover2.cpp	/^int H,W,R,C;$/;"	v	line:11
+H	CogiRun.cpp	/^int W,H;$/;"	v	line:9
+INF	Backjoon/1006_4.cpp	/^const int INF = 987654321;$/;"	v	line:5
+INF	Backjoon/1238.cpp	7;"	d	line:7	file:
+INF	Backjoon/1719.cpp	6;"	d	line:6	file:
+INF	Backjoon/1753.cpp	10;"	d	line:10	file:
+INF	Backjoon/1938.cpp	7;"	d	line:7	file:
+INF	Backjoon/2096.cpp	5;"	d	line:5	file:
+INF	Backjoon/2096_2.cpp	5;"	d	line:5	file:
+INF	Backjoon/2293.cpp	7;"	d	line:7	file:
+INF	Backjoon/2294_2.cpp	7;"	d	line:7	file:
+INF	Backjoon/9370.cpp	8;"	d	line:8	file:
+INF	Backjoon/9370_2.cpp	8;"	d	line:8	file:
+INF	Minas.cpp	/^const int INF = 987665431;$/;"	v	line:65
+INF	samsung/1767.cpp	7;"	d	line:7	file:
+INF	samsung/7964.cpp	6;"	d	line:6	file:
+INF	samsung/7964_2.cpp	6;"	d	line:6	file:
+INF	samsung/7964_3.cpp	7;"	d	line:7	file:
+INF	samsung/7964_4.cpp	7;"	d	line:7	file:
+INF	samsung/7964_5.cpp	6;"	d	line:6	file:
+INF	samsung/7964_6.cpp	6;"	d	line:6	file:
+INF	samsung/7966.cpp	8;"	d	line:8	file:
+INF	samsung/7966_2.cpp	8;"	d	line:8	file:
+INF	samsung/7966_3.cpp	9;"	d	line:9	file:
+INFI	Graduation.cpp	6;"	d	line:6	file:
+INFTY	Pinball.cpp	/^const double INFTY = 1e200;$/;"	v	line:5
+INFTY	vector2.h	/^const double INFTY = 1e200;$/;"	v	line:4
+INFY	Backjoon/1006_2.cpp	7;"	d	line:7	file:
+INFY	Backjoon/1006_3.cpp	7;"	d	line:7	file:
+INFY	Backjoon/1018.cpp	4;"	d	line:4	file:
+INFY	Backjoon/1149.cpp	5;"	d	line:5	file:
+INFY	Backjoon/1463.cpp	4;"	d	line:4	file:
+INFY	Backjoon/1932.cpp	5;"	d	line:5	file:
+INFY	MaxSum.cpp	6;"	d	line:6	file:
+INFY	TPS_DP.cpp	4;"	d	line:4	file:
+INVALID	FamilyTree.cpp	6;"	d	line:6	file:
+K	Backjoon/11505.cpp	/^int N, M, K;$/;"	v	line:12
+K	Backjoon/11866.cpp	/^int N, K;$/;"	v	line:9
+K	Backjoon/1600.cpp	/^int K;$/;"	v	line:13
+K	Backjoon/1600_2.cpp	/^int K;$/;"	v	line:14
+K	Backjoon/1753.cpp	/^int V, E, K;$/;"	v	line:14
+K	Backjoon/1753_v2.cpp	/^int V,E,K;$/;"	v	line:12
+K	Backjoon/2042.cpp	/^int N, M, K;$/;"	v	line:14
+K	Backjoon/2583.cpp	/^int N, M, K;$/;"	v	line:10
+K	Backjoon/8979.cpp	/^int N, K;$/;"	v	line:9
+K	Backjoon/8979_2.cpp	/^int N, K;$/;"	v	line:9
+K	CanadaTrip.cpp	/^int N,K;$/;"	v	line:13
+K	Christmas.cpp	/^int N,K;$/;"	v	line:9
+K	Escapegees.cpp	/^int N,K;$/;"	v	line:13
+K	Graduation.cpp	/^int N,K,M,L;$/;"	v	line:12
+K	Josephus.cpp	/^int N,K;$/;"	v	line:52
+K	Josephus_Queue.cpp	/^int N,K;$/;"	v	line:10
+K	Kakao_B.cpp	/^int N,K;$/;"	v	line:11
+L	Backjoon/6593.cpp	/^int L, R, C;$/;"	v	line:35
+L	CanadaTrip.cpp	/^int L[MAX_N],M[MAX_N],G[MAX_N];$/;"	v	line:14
+L	Graduation.cpp	/^int N,K,M,L;$/;"	v	line:12
+LINE	Backjoon/2580.cpp	2;"	d	line:2	file:
+Li	Genius.cpp	/^int Li[MAX_N],Qi[MAX_M];$/;"	v	line:63
+M	Backjoon/1021.cpp	/^int N, M;$/;"	v	line:8
+M	Backjoon/1021_2.cpp	/^int N, M;$/;"	v	line:9
+M	Backjoon/11505.cpp	/^int N, M, K;$/;"	v	line:12
+M	Backjoon/1260.cpp	/^int N, M, V;$/;"	v	line:9
+M	Backjoon/14502.cpp	/^int N, M;$/;"	v	line:10
+M	Backjoon/1520.cpp	/^int M, N;$/;"	v	line:8
+M	Backjoon/1520_2.cpp	/^int M, N;$/;"	v	line:9
+M	Backjoon/1726.cpp	/^int M, N;$/;"	v	line:16
+M	Backjoon/2042.cpp	/^int N, M, K;$/;"	v	line:14
+M	Backjoon/2482.cpp	4;"	d	line:4	file:
+M	Backjoon/2573.cpp	/^int N, M;$/;"	v	line:13
+M	Backjoon/2583.cpp	/^int N, M, K;$/;"	v	line:10
+M	Backjoon/2931.cpp	/^pair<int, int> M, Z;$/;"	v	line:14
+M	Backjoon/6118.cpp	/^int N, M;$/;"	v	line:12
+M	CanadaTrip.cpp	/^int L[MAX_N],M[MAX_N],G[MAX_N];$/;"	v	line:14
+M	Death.cpp	/^int N,X,M,T;$/;"	v	line:12
+M	GggCccDdd.cpp	/^int N,M;$/;"	v	line:13
+M	Graduation.cpp	/^int N,K,M,L;$/;"	v	line:12
+M	Loan.cpp	/^int M;$/;"	v	line:11
+M	Morse.cpp	/^const int M = 1000000000 + 100;$/;"	v	line:94
+M	OCR.cpp	/^double B[500],T[500][500],M[500][500];$/;"	v	line:9
+M	Ratio.cpp	/^int N,M;$/;"	v	line:11
+M	algospot9th/sfw.cpp	/^int N,M;$/;"	v	line:12
+MAX	Backjoon/1932.cpp	4;"	d	line:4	file:
+MAX	Backjoon/9095.cpp	4;"	d	line:4	file:
+MAX	Dragon.cpp	/^int MAX = 1000000000 + 1;$/;"	v	line:9
+MAX	MaxSum.cpp	5;"	d	line:5	file:
+MAX	Pass486.cpp	3;"	d	line:3	file:
+MAX	Potion.cpp	3;"	d	line:3	file:
+MAX	Ratio.cpp	3;"	d	line:3	file:
+MAX_A	MeasureTime.cpp	5;"	d	line:5	file:
+MAX_C	Backjoon/6593.cpp	8;"	d	line:8	file:
+MAX_CNT	Backjoon/2579.cpp	5;"	d	line:5	file:
+MAX_E	Backjoon/1753.cpp	9;"	d	line:9	file:
+MAX_H	CogiRun.cpp	5;"	d	line:5	file:
+MAX_INT	1753_v2.cpp	7;"	d	line:7	file:
+MAX_INT	Backjoon/1726.cpp	7;"	d	line:7	file:
+MAX_INT	Backjoon/1753_v2.cpp	7;"	d	line:7	file:
+MAX_JUMP	Backjoon/2579.cpp	6;"	d	line:6	file:
+MAX_K	Backjoon/1600.cpp	5;"	d	line:5	file:
+MAX_K	Backjoon/1600_2.cpp	6;"	d	line:6	file:
+MAX_K	Backjoon/1654.cpp	5;"	d	line:5	file:
+MAX_K	Backjoon/2293.cpp	6;"	d	line:6	file:
+MAX_K	Backjoon/2294.cpp	6;"	d	line:6	file:
+MAX_K	Backjoon/2294_2.cpp	6;"	d	line:6	file:
+MAX_K	Backjoon/6603.cpp	4;"	d	line:4	file:
+MAX_K	Escapegees.cpp	8;"	d	line:8	file:
+MAX_K	Genius.cpp	5;"	d	line:5	file:
+MAX_K	Restore2.cpp	2;"	d	line:2	file:
+MAX_L	Backjoon/1013.cpp	3;"	d	line:3	file:
+MAX_L	Backjoon/5430_2.cpp	6;"	d	line:6	file:
+MAX_L	Backjoon/5430_3.cpp	5;"	d	line:5	file:
+MAX_L	Backjoon/6593.cpp	6;"	d	line:6	file:
+MAX_L	SoLong.cpp	8;"	d	line:8	file:
+MAX_LANGTH	Backjoon/2448_2.cpp	3;"	d	line:3	file:
+MAX_LENGTH	AhoCorasick.cpp	9;"	d	line:9	file:
+MAX_M	Backjoon/1016.cpp	6;"	d	line:6	file:
+MAX_M	Backjoon/11559.cpp	7;"	d	line:7	file:
+MAX_M	Backjoon/11559_2.cpp	5;"	d	line:5	file:
+MAX_M	Backjoon/3079.cpp	6;"	d	line:6	file:
+MAX_M	Backjoon/6118.cpp	7;"	d	line:7	file:
+MAX_M	Darpa.cpp	3;"	d	line:3	file:
+MAX_M	Darpa_sol.cpp	5;"	d	line:5	file:
+MAX_M	Death.cpp	6;"	d	line:6	file:
+MAX_M	Genius.cpp	4;"	d	line:4	file:
+MAX_M	Graduation.cpp	5;"	d	line:5	file:
+MAX_M	SoLong.cpp	7;"	d	line:7	file:
+MAX_M	kakao_C.cpp	9;"	d	line:9	file:
+MAX_N	AhoCorasick.cpp	8;"	d	line:8	file:
+MAX_N	Allergy.cpp	3;"	d	line:3	file:
+MAX_N	Arctic2.cpp	2;"	d	line:2	file:
+MAX_N	Backjoon/1006.cpp	3;"	d	line:3	file:
+MAX_N	Backjoon/1006_2.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/1006_3.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/1012.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/1014.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/1016.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/1026.cpp	3;"	d	line:3	file:
+MAX_N	Backjoon/1036.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/10610.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/10815.cpp	3;"	d	line:3	file:
+MAX_N	Backjoon/1102.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/11047.cpp	3;"	d	line:3	file:
+MAX_N	Backjoon/11399.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/1149.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/11505.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/11559.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/11559_2.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/11726.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/11727.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/1238.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/14888.cpp	3;"	d	line:3	file:
+MAX_N	Backjoon/1509.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/1520.cpp	3;"	d	line:3	file:
+MAX_N	Backjoon/1520_2.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/15998_2.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/15998_3.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/1648.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/1707.cpp	7;"	d	line:7	file:
+MAX_N	Backjoon/17128.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/1719.cpp	7;"	d	line:7	file:
+MAX_N	Backjoon/1726.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/1890.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/1920.cpp	3;"	d	line:3	file:
+MAX_N	Backjoon/1920_v.2.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/1938.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/1949.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/1967.cpp	7;"	d	line:7	file:
+MAX_N	Backjoon/1967_2.cpp	7;"	d	line:7	file:
+MAX_N	Backjoon/2042.cpp	7;"	d	line:7	file:
+MAX_N	Backjoon/2042_2.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/2096.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/2096_2.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/2098.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/2156.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/2178.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/2178_v2.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/2206.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/2250_V3.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/2252.cpp	7;"	d	line:7	file:
+MAX_N	Backjoon/2293.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/2294.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/2294_2.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/2482.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/2565.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/2573.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/2573_2.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/2583.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/2606.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/2623.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/2805.cpp	3;"	d	line:3	file:
+MAX_N	Backjoon/2931.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/3079.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/6118.cpp	6;"	d	line:6	file:
+MAX_N	Backjoon/7469.cpp	7;"	d	line:7	file:
+MAX_N	Backjoon/7576.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/8979.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/8979_2.cpp	5;"	d	line:5	file:
+MAX_N	Backjoon/9237.cpp	4;"	d	line:4	file:
+MAX_N	Backjoon/9370.cpp	7;"	d	line:7	file:
+MAX_N	Backjoon/9370_2.cpp	7;"	d	line:7	file:
+MAX_N	Backjoon/9663.cpp	2;"	d	line:2	file:
+MAX_N	BlockGame.cpp	2;"	d	line:2	file:
+MAX_N	BoardCover2.cpp	3;"	d	line:3	file:
+MAX_N	Braveduck.cpp	6;"	d	line:6	file:
+MAX_N	CanadaTrip.cpp	2;"	d	line:2	file:
+MAX_N	Darpa.cpp	2;"	d	line:2	file:
+MAX_N	Darpa_sol.cpp	4;"	d	line:4	file:
+MAX_N	Death.cpp	5;"	d	line:5	file:
+MAX_N	Dolls.cpp	4;"	d	line:4	file:
+MAX_N	Dragon.cpp	2;"	d	line:2	file:
+MAX_N	Duathlon.cpp	3;"	d	line:3	file:
+MAX_N	EditerWar.cpp	7;"	d	line:7	file:
+MAX_N	Escapegees.cpp	7;"	d	line:7	file:
+MAX_N	FamilyTree.cpp	5;"	d	line:5	file:
+MAX_N	FamilyTree_book.cpp	4;"	d	line:4	file:
+MAX_N	Fix.cpp	3;"	d	line:3	file:
+MAX_N	Fortress.cpp	6;"	d	line:6	file:
+MAX_N	Fossil.cpp	2;"	d	line:2	file:
+MAX_N	Genius.cpp	3;"	d	line:3	file:
+MAX_N	Graduation.cpp	4;"	d	line:4	file:
+MAX_N	Habit.cpp	5;"	d	line:5	file:
+MAX_N	Insertion2.cpp	127;"	d	line:127	file:
+MAX_N	KLIS.cpp	2;"	d	line:2	file:
+MAX_N	Kakao_B.cpp	7;"	d	line:7	file:
+MAX_N	Kakuro2.cpp	2;"	d	line:2	file:
+MAX_N	MatchOrder.cpp	2;"	d	line:2	file:
+MAX_N	MeasureTime.cpp	4;"	d	line:4	file:
+MAX_N	MeetingRoom.cpp	2;"	d	line:2	file:
+MAX_N	Minas.cpp	2;"	d	line:2	file:
+MAX_N	Mordor.cpp	5;"	d	line:5	file:
+MAX_N	NPoly.cpp	5;"	d	line:5	file:
+MAX_N	Nerd2.cpp	4;"	d	line:4	file:
+MAX_N	NumberGame.cpp	2;"	d	line:2	file:
+MAX_N	Restore.cpp	2;"	d	line:2	file:
+MAX_N	Roots.cpp	2;"	d	line:2	file:
+MAX_N	SoLong.cpp	6;"	d	line:6	file:
+MAX_N	StrJoin.cpp	2;"	d	line:2	file:
+MAX_N	Sushi2.cpp	2;"	d	line:2	file:
+MAX_N	Tictactoe.cpp	2;"	d	line:2	file:
+MAX_N	Traversal.cpp	6;"	d	line:6	file:
+MAX_N	Tresure.cpp	4;"	d	line:4	file:
+MAX_N	WithdRawal.cpp	3;"	d	line:3	file:
+MAX_N	Zimbabwe.cpp	2;"	d	line:2	file:
+MAX_N	algospot9th/park.cpp	6;"	d	line:6	file:
+MAX_N	algospot9th/sfw.cpp	6;"	d	line:6	file:
+MAX_N	kakao_B.cpp	4;"	d	line:4	file:
+MAX_N	kakao_C.cpp	8;"	d	line:8	file:
+MAX_N	samsung/1767.cpp	6;"	d	line:6	file:
+MAX_N	samsung/7830.cpp	5;"	d	line:5	file:
+MAX_N	samsung/7964.cpp	5;"	d	line:5	file:
+MAX_N	samsung/7964_2.cpp	5;"	d	line:5	file:
+MAX_N	samsung/7964_3.cpp	6;"	d	line:6	file:
+MAX_N	samsung/7964_4.cpp	6;"	d	line:6	file:
+MAX_N	samsung/7964_5.cpp	5;"	d	line:5	file:
+MAX_N	samsung/7964_6.cpp	5;"	d	line:5	file:
+MAX_N	samsung/7966.cpp	7;"	d	line:7	file:
+MAX_N	samsung/7966_2.cpp	7;"	d	line:7	file:
+MAX_N	samsung/7966_3.cpp	8;"	d	line:8	file:
+MAX_N	snail.cpp	4;"	d	line:4	file:
+MAX_NM	Backjoon/14502.cpp	5;"	d	line:5	file:
+MAX_Q	Mordor.cpp	6;"	d	line:6	file:
+MAX_R	Backjoon/6593.cpp	7;"	d	line:7	file:
+MAX_T	line/najab.cpp	5;"	d	line:5	file:
+MAX_V	1753_v2.cpp	8;"	d	line:8	file:
+MAX_V	Backjoon/1753.cpp	8;"	d	line:8	file:
+MAX_V	Backjoon/1753_v2.cpp	8;"	d	line:8	file:
+MAX_V	Backjoon/2869.cpp	3;"	d	line:3	file:
+MAX_VALUE	Backjoon/1600.cpp	6;"	d	line:6	file:
+MAX_VALUE	Backjoon/1600_2.cpp	7;"	d	line:7	file:
+MAX_VALUE	Backjoon/2098.cpp	5;"	d	line:5	file:
+MAX_W	Backjoon/1006.cpp	4;"	d	line:4	file:
+MAX_W	Backjoon/1006_2.cpp	6;"	d	line:6	file:
+MAX_W	Backjoon/1006_3.cpp	6;"	d	line:6	file:
+MAX_W	CogiRun.cpp	4;"	d	line:4	file:
+MAX_WH	Backjoon/1600.cpp	4;"	d	line:4	file:
+MAX_WH	Backjoon/1600_2.cpp	5;"	d	line:5	file:
+MAX_X	line/najab.cpp	6;"	d	line:6	file:
+MOD	Backjoon/11505.cpp	5;"	d	line:5	file:
+MOD	Backjoon/11726.cpp	5;"	d	line:5	file:
+MOD	Backjoon/11727.cpp	5;"	d	line:5	file:
+MOD	Christmas.cpp	5;"	d	line:5	file:
+MOD	Escapegees.cpp	6;"	d	line:6	file:
+MOD	GggCccDdd.cpp	4;"	d	line:4	file:
+MOD	RunningMedian.cpp	5;"	d	line:5	file:
+MOD	Zimbabwe.cpp	/^int MOD = 1000000007;$/;"	v	line:16
+MOD	samsung/7853.cpp	4;"	d	line:4	file:
+MatchOrderInput	RandomInputMake.cpp	/^void MatchOrderInput(){$/;"	f	line:10
+Max	KLIS.cpp	/^const int Max = 0xff;$/;"	v	line:122
+MaxSumInput	RandomInputMake.cpp	/^void MaxSumInput(){$/;"	f	line:92
+N	Arctic2.cpp	/^int N;$/;"	v	line:15
+N	Backjoon/1020.cpp	/^int N;$/;"	v	line:8
+N	Backjoon/1020_2.cpp	/^int N;$/;"	v	line:8
+N	Backjoon/1021.cpp	/^int N, M;$/;"	v	line:8
+N	Backjoon/1021_2.cpp	/^int N, M;$/;"	v	line:9
+N	Backjoon/11505.cpp	/^int N, M, K;$/;"	v	line:12
+N	Backjoon/11866.cpp	/^int N, K;$/;"	v	line:9
+N	Backjoon/1260.cpp	/^int N, M, V;$/;"	v	line:9
+N	Backjoon/14502.cpp	/^int N, M;$/;"	v	line:10
+N	Backjoon/1520.cpp	/^int M, N;$/;"	v	line:8
+N	Backjoon/1520_2.cpp	/^int M, N;$/;"	v	line:9
+N	Backjoon/1726.cpp	/^int M, N;$/;"	v	line:16
+N	Backjoon/1914.cpp	/^int N;$/;"	v	line:7
+N	Backjoon/1938.cpp	/^int N;$/;"	v	line:22
+N	Backjoon/1949.cpp	/^int N;$/;"	v	line:26
+N	Backjoon/2042.cpp	/^int N, M, K;$/;"	v	line:14
+N	Backjoon/2448.cpp	/^int N;$/;"	v	line:11
+N	Backjoon/2448_2.cpp	/^int N;$/;"	v	line:8
+N	Backjoon/2573.cpp	/^int N, M;$/;"	v	line:13
+N	Backjoon/2583.cpp	/^int N, M, K;$/;"	v	line:10
+N	Backjoon/6118.cpp	/^int N, M;$/;"	v	line:12
+N	Backjoon/6603.cpp	/^int N;$/;"	v	line:7
+N	Backjoon/8979.cpp	/^int N, K;$/;"	v	line:9
+N	Backjoon/8979_2.cpp	/^int N, K;$/;"	v	line:9
+N	Braveduck.cpp	/^int cache[MAX_N + 2], jump, N;$/;"	v	line:17
+N	CanadaTrip.cpp	/^int N,K;$/;"	v	line:13
+N	Christmas.cpp	/^int N,K;$/;"	v	line:9
+N	Death.cpp	/^int N,X,M,T;$/;"	v	line:12
+N	Escapegees.cpp	/^int N,K;$/;"	v	line:13
+N	FamilyTree.cpp	/^int N, Q;$/;"	v	line:10
+N	FenceReview.cpp	/^int N;$/;"	v	line:7
+N	Genius.cpp	/^    int N;$/;"	m	line:10	struct:SquareMatrix	file:
+N	GggCccDdd.cpp	/^int N,M;$/;"	v	line:13
+N	Graduation.cpp	/^int N,K,M,L;$/;"	v	line:12
+N	JeahaSafe.cpp	/^int N;$/;"	v	line:8
+N	Josephus.cpp	/^int N,K;$/;"	v	line:52
+N	Josephus_Queue.cpp	/^int N,K;$/;"	v	line:10
+N	Kakao_B.cpp	/^int N,K;$/;"	v	line:11
+N	Kakao_D.cpp	/^int N,Q;$/;"	v	line:6
+N	Loan.cpp	/^double P,N;$/;"	v	line:10
+N	MatchOrder.cpp	/^int N;$/;"	v	line:18
+N	MaxSum.cpp	/^int A[MAX], N;$/;"	v	line:12
+N	MeetingRoom.cpp	/^int N,a[MAX_N],b[MAX_N],c[MAX_N],d[MAX_N];$/;"	v	line:10
+N	Nerd2.cpp	/^int N;$/;"	v	line:9
+N	Pinball.cpp	/^int N;$/;"	v	line:63
+N	Ratio.cpp	/^int N,M;$/;"	v	line:11
+N	Traversal.cpp	/^int N;$/;"	v	line:10
+N	algospot9th/sfw.cpp	/^int N,M;$/;"	v	line:12
+N	line/najab.cpp	/^int N;$/;"	v	line:11
+N	squareMatrix.h	/^    int N;$/;"	m	line:8	struct:SquareMatrix
+NodePair	Insertion.cpp	/^typedef pair<tripNode *, tripNode*> NodePair;$/;"	t	line:36	file:
+Obj	Packing.cpp	/^struct Obj{$/;"	s	line:9	file:
+P	Loan.cpp	/^double P,N;$/;"	v	line:10
+PI	Pinball.cpp	/^const double PI = 2.0 * acos(0.0);$/;"	v	line:3
+PI	vector2.h	/^const double PI = 2.0 * acos(0.0);$/;"	v	line:2
+POW	Escapegees.cpp	9;"	d	line:9	file:
+Pos	NumB3RS.cpp	/^int A[51][51],Pos[51];$/;"	v	line:8
+PriceA	Kakao_A.cpp	/^int PriceA(int &a){$/;"	f	line:11
+PriceB	Kakao_A.cpp	/^int PriceB(int &b){$/;"	f	line:21
+Q	FamilyTree.cpp	/^int N, Q;$/;"	v	line:10
+Q	Kakao_D.cpp	/^int N,Q;$/;"	v	line:6
+Qi	Genius.cpp	/^int Li[MAX_N],Qi[MAX_M];$/;"	v	line:63
+R	Backjoon/2931.cpp	/^int R, C;$/;"	v	line:12
+R	Backjoon/6593.cpp	/^int L, R, C;$/;"	v	line:35
+R	BoardCover2.cpp	/^int H,W,R,C;$/;"	v	line:11
+R	OCR.cpp	/^int choice[102][502],R[500];$/;"	v	line:11
+RGB	Backjoon/1149.cpp	/^	RGB():r(0),g(0),b(0){}$/;"	f	line:11	struct:RGB
+RGB	Backjoon/1149.cpp	/^struct RGB{$/;"	s	line:9	file:
+RMQ	FamilyTree.cpp	/^	RMQ(){$/;"	f	line:26	struct:RMQ
+RMQ	FamilyTree.cpp	/^struct RMQ{\/\/구간의 공통 루트 구하기 \/ 오류 : 구간으로 LCA 찾는게 오류, 한쪽 구간의 LCA가 전체 구간의 LCA를 찾는데 도움이 되지 않음,$/;"	s	line:24	file:
+RMQ	FamilyTree.cpp	/^}typedef RMQ;$/;"	t	line:57	file:
+RMQ	FamilyTree_book.cpp	/^	RMQ(vector<int> &arr){$/;"	f	line:11	struct:RMQ
+RMQ	FamilyTree_book.cpp	/^struct RMQ{$/;"	s	line:8	file:
+RMQ	Mordor.cpp	/^	RMQ(const vector<int> &array){$/;"	f	line:17	struct:RMQ
+RMQ	Mordor.cpp	/^struct RMQ{$/;"	s	line:13	file:
+RMQ	Mordor.cpp	/^}typedef RMQ;$/;"	t	line:62	file:
+RNG	RunningMedian.cpp	/^	explicit RNG(int _a,int _b):seed(1983),a(_a),b(_b){};$/;"	f	line:13	struct:RNG
+RNG	RunningMedian.cpp	/^struct RNG{$/;"	s	line:11	file:
+RNG	RunningMedian.cpp	/^}typedef RNG;$/;"	t	line:19	file:
+S	KLIS.cpp	/^int cacheLen[501],cacheCnt[501],S[501];$/;"	v	line:124
+S	WildCard.cpp	/^string W, S;$/;"	v	line:38
+SameAlphaIndex	kakao_C.cpp	/^int SameAlphaIndex(int y, int x, char &a){$/;"	f	line:34
+SquareMatrix	Genius.cpp	/^SquareMatrix::SquareMatrix(int _N) {$/;"	f	line:20	class:SquareMatrix
+SquareMatrix	Genius.cpp	/^struct SquareMatrix {$/;"	s	line:9	file:
+SquareMatrix	squareMatrix.h	/^SquareMatrix::SquareMatrix(int _N) {$/;"	f	line:18	class:SquareMatrix
+SquareMatrix	squareMatrix.h	/^struct SquareMatrix {$/;"	s	line:7
+Switch	ClockSyn.cpp	/^const int Switch[10][5] = {$/;"	v	line:6
+T	Death.cpp	/^int N,X,M,T;$/;"	v	line:12
+T	Genius.cpp	/^double T[MAX_N][MAX_N];$/;"	v	line:64
+T	OCR.cpp	/^double B[500],T[500][500],M[500][500];$/;"	v	line:9
+TYPE	Backjoon/2931.cpp	/^int Y, X, TYPE;$/;"	v	line:21
+TrieNode	AhoCorasick.cpp	/^struct TrieNode{$/;"	s	line:15	file:
+V	Backjoon/1260.cpp	/^int N, M, V;$/;"	v	line:9
+V	Backjoon/1707.cpp	/^int V, E;$/;"	v	line:11
+V	Backjoon/1753.cpp	/^int V, E, K;$/;"	v	line:14
+V	Backjoon/1753_v2.cpp	/^int V,E,K;$/;"	v	line:12
+V	Backjoon/2869.cpp	/^int64 A,B,V;$/;"	v	line:9
+W	Backjoon/1600.cpp	/^int W, H;$/;"	v	line:14
+W	Backjoon/1600_2.cpp	/^int W, H;$/;"	v	line:15
+W	BoardCover2.cpp	/^int H,W,R,C;$/;"	v	line:11
+W	CogiRun.cpp	/^int W,H;$/;"	v	line:9
+W	TPS_DP.cpp	/^const number W[5][5] = {$/;"	v	line:11
+W	WildCard.cpp	/^string W, S;$/;"	v	line:38
+X	Backjoon/2931.cpp	/^int Y, X, TYPE;$/;"	v	line:21
+X	Death.cpp	/^int N,X,M,T;$/;"	v	line:12
+Y	Backjoon/2931.cpp	/^int Y, X, TYPE;$/;"	v	line:21
+Z	Backjoon/2931.cpp	/^pair<int, int> M, Z;$/;"	v	line:14
+_1014	Backjoon/Rinp.cpp	/^void _1014(){$/;"	f	line:17
+_1149	Backjoon/Rinp.cpp	/^void _1149(){$/;"	f	line:8
+_1520	Backjoon/rand.cpp	/^void _1520(){$/;"	f	line:7
+_1654	Backjoon/makeinput.cpp	/^void _1654(){$/;"	f	line:23
+_1967	Backjoon/rand.cpp	/^void _1967(){$/;"	f	line:31
+_1991	Backjoon/makeinput.cpp	/^void _1991(){$/;"	f	line:10
+_7496	Backjoon/rand.cpp	/^void _7496(){$/;"	f	line:38
+_7830	samsung/ran.cpp	/^void _7830(){$/;"	f	line:16
+_7964	samsung/ran.cpp	/^void _7964(){$/;"	f	line:6
+_9935	Backjoon/rand.cpp	/^void _9935(){$/;"	f	line:17
+a	Backjoon/1026.cpp	/^int a[MAX_N], b[MAX_N], n;$/;"	v	line:7
+a	MeetingRoom.cpp	/^int N,a[MAX_N],b[MAX_N],c[MAX_N],d[MAX_N];$/;"	v	line:10
+a	RunningMedian.cpp	/^	int seed,a,b;$/;"	m	line:12	struct:RNG	file:
+abs	kakao_C.cpp	/^int abs(int a){$/;"	f	line:15
+abs	pi.cpp	/^int abs(int &a){$/;"	f	line:16
+abs	snail.cpp	/^double abs(double a,int exp){$/;"	f	line:24
+absPicture	kakao_B.cpp	/^int absPicture(int a, int b){$/;"	f	line:12
+add	Backjoon/2250.cpp	/^void nodeChain::add(treeNode *node, int _a){$/;"	f	line:74	class:nodeChain
+add	ClocksyncReview.cpp	/^void add(int index){$/;"	f	line:25
+add	MeasureTime.cpp	/^	void add(int index, int value){$/;"	f	line:25	struct:fenwickTree
+add	SoLong.cpp	/^	trieNode* add(char _str[],int _cnt, int _it){$/;"	f	line:21	struct:trieNode
+addChildAt	Backjoon/1991.cpp	/^void treeChain::addChildAt(char name, char leftname, char rightname){$/;"	f	line:25	class:treeChain
+addCnt	Backjoon/1914.cpp	/^void addCnt(int index, int add){$/;"	f	line:22
+addDolls	Dolls.cpp	/^void chainDolls::addDolls(long index, long count){$/;"	f	line:55	class:chainDolls
+addTo	FanMeeting.cpp	/^void addTo(vector<int> &a, vector<int> &b, int k){$/;"	f	line:13
+adjust	Backjoon/2250.cpp	/^int nodeChain::adjust(treeNode *node, int rootLo){$/;"	f	line:86	class:nodeChain
+adjust	Backjoon/2250_2.cpp	/^int adjust(int _num, int _location){$/;"	f	line:34
+ahoCorasick	AhoCorasick.cpp	/^vector<pair<int,int> > ahoCorasick(const string &s, TrieNode* root){$/;"	f	line:49
+amountFactor	Pass486.cpp	/^int amountFactor[MAX + 1];$/;"	v	line:14
+area	vector2.h	/^double area(const vector<vector2> &p){$/;"	f	line:101
+arr	FamilyTree.cpp	/^int arr[MAX_N],pPath[MAX_N];$/;"	v	line:11
+at	Fossil.cpp	/^double at(const point &a, const point &b, double x){$/;"	f	line:30
+b	Backjoon/1026.cpp	/^int a[MAX_N], b[MAX_N], n;$/;"	v	line:7
+b	Backjoon/1149.cpp	/^	int r, g, b;$/;"	m	line:10	struct:RGB	file:
+b	Backjoon/2250.cpp	/^	int b, c;$/;"	m	line:35	struct:inputTable	file:
+b	Backjoon/2448_2.cpp	/^char b[MAX_LANGTH][(MAX_LANGTH + 1) * 2];$/;"	v	line:7
+b	Backjoon/2931.cpp	/^const char b[7] = {'|','-','+','1','2','3','4'};$/;"	v	line:9
+b	Backjoon/8979.cpp	/^	int g, s, b, num, rank;$/;"	m	line:12	struct:medal	file:
+b	Backjoon/8979_2.cpp	/^	int g, s, b, num, rank;$/;"	m	line:12	struct:medal	file:
+b	MeetingRoom.cpp	/^int N,a[MAX_N],b[MAX_N],c[MAX_N],d[MAX_N];$/;"	v	line:10
+b	RunningMedian.cpp	/^	int seed,a,b;$/;"	m	line:12	struct:RNG	file:
+back	Backjoon/5430_3.cpp	/^	int back;$/;"	m	line:12	struct:my_deque	file:
+back_print	Backjoon/5430_3.cpp	/^	void back_print(){$/;"	f	line:48	struct:my_deque
+base	Arctic2.cpp	/^vector<pair<float,float> > base;$/;"	v	line:16
+best	Allergy.cpp	/^int n,m, best;$/;"	v	line:26
+best	BoardCover2.cpp	/^int best;$/;"	v	line:16
+between	Fossil.cpp	/^bool between(const point &a, const point &b, double x){$/;"	f	line:27
+bfs	Backjoon/1260.cpp	/^void bfs(){$/;"	f	line:40
+binary	Arctic2.cpp	/^double binary(){$/;"	f	line:87
+bino	Morse.cpp	/^int bino[201][201];$/;"	v	line:95
+bitCount	Graduation.cpp	/^int bitCount(int a){$/;"	f	line:14
+block	BlockGame.cpp	/^vector<int> block;$/;"	v	line:23
+blockGame	BlockGame.cpp	/^int blockGame(){$/;"	f	line:106
+blockSize	BoardCover2.cpp	/^int blockSize = 0;$/;"	v	line:13
+board	Backjoon/1018.cpp	/^char board[50][50];$/;"	v	line:7
+board	Backjoon/11559.cpp	/^char board[MAX_N][MAX_M];$/;"	v	line:13
+board	Backjoon/11559_2.cpp	/^char board[MAX_N][MAX_M];$/;"	v	line:11
+board	Backjoon/1260.cpp	/^int board[1000][1000];$/;"	v	line:10
+board	Backjoon/14502.cpp	/^int board[MAX_NM][MAX_NM];$/;"	v	line:11
+board	Backjoon/1520.cpp	/^int board[MAX_N][MAX_N];$/;"	v	line:9
+board	Backjoon/1520_2.cpp	/^int board[MAX_N][MAX_N];$/;"	v	line:10
+board	Backjoon/1600.cpp	/^int board[MAX_WH][MAX_WH];$/;"	v	line:15
+board	Backjoon/1600_2.cpp	/^int board[MAX_WH][MAX_WH];$/;"	v	line:16
+board	Backjoon/1726.cpp	/^int board[MAX_N][MAX_N];$/;"	v	line:13
+board	Backjoon/1890.cpp	/^int board[MAX_N][MAX_N];$/;"	v	line:10
+board	Backjoon/1938.cpp	/^char board[MAX_N][MAX_N];$/;"	v	line:20
+board	Backjoon/2096.cpp	/^int board[MAX_N][3];$/;"	v	line:10
+board	Backjoon/2096_2.cpp	/^char board[MAX_N][3];$/;"	v	line:10
+board	Backjoon/2178.cpp	/^bool board[MAX_N][MAX_N];$/;"	v	line:11
+board	Backjoon/2178_v2.cpp	/^char board[MAX_N][MAX_N];$/;"	v	line:9
+board	Backjoon/2206.cpp	/^char board[MAX_N][MAX_N];$/;"	v	line:9
+board	Backjoon/2573.cpp	/^int board[MAX_N][MAX_N];$/;"	v	line:11
+board	Backjoon/2573_2.cpp	/^int board[MAX_N][MAX_N];$/;"	v	line:10
+board	Backjoon/2580.cpp	/^int board[LINE][LINE];$/;"	v	line:5
+board	Backjoon/2583.cpp	/^int board[MAX_N][MAX_N];$/;"	v	line:9
+board	Backjoon/2931.cpp	/^char board[MAX_N][MAX_N];$/;"	v	line:13
+board	Backjoon/7576.cpp	/^int board[MAX_N][MAX_N];$/;"	v	line:9
+board	Backjoon/9663.cpp	/^int board[MAX_N][MAX_N];$/;"	v	line:7
+board	Kakuro2.cpp	/^int n, board[MAX_N][MAX_N];$/;"	v	line:12
+board	algospot9th/park.cpp	/^int board[MAX_N][MAX_N];$/;"	v	line:12
+board	samsung/1767.cpp	/^int board[MAX_N][MAX_N];$/;"	v	line:10
+board	samsung/7830.cpp	/^char board[MAX_N][MAX_N];$/;"	v	line:11
+brian	kakao_D.cpp	/^string brian(string str){$/;"	f	line:7
+brunch	BoardCover2.cpp	/^bool brunch(int placed){$/;"	f	line:30
+build	Backjoon/6593.cpp	/^char build[MAX_L][MAX_R][MAX_C];$/;"	v	line:36
+byte_to_binary	BlockGame.cpp	/^const char *byte_to_binary(int x)$/;"	f	line:26
+c	Backjoon/2250.cpp	/^	int b, c;$/;"	m	line:35	struct:inputTable	file:
+c	Dragon.cpp	/^int c,n,p,l;$/;"	v	line:7
+c	Duathlon.cpp	/^double r[MAX_N],c[MAX_N];$/;"	v	line:12
+c	Graduation.cpp	/^int c;$/;"	v	line:11
+c	KLIS.cpp	/^int n,c,k;$/;"	v	line:123
+c	MeetingRoom.cpp	/^int N,a[MAX_N],b[MAX_N],c[MAX_N],d[MAX_N];$/;"	v	line:10
+c	NumberGame.cpp	/^int c,n, Board[MAX_N];$/;"	v	line:16
+c	Restore.cpp	/^int c,k;$/;"	v	line:19
+c	WithdRawal.cpp	/^int c[MAX_N],r[MAX_N];$/;"	v	line:11
+c	Zimbabwe.cpp	/^int c,m,n;$/;"	v	line:17
+c	algospot9th/sfw.cpp	/^int r0,c0,r,c;$/;"	v	line:11
+c	samsung/1767.cpp	/^int c;$/;"	v	line:14
+c0	algospot9th/sfw.cpp	/^int r0,c0,r,c;$/;"	v	line:11
+cToD	Backjoon/2931.cpp	/^vector<pair<int, int> > cToD[7];$/;"	v	line:10
+cToI	Backjoon/1036.cpp	/^map<char, int> cToI;$/;"	v	line:12
+cache	Backjoon/1003.cpp	/^int cache[41][2];$/;"	v	line:5
+cache	Backjoon/1006.cpp	/^int cache[MAX_N * 2];$/;"	v	line:26
+cache	Backjoon/1006_2.cpp	/^int cache[MAX_N + 1][MAX_N + 1];$/;"	v	line:12
+cache	Backjoon/1006_3.cpp	/^int cache[MAX_N + 5][2];$/;"	v	line:12
+cache	Backjoon/1006_4.cpp	/^int cache[10005][2];$/;"	v	line:9
+cache	Backjoon/1014.cpp	/^int cache[MAX_N][MAX_N][1<<10][2];$/;"	v	line:11
+cache	Backjoon/1020_2.cpp	/^int cache[16][110][2];$/;"	v	line:9
+cache	Backjoon/1021.cpp	/^int cache[50][50];$/;"	v	line:11
+cache	Backjoon/1021_2.cpp	/^int cache[51][51];$/;"	v	line:12
+cache	Backjoon/1102.cpp	/^int cache[1<<MAX_N];$/;"	v	line:10
+cache	Backjoon/1149.cpp	/^int cache[MAX_N][1<<3], n;$/;"	v	line:14
+cache	Backjoon/11559_2.cpp	/^bool cache[MAX_N][MAX_M];$/;"	v	line:12
+cache	Backjoon/11726.cpp	/^int cache[MAX_N];$/;"	v	line:9
+cache	Backjoon/11727.cpp	/^int cache[MAX_N];$/;"	v	line:9
+cache	Backjoon/1463.cpp	/^int cache[1000001];$/;"	v	line:8
+cache	Backjoon/1509.cpp	/^int cache[MAX_N];$/;"	v	line:8
+cache	Backjoon/1520.cpp	/^int cache[MAX_N][MAX_N];$/;"	v	line:10
+cache	Backjoon/1520_2.cpp	/^int cache[MAX_N][MAX_N];$/;"	v	line:11
+cache	Backjoon/1600.cpp	/^int cache[MAX_K][MAX_WH][MAX_WH];$/;"	v	line:16
+cache	Backjoon/1600_2.cpp	/^bool cache[MAX_K][MAX_WH][MAX_WH];$/;"	v	line:17
+cache	Backjoon/1648.cpp	/^int cache[1<<14][MAX_N];$/;"	v	line:41
+cache	Backjoon/1890.cpp	/^int64 cache[MAX_N][MAX_N];$/;"	v	line:9
+cache	Backjoon/1932.cpp	/^int cache[MAX][MAX];$/;"	v	line:10
+cache	Backjoon/1949.cpp	/^int cache[MAX_N][2];$/;"	v	line:25
+cache	Backjoon/2096.cpp	/^int cache[MAX_N + 1][3][2];$/;"	v	line:11
+cache	Backjoon/2098.cpp	/^int cache[MAX_N][FINISH];$/;"	v	line:12
+cache	Backjoon/2133.cpp	/^int cache[30][3];$/;"	v	line:6
+cache	Backjoon/2156.cpp	/^int cache[MAX_N][2];$/;"	v	line:8
+cache	Backjoon/2482.cpp	/^int cache [MAX_N][MAX_N];$/;"	v	line:9
+cache	Backjoon/2579.cpp	/^int cache[MAX_JUMP][MAX_CNT + 1];$/;"	v	line:10
+cache	Backjoon/3980.cpp	/^int cache[11][1<<11];$/;"	v	line:7
+cache	Backjoon/6593.cpp	/^bool cache[MAX_L][MAX_R][MAX_C];$/;"	v	line:37
+cache	Backjoon/9095.cpp	/^int cache[MAX + 1];$/;"	v	line:8
+cache	Backjoon1003.cpp	/^int cache[41][2];$/;"	v	line:5
+cache	BlockGame.cpp	/^char input,cache[1<<25];$/;"	v	line:22
+cache	Braveduck.cpp	/^int cache[MAX_N + 2], jump, N;$/;"	v	line:17
+cache	CogiRun.cpp	/^int cache[MAX_W];$/;"	v	line:182
+cache	Darpa.cpp	/^float dif[MAX_M][MAX_M],cache[MAX_M][MAX_M];$/;"	v	line:60
+cache	Darpa_sol.cpp	/^int dif[MAX_M][MAX_M],cache[MAX_M][MAX_M];$/;"	v	line:73
+cache	Escapegees.cpp	/^int cache[MAX_K + 1][MAX_N + 1];$/;"	v	line:81
+cache	GggCccDdd.cpp	/^int cache[1001][1001];$/;"	v	line:20
+cache	Graduation.cpp	/^int cache[1<<MAX_N][MAX_M];$/;"	v	line:32
+cache	MaxSum.cpp	/^int cache[MAX];$/;"	v	line:10
+cache	MeetingRoom.cpp	/^int cache[MAX_N];$/;"	v	line:11
+cache	Minas.cpp	/^int cache[MAX_N + 1][MAX_N + 1];$/;"	v	line:23
+cache	Morse.cpp	/^int cache[100][100];$/;"	v	line:69
+cache	NPoly.cpp	/^int cache[MAX_N + 1][MAX_N],n;$/;"	v	line:9
+cache	NumberGame.cpp	/^int cache[MAX_N][MAX_N];$/;"	v	line:17
+cache	OCR.cpp	/^double cache[102][502];$/;"	v	line:10
+cache	OCRSol.cpp	/^double cache[102][502]; \/\/1로 초기화$/;"	v	line:35
+cache	Packing.cpp	/^int cache[1001][100];$/;"	v	line:18
+cache	Poly.cpp	/^int cache[101][101];$/;"	v	line:8
+cache	Restore.cpp	/^int cache[16][1<<16];$/;"	v	line:22
+cache	Restore2.cpp	/^int overlap[MAX_K][MAX_K], cache[MAX_K][1<<MAX_K];$/;"	v	line:137
+cache	Tictactoe.cpp	/^int cache[19683];$/;"	v	line:21
+cache	WildCard.cpp	/^int cache[101][101];$/;"	v	line:37
+cache	Zimbabwe.cpp	/^int cache[20][1<<14][2];$/;"	v	line:22
+cache	kakao_C.cpp	/^string cache[25][1<<25];$/;"	v	line:115
+cache	line/najab.cpp	/^int cache[MAX_X+1];$/;"	v	line:12
+cache	samsung/7830.cpp	/^int cache[MAX_N][MAX_N][4];$/;"	v	line:12
+cache	samsung/7964.cpp	/^int cache[MAX_N + 2];$/;"	v	line:10
+cache	samsung/7964_2.cpp	/^int cache[MAX_N + 2];$/;"	v	line:10
+cache	samsung/7964_3.cpp	/^int cache[MAX_N + 2];$/;"	v	line:11
+cache	samsung/7964_5.cpp	/^int cache[MAX_N + 2];$/;"	v	line:10
+cache	samsung/7964_6.cpp	/^int cache[MAX_N + 2];$/;"	v	line:10
+cache	snail.cpp	/^double cache[MAX_N][2*MAX_N + 1];$/;"	v	line:8
+cacheCnt	KLIS.cpp	/^int cacheLen[501],cacheCnt[501],S[501];$/;"	v	line:124
+cacheLen	KLIS.cpp	/^int cacheLen[501],cacheCnt[501],S[501];$/;"	v	line:124
+cachePreper	Sushi2.cpp	/^int cachePreper[201];$/;"	v	line:13
+cachePrice	Sushi2.cpp	/^int cachePrice;$/;"	v	line:14
+cacheX	kakao_C.cpp	/^int cacheX[MAX_M];$/;"	v	line:33
+cal	Backjoon/1463.cpp	/^int cal(int n){$/;"	f	line:10
+cal	Csbaseball.cpp	/^int cal(int &a, int &b){$/;"	f	line:6
+cal	JeahaSafe.cpp	/^int cal(){$/;"	f	line:56
+cal2	JeahaSafe.cpp	/^int cal2(){$/;"	f	line:90
+calBit	Backjoon/1102.cpp	/^int calBit(){$/;"	f	line:21
+calOverlap	Restore2.cpp	/^int calOverlap(string a, string b){$/;"	f	line:176
+calSize	Insertion2.cpp	/^	void calSize(){$/;"	f	line:14	struct:treapNode
+calc	Kakao_B.cpp	/^double calc(vector<int> &a){$/;"	f	line:32
+calc	Minas.cpp	/^bool calc(int pre, int now){$/;"	f	line:24
+calc	Restore2.cpp	/^void calc(vector<string> &a){$/;"	f	line:186
+calc	Sushi2.cpp	/^int calc(int budge){$/;"	f	line:37
+calcBino	Morse.cpp	/^void calcBino(){$/;"	f	line:96
+calcOverlap	Restore.cpp	/^int calcOverlap(string a, string b){$/;"	f	line:25
+calcSize	Insertion.cpp	/^	void calcSize(){$/;"	f	line:26	struct:tripNode
+calcSize	Trip.h	/^	void calcSize(){$/;"	f	line:10	struct:tripNode
+calcul	Sushi.cpp	/^int calcul(int &m, int &n){$/;"	f	line:26
+calcul	sushi2.cpp	/^int calcul(int &m, int &n){$/;"	f	line:27
+canGo	Backjoon/1520.cpp	/^bool canGo(int h, int y, int x){$/;"	f	line:12
+canGo	Backjoon/2178.cpp	/^bool canGo(int y, int x){$/;"	f	line:15
+canMove	Backjoon/1600.cpp	/^bool canMove(int y, int x, int dy, int dx){$/;"	f	line:20
+canMove	Backjoon/1600_2.cpp	/^bool canMove(int y, int x, int dy, int dx){$/;"	f	line:19
+canMove	Backjoon/6593.cpp	/^bool canMove(point p, int i){$/;"	f	line:39
+candidates	Kakuro2.cpp	/^int candidates[10][46][1024];$/;"	v	line:15
+carry	Packing.cpp	/^int carry[100];$/;"	v	line:17
+ccw	Pinball.cpp	/^double ccw(vector2 &a, vector2 &b ){$/;"	f	line:55
+ccw	Pinball.cpp	/^}double ccw(vector2 &p,vector2 &a, vector2 &b ){$/;"	f	line:57
+ccw	vector2.h	/^double ccw(vector2 a, vector2 b){\/\/ 원점에서 b가 a의 반시계 방향이면 양수, 평행이면 0, 시계 방향이면 음수반환$/;"	f	line:48
+ccw	vector2.h	/^double ccw(vector2 p,vector2 a, vector2 b){\/\/p를 기준으로 에서 b가 a의 반시계 방향이면 양수, 평행이면 0, 시계 방향이면 음수반환$/;"	f	line:52
+ceil	Quantization.cpp	/^int ceil(float &a){$/;"	f	line:8
+ch	Backjoon/15998_2.cpp	/^ll ch(ll a){$/;"	f	line:14
+ch	Backjoon/15998_3.cpp	/^ll ch(ll a){$/;"	f	line:14
+chainDolls	Dolls.cpp	/^chainDolls::chainDolls(){$/;"	f	line:51	class:chainDolls
+chainDolls	Dolls.cpp	/^struct chainDolls{$/;"	s	line:44	file:
+chainDolls	Dolls.cpp	/^}typedef chainDolls;$/;"	t	line:50	file:
+chair	Backjoon/1014.cpp	/^int chair[MAX_N][MAX_N];$/;"	v	line:10
+change	Backjoon/1036.cpp	/^map<char, bool> change;$/;"	v	line:13
+change	ClockSyn.cpp	/^void change(int i,int *clock){$/;"	f	line:32
+chart	Allergy.cpp	/^int chart[MAX_N][MAX_N], list[MAX_N];$/;"	v	line:25
+check	Backjoon/1102.cpp	/^bool check(int sel){$/;"	f	line:14
+check	Bracket2.cpp	/^bool check(string &s){$/;"	f	line:14
+check	WildCard.cpp	/^bool check(string a){$/;"	f	line:18
+check	samsung/7830.cpp	/^bool check(int y, int x){$/;"	f	line:20
+check	samsung/7853.cpp	/^bool check[30];$/;"	v	line:10
+checkAround	Backjoon/1014.cpp	/^bool checkAround(int y, int x){$/;"	f	line:20
+checkClock	ClocksyncReview.cpp	/^bool checkClock(){$/;"	f	line:20
+checkCondition	kakao_B.cpp	/^bool checkCondition(int index){$/;"	f	line:18
+checkList	Allergy.cpp	/^bool checkList(){$/;"	f	line:59
+checkPass	Arctic.cpp	/^bool checkPass(vector<bool> &pass){$/;"	f	line:8
+checkPoint	Kakao_D.cpp	/^vector<pair<int, int> > checkPoint;$/;"	v	line:7
+checkSwitch	ClockSyn.cpp	/^bool checkSwitch(int *path,int num){$/;"	f	line:25
+child	FamilyTree_book.cpp	/^vector<int> child[MAX_N];$/;"	v	line:36
+child	SoLong.cpp	/^	vector< trieNode* > child;$/;"	m	line:15	struct:trieNode	file:
+childChar	SoLong.cpp	/^	vector< char > childChar;$/;"	m	line:16	struct:trieNode	file:
+children	AhoCorasick.cpp	/^	vector< TrieNode* > children; $/;"	m	line:19	struct:TrieNode	file:
+children	Fortress.cpp	/^	vector<treeNode*> children;$/;"	m	line:14	struct:treeNode	file:
+childrenL	RunningMedian.cpp	7;"	d	line:7	file:
+childrenR	RunningMedian.cpp	8;"	d	line:8	file:
+choice	OCR.cpp	/^int choice[102][502],R[500];$/;"	v	line:11
+choice	OCRSol.cpp	/^int choice[102][502];$/;"	v	line:33
+circle	Pinball.cpp	/^vector<pair<vector2,int> > circle;$/;"	v	line:61
+circleInfo	Fortress.cpp	/^	explicit circleInfo(int _x,int _y,int _r):x(_x),y(_y),r(_r){};$/;"	f	line:11	struct:circleInfo
+circleInfo	Fortress.cpp	/^struct circleInfo{$/;"	s	line:9	file:
+circleInfo	Fortress.cpp	/^}typedef circleInfo;$/;"	t	line:12	file:
+circleList	Josephus.cpp	/^circleList::circleList(){$/;"	f	line:25	class:circleList
+circleList	Josephus.cpp	/^struct circleList{$/;"	s	line:17	file:
+circleList	Josephus.cpp	/^}typedef circleList;$/;"	t	line:23	file:
+classified	OCRSol.cpp	/^int classified[100];$/;"	v	line:19
+cmp	Backjoon/10610.cpp	/^bool cmp(int a, int b){$/;"	f	line:12
+cmp	Backjoon/1427.cpp	/^bool cmp(char a, char b){$/;"	f	line:9
+cmp	Backjoon/2250_2.cpp	/^bool cmp(const treeNode &a,const treeNode &b){$/;"	f	line:47
+cmp	Backjoon/9237.cpp	/^bool cmp(int a, int b){$/;"	f	line:11
+cmpMax	Backjoon/1026.cpp	/^bool cmpMax(int A, int B){$/;"	f	line:9
+cmpMin	Backjoon/1026.cpp	/^bool cmpMin(int A, int B){$/;"	f	line:12
+cnt	Backjoon/1648.cpp	/^int cnt(int a){$/;"	f	line:44
+cnt	Backjoon/1914.cpp	/^int cnt[10000];$/;"	v	line:8
+coin	Backjoon/11047.cpp	/^int coin[MAX_N], n, k;$/;"	v	line:7
+commonPrefix	Habit.cpp	/^int commonPrefix(const string &s, int i, int j){$/;"	f	line:53
+compare36	Backjoon/1036.cpp	/^bool compare36(string &s1,string &s2){$/;"	f	line:32
+completeStr	kakao_B.cpp	/^char completeStr[9];$/;"	v	line:9
+completedString	Restore.cpp	/^string completedString = "";$/;"	v	line:63
+composition	OCRSol.cpp	/^int composition, wordNum, sentenceNum;$/;"	v	line:15
+computeFailFunc	AhoCorasick.cpp	/^void computeFailFunc(TrieNode* root){$/;"	f	line:23
+confirm	Backjoon/2250_2.cpp	/^void confirm(){$/;"	f	line:21
+conjString	Restore.cpp	/^string conjString(string newStr, string addStr){$/;"	f	line:64
+convertStd	stdConvert.h	/^	convertStd(char *in,char *out){$/;"	f	line:11	class:convertStd
+convertStd	stdConvert.h	/^class convertStd{$/;"	c	line:9
+convertToRange	Minas.cpp	/^void convertToRange(){$/;"	f	line:56
+core	samsung/1767.cpp	/^int core[MAX_N][2];$/;"	v	line:13
+corpus	OCR.cpp	/^string corpus[501];$/;"	v	line:74
+cost	Backjoon/1006_4.cpp	/^int cost[10005][2];$/;"	v	line:8
+cost	Backjoon/1102.cpp	/^int cost[MAX_N][MAX_N];$/;"	v	line:9
+cost	samsung/7966.cpp	/^int64 value, cost, tmp;$/;"	v	line:15
+cost	samsung/7966_3.cpp	/^int value, cost, tmp;$/;"	v	line:16
+count	ClockSyn.cpp	/^int count = 0;$/;"	v	line:18
+count	Dolls.cpp	/^	long index,count;$/;"	m	line:35	struct:dolls	file:
+count	Jumpgame.cpp	/^int count = 0;$/;"	v	line:7
+countLessThan	Insertion2.cpp	/^int countLessThan(treapNode *root, int key){$/;"	f	line:119
+countSearch	KLIS.cpp	/^int countSearch(int start){$/;"	f	line:138
+countSubStringMaxLength	Habit.cpp	/^int countSubStringMaxLength(){$/;"	f	line:75
+countSubstring	Habit.cpp	/^int countSubstring(const string &s){$/;"	f	line:61
+cover	BoardCover.cpp	/^bool cover(vector<vector<int> > &board, int index ,int y, int x){$/;"	f	line:22
+coverType	BoardCover.cpp	/^const int coverType[4][3][2] = {$/;"	v	line:7
+coverd	BoardCover2.cpp	/^int coverd[10][10];$/;"	v	line:15
+cross	Pinball.cpp	/^	double cross(const vector2 &rhs) const{$/;"	f	line:47	struct:vector2
+cross	vector2.h	/^	double cross(const vector2& rhs) const{$/;"	f	line:38	struct:vector2
+cutPoly	Tresure.cpp	/^polygon cutPoly(const polygon &p, const vector2& a, vector2& b){$/;"	f	line:18
+cycle	Backjoon/1110.cpp	/^int cycle(){$/;"	f	line:9
+cycleNum	Backjoon/1110.cpp	/^int cycleNum[2];$/;"	v	line:7
+d	Backjoon/11559.cpp	/^const int d[4][2] = {{-1,0},{0,-1},{1,0},{0,1}};$/;"	v	line:11
+d	Backjoon/11559_2.cpp	/^const int d[4][2] = {{-1,0},{0,-1},{1,0},{0,1}};$/;"	v	line:9
+d	Backjoon/14502.cpp	/^const int d[4][2] = {{-1,0},{1,0},{0,-1},{0,1}};$/;"	v	line:9
+d	Backjoon/1520.cpp	/^const int d[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};$/;"	v	line:6
+d	Backjoon/1520_2.cpp	/^const int d[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};$/;"	v	line:7
+d	Backjoon/1726.cpp	/^const int d[4][2] = {{0,1},{0,-1},{1,0},{-1,0}};$/;"	v	line:11
+d	Backjoon/1890.cpp	/^const int d[2][2] = {{1,0},{0,1}};$/;"	v	line:7
+d	Backjoon/1938.cpp	/^const int d[4][2] = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};$/;"	v	line:18
+d	Backjoon/2096.cpp	/^const int d[3] = {-1, 0, 1};$/;"	v	line:9
+d	Backjoon/2096_2.cpp	/^const int d[3] = {-1, 0, 1};$/;"	v	line:9
+d	Backjoon/2178.cpp	/^const int d[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};$/;"	v	line:13
+d	Backjoon/2178_v2.cpp	/^int d[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};$/;"	v	line:11
+d	Backjoon/2206.cpp	/^const int d[4][2] = {{1,0},{0,1},{-1,0},{0,-1}};$/;"	v	line:8
+d	Backjoon/2573.cpp	/^int d[4][2] = {{0, 1}, {1, 0}, {-1, 0}, {0, -1}};$/;"	v	line:10
+d	Backjoon/2573_2.cpp	/^const int d[4][2] = {{1, 0},{0, 1}, {-1, 0}, {0, -1}};$/;"	v	line:14
+d	Backjoon/2583.cpp	/^const int d[4][2] = {{-1,0},{1,0},{0,-1},{0,1}};$/;"	v	line:11
+d	Backjoon/2931.cpp	/^const int d[4][2] = {{1, 0}, {0, 1}, { -1, 0}, {0, -1}};$/;"	v	line:8
+d	Backjoon/6593.cpp	/^const int d[6][3] ={{1,0,0},{-1,0,0},{0,1,0},{0,-1,0},{0,0,1},{0,0,-1}};$/;"	v	line:12
+d	Backjoon/7576.cpp	/^const int d[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};$/;"	v	line:8
+d	Backjoon/9663.cpp	/^const int d[8][2] = {{1,0},{1,1},{0, 1},{-1, 1}, {-1, 0}, {-1, -1}, {0, -1}, {1, -1}};$/;"	v	line:6
+d	MeetingRoom.cpp	/^int N,a[MAX_N],b[MAX_N],c[MAX_N],d[MAX_N];$/;"	v	line:10
+d	NumB3RS.cpp	/^int C,n,d,p,t,q;$/;"	v	line:7
+d	samsung/7830.cpp	/^const int d[4][2] = {{-1,-1},{-1,1},{1,1},{1,-1}};$/;"	v	line:9
+d	samsung/7964.cpp	/^int n, d;$/;"	v	line:12
+d	samsung/7964_2.cpp	/^int n, d;$/;"	v	line:12
+d	samsung/7964_3.cpp	/^int n, d;$/;"	v	line:13
+d	samsung/7964_4.cpp	/^int n, d;$/;"	v	line:12
+d	samsung/7964_5.cpp	/^int n, d;$/;"	v	line:12
+d	samsung/7964_6.cpp	/^int n, d;$/;"	v	line:12
+decision	Arctic2.cpp	/^bool decision(double d){$/;"	f	line:68
+decision	Darpa.cpp	/^bool decision(double gap){$/;"	f	line:36
+deck	Backjoon/1929.cpp	/^char deck[1000001];$/;"	v	line:8
+decompose	Fossil.cpp	/^void decompose(const vector<point>& hull){$/;"	f	line:18
+deeper	Dragon.cpp	/^void deeper(string input, int index){$/;"	f	line:47
+deleteInclude	Nerd2.cpp	/^void deleteInclude(int x, int y){$/;"	f	line:16
+deleteNode	Insertion.cpp	/^tripNode* deleteNode(tripNode *root){$/;"	f	line:73
+deleteNode	Trip.h	/^tripNode *deleteNode(tripNode *node){$/;"	f	line:50
+deleteTreap	Insertion2.cpp	/^treapNode *deleteTreap(treapNode *root,int key){$/;"	f	line:81
+depth	EditerWar.cpp	/^	int group[MAX_N], enermy[MAX_N], size[MAX_N], depth[MAX_N];$/;"	m	line:13	struct:unionFindTree	file:
+depth	FamilyTree_book.cpp	/^int locInTrip[MAX_N], depth[MAX_N];$/;"	v	line:38
+dfs	Backjoon/1260.cpp	/^void dfs(){$/;"	f	line:13
+dh	Backjoon/1600.cpp	/^const int dh[8][2] = {{-1,-2},{1,-2},{-2,-1},{2,-1},{-2,1},{2,1},{-1,2},{1,2}};$/;"	v	line:10
+dh	Backjoon/1600_2.cpp	/^const int dh[8][2] = {{-1,-2},{1,-2},{-2,-1},{2,-1},{-2,1},{2,1},{-1,2},{1,2}};$/;"	v	line:11
+dif	Darpa.cpp	/^float dif[MAX_M][MAX_M],cache[MAX_M][MAX_M];$/;"	v	line:60
+dif	Darpa_sol.cpp	/^int dif[MAX_M][MAX_M],cache[MAX_M][MAX_M];$/;"	v	line:73
+diff	Duathlon.cpp	/^double diff(double d){$/;"	f	line:17
+differential	Roots.cpp	/^vector<double> differential(vector<double> degree){$/;"	f	line:19
+digits	Zimbabwe.cpp	/^string digits;$/;"	v	line:106
+dirction	Pinball.cpp	/^vector2 now, dirction;$/;"	v	line:62
+direct	Backjoon/1726.cpp	/^	int y, x, direct, level;$/;"	m	line:22	struct:point	file:
+directionLocated	CanadaTrip.cpp	/^vector<int> directionLocated;$/;"	v	line:15
+dis	Arctic2.cpp	/^double dis[MAX_N][MAX_N];$/;"	v	line:17
+dis	Braveduck.cpp	/^double dis[MAX_N + 3][MAX_N + 3];$/;"	v	line:16
+disCnt	Backjoon/1914.cpp	/^}void disCnt(int index, int dis){$/;"	f	line:27
+distance	Backjoon/1011.cpp	/^int64 distance;$/;"	v	line:7
+distance	FamilyTree_book.cpp	/^int distance(RMQ * rmq, int u, int v){$/;"	f	line:61
+dm	Backjoon/1600.cpp	/^const int dm[4][2] = {{-1,0},{1,0},{0,-1},{0,1}};$/;"	v	line:11
+dm	Backjoon/1600_2.cpp	/^const int dm[4][2] = {{-1,0},{1,0},{0,-1},{0,1}};$/;"	v	line:12
+dolls	Dolls.cpp	/^dolls::dolls(long a, long b){$/;"	f	line:39	class:dolls
+dolls	Dolls.cpp	/^struct dolls{$/;"	s	line:34	file:
+dolls	Dolls.cpp	/^}typedef dolls;$/;"	t	line:38	file:
+door	samsung/7964.cpp	/^bool door[MAX_N + 2];$/;"	v	line:11
+door	samsung/7964_2.cpp	/^bool door[MAX_N + 2];$/;"	v	line:11
+door	samsung/7964_3.cpp	/^bool door[MAX_N + 2];$/;"	v	line:12
+door	samsung/7964_5.cpp	/^bool door[MAX_N + 2];$/;"	v	line:11
+door	samsung/7964_6.cpp	/^bool door[MAX_N + 2];$/;"	v	line:11
+dot	Pinball.cpp	/^	double dot(const vector2 &rhs) const{$/;"	f	line:44	struct:vector2
+dot	vector2.h	/^	double dot(const vector2& rhs) const{$/;"	f	line:35	struct:vector2
+down	CogiRun.cpp	/^int down(int locate, int jump){$/;"	f	line:142
+dp	Backjoon/1020_test.cpp	/^int dp[16][110][2];$/;"	v	line:13
+dq	Backjoon/1021_2.cpp	/^deque<int> dq;$/;"	v	line:11
+drop	Backjoon/11559.cpp	/^stack<pair<int, int> > drop(stack<pair<int, int> > &s){$/;"	f	line:16
+drop	Backjoon/11559_2.cpp	/^bool drop(int _y, int _x){$/;"	f	line:18
+dx	Boggle.cpp	/^const int dx[8]={-1,-1,-1,0,1,1,1,0};$/;"	v	line:7
+dx	picnic.cpp	/^const int dx[8]={-1,-1,-1,0,1,1,1,0};$/;"	v	line:8
+dy	Boggle.cpp	/^const int dy[8]={-1,0,1,1,1,0,-1,-1};$/;"	v	line:8
+dy	picnic.cpp	/^const int dy[8]={-1,0,1,1,1,0,-1,-1};$/;"	v	line:9
+dynamic	Darpa.cpp	/^float dynamic(int index,int select){\/\/ 선택의 최소가 최대가 되도록,$/;"	f	line:67
+dynamic	Darpa_sol.cpp	/^int dynamic(int index,int select){\/\/ 선택의 최소가 최대가 되도록,$/;"	f	line:80
+e	1753_v2.cpp	/^int v,e,k;$/;"	v	line:11
+e	Jumpgame.cpp	/^int e(int a,int b){$/;"	f	line:17
+e	Zimbabwe.cpp	/^long long e;$/;"	v	line:18
+endD	Backjoon/1726.cpp	/^int endX, endY, endD;$/;"	v	line:18
+endS	Backjoon/1938.cpp	/^int endX, endY, endS;$/;"	v	line:24
+endX	Backjoon/1726.cpp	/^int endX, endY, endD;$/;"	v	line:18
+endX	Backjoon/1938.cpp	/^int endX, endY, endS;$/;"	v	line:24
+endY	Backjoon/1726.cpp	/^int endX, endY, endD;$/;"	v	line:18
+endY	Backjoon/1938.cpp	/^int endX, endY, endS;$/;"	v	line:24
+end_p	Backjoon/6593.cpp	/^struct point start_p, end_p;$/;"	v	line:34	typeref:struct:
+enermy	EditerWar.cpp	/^	int group[MAX_N], enermy[MAX_N], size[MAX_N], depth[MAX_N];$/;"	m	line:13	struct:unionFindTree	file:
+era	Backjoon/1016.cpp	/^unsigned char era[MAX_M + 1];$/;"	v	line:8
+erase	Dolls.cpp	/^dolls* chainDolls::erase(dolls *node){$/;"	f	line:70	class:chainDolls
+erase	Josephus.cpp	/^person* circleList::erase(person *iter){$/;"	f	line:42	class:circleList
+eraseField	Backjoon/1012.cpp	/^void eraseField(int y, int x){$/;"	f	line:17
+eratostenes	Pass486.cpp	/^void eratostenes(){$/;"	f	line:18
+expand	Dragon.cpp	/^char expand(string &dragonCurve, int gen, int skip){$/;"	f	line:27
+expectWord	SoLong.cpp	/^	char expectWord[MAX_L + 1];$/;"	m	line:13	struct:trieNode	file:
+expensive	sushi2.cpp	/^int expensive = 0;$/;"	v	line:9
+fail	AhoCorasick.cpp	/^	TrieNode * fail; \/\/실패 연결 노드 ( 이 노드에서 매칭이 실패햇을때 이동할 노드, 점미사면서 trie에 포함된 최대 문자열 )$/;"	m	line:17	struct:TrieNode	file:
+fenwick	MeasureTime.cpp	/^	vector<int> fenwick;$/;"	m	line:10	struct:fenwickTree	file:
+fenwickTree	MeasureTime.cpp	/^	fenwickTree(int n){$/;"	f	line:11	struct:fenwickTree
+fenwickTree	MeasureTime.cpp	/^struct fenwickTree{$/;"	s	line:9	file:
+fibo	Backjoon/1003.cpp	/^int fibo(){$/;"	f	line:7
+fibo	Backjoon1003.cpp	/^int fibo(){$/;"	f	line:7
+field	Backjoon/1012.cpp	/^int field[MAX_N][MAX_N];$/;"	v	line:10
+fill	Backjoon/2583.cpp	/^int fill(int y, int x){$/;"	f	line:13
+findTreeRoot	EditerWar.cpp	/^	int findTreeRoot(int node){$/;"	f	line:34	struct:unionFindTree
+first	Christmas.cpp	/^int first(){$/;"	f	line:16
+first	Quantization.cpp	/^int first(vector<int> &a, int S){$/;"	f	line:67
+first	pi.cpp	/^int first(string &a){$/;"	f	line:57
+first	snail.cpp	/^double first(){$/;"	f	line:18
+first2	Quantization.cpp	/^int first2(vector<int> &a, int S){$/;"	f	line:95
+firstNum	Backjoon/1110.cpp	/^int firstNum[2];$/;"	v	line:6
+floorr	Darpa_sol.cpp	/^type floorr(type data){$/;"	f	line:45
+fri	Allergy.cpp	/^string fri[MAX_N];$/;"	v	line:24
+front	Backjoon/5430_3.cpp	/^	int front;$/;"	m	line:11	struct:my_deque	file:
+front_print	Backjoon/5430_3.cpp	/^	void front_print(){$/;"	f	line:38	struct:my_deque
+g	Backjoon/1149.cpp	/^	int r, g, b;$/;"	m	line:10	struct:RGB	file:
+g	Backjoon/8979.cpp	/^	int g, s, b, num, rank;$/;"	m	line:12	struct:medal	file:
+g	Backjoon/8979_2.cpp	/^	int g, s, b, num, rank;$/;"	m	line:12	struct:medal	file:
+g	Backjoon/9370.cpp	/^int s, g, h;$/;"	v	line:13
+g	Backjoon/9370_2.cpp	/^int s, g, h;$/;"	v	line:13
+gcd	Backjoon/15998.cpp	/^ull gcd(ull a, ull b){$/;"	f	line:9
+gcd	Backjoon/15998_2.cpp	/^ll gcd(ll a, ll b){$/;"	f	line:10
+gcd	Backjoon/15998_3.cpp	/^ll gcd(ll a, ll b){$/;"	f	line:10
+gcd	Backjoon/1934.cpp	/^int gcd(int a, int b){$/;"	f	line:6
+gcd	GggCccDdd.cpp	/^int gcd(int a, int b){$/;"	f	line:9
+gcd	Potion.cpp	/^int gcd(int a, int b){$/;"	f	line:13
+gcd	samsung/7829.cpp	/^int64 gcd(int64 a, int64 b){$/;"	f	line:8
+generate	Morse.cpp	/^void generate(int n, int m, string s){$/;"	f	line:71
+generate2	Morse.cpp	/^void generate2(int n, int m, string s){$/;"	f	line:79
+generate3	Morse.cpp	/^void generate3(int n, int m, string s){$/;"	f	line:104
+generateCnadidates	Kakuro2.cpp	/^void generateCnadidates(){$/;"	f	line:62
+getCandCoord	Kakuro2.cpp	/^int getCandCoord(int y, int x){$/;"	f	line:30
+getCandHint	Kakuro2.cpp	/^int getCandHint(int hint){$/;"	f	line:27
+getCandidate	Kakuro2.cpp	/^int getCandidate(int len, int sum, int known){$/;"	f	line:53
+getCnt	Backjoon/1016.cpp	/^int getCnt(){$/;"	f	line:23
+getCnt	Backjoon/7469.cpp	/^int getCnt(vector< vector<int> > &tree, int node, int start, int end, int left, int right, int k){$/;"	f	line:34
+getConyX	line/najab.cpp	/^int getConyX(int t)$/;"	f	line:14
+getCost	Backjoon/1102.cpp	/^int getCost(int sel, int index){$/;"	f	line:28
+getCost	Backjoon/1149.cpp	/^int getCost(int select, int index){$/;"	f	line:17
+getDistance	Arctic2.cpp	/^double getDistance(int i, int j){$/;"	f	line:27
+getDistance	FamilyTree.cpp	/^int getDistance(int a, int b,int LCA){$/;"	f	line:66
+getDistance	Fortress.cpp	/^double getDistance(circleInfo &c1, circleInfo &c2){$/;"	f	line:17
+getInfoUsingTwo	Mordor.cpp	/^	pathInfo getInfoUsingTwo(pathInfo left, pathInfo right){$/;"	f	line:24	struct:RMQ
+getLCA	FamilyTree.cpp	/^	int getLCA(int a, int b){$/;"	f	line:30	struct:RMQ
+getLeft	Loan.cpp	/^double getLeft(double pay){$/;"	f	line:23
+getLineCnt	Backjoon/1020.cpp	/^int getLineCnt(string &str){$/;"	f	line:20
+getLineCnt	Backjoon/1020_2.cpp	/^int getLineCnt(string &str){$/;"	f	line:12
+getLocate	Decual.cpp	/^void getLocate(const string & a,int &iter, int &start, int &end, int &count, int &next){$/;"	f	line:39
+getLongestLenght	Fortress.cpp	/^int getLongestLenght(treeNode * root){$/;"	f	line:56
+getMachted	Backjoon/9935.cpp	/^vector<int> getMachted(string &s1, string &s2){$/;"	f	line:28
+getMachted	Backjoon/9935_2.cpp	/^vector<int> getMachted(string &s1, string &s2){$/;"	f	line:29
+getMachtedAt	Backjoon/9935_2.cpp	/^vector<int> getMachtedAt(string &s1, string &s2, int at, int to){$/;"	f	line:50
+getMax	EditerWar.cpp	/^	int getMax(){$/;"	f	line:57	struct:unionFindTree
+getMini	Backjoon/1600.cpp	/^int getMini(int k, int y, int x){$/;"	f	line:29
+getMini	Backjoon/1600_2.cpp	/^int getMini(){$/;"	f	line:27
+getMinimum	Backjoon/1011.cpp	/^int64 getMinimum(){$/;"	f	line:9
+getNextTime	Backjoon/1020_2.cpp	/^long long int  getNextTime(int left){$/;"	f	line:48
+getNodeOf	Backjoon/1991.cpp	/^treeNode* treeChain::getNodeOf(char name, treeNode* node){$/;"	f	line:34	class:treeChain
+getOpen	Bracket2.cpp	/^char getOpen(char &a){$/;"	f	line:7
+getPartialMatch	Backjoon/1786.cpp	/^vector<int> getPartialMatch(string &N){$/;"	f	line:8
+getPartialMatch	JeahaSafe2.cpp	/^vector<int> getPartialMatch(const string& s){$/;"	f	line:7
+getProb2	Genius.cpp	/^vector<double> getProb2(){$/;"	f	line:66
+getRagne	Backjoon/2042.cpp	/^long long int getRagne(int nodeL, int nodeR, int node, int l, int r){$/;"	f	line:58
+getRange	Backjoon/1016.cpp	/^void getRange(){$/;"	f	line:14
+getSize	Kakuro2.cpp	/^int getSize(int mask){$/;"	f	line:33
+getString	Backjoon/9935.cpp	/^string getString(string &s1, string &s2){$/;"	f	line:49
+getString	Backjoon/9935_2.cpp	/^string getString(string &s1, string &s2){$/;"	f	line:71
+getSuffixArray	Habit.cpp	/^vector<int> getSuffixArray(const string &s){$/;"	f	line:21
+getSum	Backjoon/17128.cpp	/^int getSum(vector<int> &tree, int node, int start, int end, int left, int right){$/;"	f	line:14
+getSum	Backjoon/2042_2.cpp	/^int64 getSum(vector<int64> &tree, int node, int start, int end, int left, int right){$/;"	f	line:24
+getSum	Kakuro2.cpp	/^int getSum(int mask){$/;"	f	line:42
+getTree	Fortress.cpp	/^treeNode* getTree(vector<circleInfo> &circleSet, circleInfo &circle){$/;"	f	line:41
+getTreeNode	Traversal.cpp	/^treenode* getTreeNode(int &n,int left, int right){$/;"	f	line:18
+getValue	Backjoon/11505.cpp	/^int64 getValue(vector<int64> &tree, int node, int start, int end, int left, int right){$/;"	f	line:26
+getValue	Backjoon/5676.cpp	/^int getValue(vector<int> &tree, int node, int start, int end, int left, int right){$/;"	f	line:18
+getVector	Backjoon/9935.cpp	/^vector<int> getVector(string &s){$/;"	f	line:9
+getVector	Backjoon/9935_2.cpp	/^vector<int> getVector(string &s){$/;"	f	line:10
+getY	Roots.cpp	/^double getY(double x, vector<double> degree){$/;"	f	line:50
+getZero	Backjoon/14502.cpp	/^int getZero(){$/;"	f	line:23
+get_back	Backjoon/5430_3.cpp	/^	int get_back(){$/;"	f	line:20	struct:my_deque
+get_dp	Backjoon/1006_4.cpp	/^int get_dp(int idx, int type)$/;"	f	line:11
+get_front	Backjoon/5430_3.cpp	/^	int get_front(){$/;"	f	line:17	struct:my_deque
+giftWrap	Nerds.cpp	/^polygon giftWrap(const vector<vector2> &points){$/;"	f	line:21
+go	Backjoon/1020_test.cpp	/^ll go(int pos, int left, bool bigger){$/;"	f	line:34
+goRet	Backjoon/1020_test.cpp	/^ll goRet;$/;"	v	line:33
+group	Backjoon/2573.cpp	/^int group[MAX_N][MAX_N];$/;"	v	line:12
+group	EditerWar.cpp	/^	int group[MAX_N], enermy[MAX_N], size[MAX_N], depth[MAX_N];$/;"	m	line:13	struct:unionFindTree	file:
+group	Habit.cpp	/^	vector<int> &group;$/;"	m	line:10	struct:Comperater	file:
+h	Backjoon/6118.cpp	/^int h[MAX_N + 1];$/;"	v	line:11
+h	Backjoon/9370.cpp	/^int s, g, h;$/;"	v	line:13
+h	Backjoon/9370_2.cpp	/^int s, g, h;$/;"	v	line:13
+hanoiSearch	Backjoon/1914.cpp	/^void hanoiSearch(int n, int from, int by, int to){$/;"	f	line:11
+head	Dolls.cpp	/^	dolls *head, *tail;$/;"	m	line:45	struct:chainDolls	file:
+head	Josephus.cpp	/^	person *head,*tail;$/;"	m	line:19	struct:circleList	file:
+hi	Pass486.cpp	/^int n, lo, hi;$/;"	v	line:16
+hight	Backjoon/2250_2.cpp	/^	int hight, location;$/;"	m	line:15	struct:treeNode	file:
+hightUpdate	Backjoon/2250_2.cpp	/^void hightUpdate(int _num, int _hight){$/;"	f	line:27
+hint	Kakuro2.cpp	/^int value[MAX_N][MAX_N],hint[MAX_N][MAX_N][2];$/;"	v	line:13
+hitCircle	Pinball.cpp	/^double hitCircle(vector2 here, vector2 dir, vector2 center, int radius){$/;"	f	line:80
+hug	FanMeeting.cpp	/^int hug(vector<int> &a, vector<int> &b){$/;"	f	line:54
+hull1	Fossil.cpp	/^vector<point> hull1,hull2;$/;"	v	line:15
+hull2	Fossil.cpp	/^vector<point> hull1,hull2;$/;"	v	line:15
+iToC	Backjoon/1036.cpp	/^map<int, char> iToC;$/;"	v	line:14
+identity	Genius.cpp	/^SquareMatrix SquareMatrix::identity(int N) {$/;"	f	line:28	class:SquareMatrix
+identity	squareMatrix.h	/^SquareMatrix SquareMatrix::identity(int N) {$/;"	f	line:26	class:SquareMatrix
+inBoundingRectangle	vector2.h	/^bool inBoundingRectangle(vector2 p, vector2 a, vector2 b){\/\/a,b,p 가 일직선 상에 있다는 가정 하에 (a,b) 를 감싸며 각 변이 x,y축에 평핸한 최소 사각현 내부에 p가 있는지 확인$/;"	f	line:69
+inVaildPath	Mordor.cpp	/^	pathInfo inVaildPath;$/;"	m	line:16	struct:RMQ	file:
+increaseSec	Backjoon/1020.cpp	/^void increaseSec(string &str, int index){$/;"	f	line:10
+index	Dolls.cpp	/^	long index,count;$/;"	m	line:35	struct:dolls	file:
+index	TPS_DP.cpp	/^typedef int index;$/;"	t	line:9	file:
+init	Backjoon/2042.cpp	/^int init(int left, int right, int node){$/;"	f	line:16
+init	Backjoon/2250_V3.cpp	/^int init(int node, int locate, int _level){$/;"	f	line:13
+init	Backjoon/5676.cpp	/^int init(vector<int> &tree, vector<int> &list, int node, int start, int end){$/;"	f	line:7
+init	FamilyTree.cpp	/^	int init(int left, int right, int node){$/;"	f	line:42	struct:RMQ
+init	FamilyTree_book.cpp	/^	int init(vector<int> &arr, int node, int left, int right){$/;"	f	line:16	struct:RMQ
+init	MaxSum.cpp	/^void init(){$/;"	f	line:23
+init	Mordor.cpp	/^	pathInfo init(const vector<int> &array,int node,int left, int right){$/;"	f	line:30	struct:RMQ
+init	samsung/7830.cpp	/^int init(){$/;"	f	line:28
+initAndSearch	Backjoon/1006_2.cpp	/^int initAndSearch(){$/;"	f	line:57
+initAndSearch	Backjoon/1006_3.cpp	/^int initAndSearch(){$/;"	f	line:50
+initAndStart	Allergy.cpp	/^int initAndStart(){$/;"	f	line:106
+initAndStart	BoardCover2.cpp	/^int initAndStart(vector<string> &board){$/;"	f	line:110
+initCache	Backjoon/1102.cpp	/^int initCache(int init){$/;"	f	line:36
+initCache	JLIS.cpp	/^void initCache(int **cache,int n, int m){$/;"	f	line:15
+initCache	LIS.cpp	/^void initCache(int *cache,int n){$/;"	f	line:8
+initCache	WildCard.cpp	/^void initCache(){$/;"	f	line:54
+initCache	lis4.cpp	/^void initCache(int *cache,int n){$/;"	f	line:9
+initList	Backjoon/1648.cpp	/^void initList(){$/;"	f	line:69
+initTree	Backjoon/11505.cpp	/^int64 initTree(vector<int64> &tree, vector<int64> &list, int node, int start, int end){$/;"	f	line:15
+initTree	Backjoon/17128.cpp	/^int initTree(vector<int> &tree, vector<int> &S, int node, int start, int end){$/;"	f	line:9
+initTree	Backjoon/2042_2.cpp	/^int64 initTree(vector<int64> &tree, vector<int64> &list, int node, int start, int end){$/;"	f	line:11
+init_C	Backjoon/11050.cpp	/^int init_C(){$/;"	f	line:8
+init_deck	Backjoon/1929.cpp	/^void init_deck(){$/;"	f	line:10
+initialize	Braveduck.cpp	/^void initialize(){$/;"	f	line:22
+initialize	OCRSol.cpp	/^void initialize()$/;"	f	line:125
+inorder	Backjoon/1991.cpp	/^void treeChain::inorder(treeNode *node){$/;"	f	line:52	class:treeChain
+inorder	Traversal.cpp	/^int preorder[MAX_N], inorder[MAX_N];$/;"	v	line:11
+input	Backjoon/1013.cpp	/^char input[MAX_L + 10];$/;"	v	line:7
+input	Backjoon/1021.cpp	/^vector<int> input;$/;"	v	line:10
+input	Backjoon/10610.cpp	/^char input[MAX_N];$/;"	v	line:10
+input	Backjoon/1427.cpp	/^char input[10];$/;"	v	line:7
+input	Backjoon/6603.cpp	/^int input[MAX_K];$/;"	v	line:6
+input	BlockGame.cpp	/^char input,cache[1<<25];$/;"	v	line:22
+input	OCR.cpp	/^char str[500][11],input[100][11];$/;"	v	line:8
+inputEnd	Braveduck.cpp	/^point inputStart,inputEnd;$/;"	v	line:19
+inputRGB	Backjoon/1149.cpp	/^RGB inputRGB[MAX_N];$/;"	v	line:15
+inputRoot	Backjoon/1949.cpp	/^void inputRoot(){$/;"	f	line:52
+inputStart	Braveduck.cpp	/^point inputStart,inputEnd;$/;"	v	line:19
+inputTable	Backjoon/2250.cpp	/^struct inputTable{$/;"	s	line:34	file:
+inputTable	Backjoon/2250.cpp	/^}typedef inputTable;$/;"	t	line:36	file:
+insertNode	Insertion.cpp	/^tripNode* insertNode(tripNode *root, tripNode *node){$/;"	f	line:49
+insertNode	Trip.h	/^tripNode *insertNode(tripNode *root, tripNode *node){$/;"	f	line:28
+insertTreap	Insertion2.cpp	/^treapNode *insertTreap(treapNode *root, treapNode *node){$/;"	f	line:47
+int64	Backjoon/1011.cpp	/^typedef long long int int64;$/;"	t	line:5	file:
+int64	Backjoon/11505.cpp	/^typedef long long int int64;$/;"	t	line:10	file:
+int64	Backjoon/1654.cpp	/^typedef long long int int64;$/;"	t	line:8	file:
+int64	Backjoon/1890.cpp	/^typedef long long int int64;$/;"	t	line:8	file:
+int64	Backjoon/2042_2.cpp	/^typedef long long int int64;$/;"	t	line:9	file:
+int64	Backjoon/2805.cpp	/^typedef unsigned long long int int64;$/;"	t	line:4	file:
+int64	Backjoon/2869.cpp	/^typedef unsigned long long int int64;$/;"	t	line:7	file:
+int64	Backjoon/3079.cpp	/^typedef unsigned long long int int64;$/;"	t	line:8	file:
+int64	etc/1.cpp	/^typedef long long int int64;$/;"	t	line:5	file:
+int64	samsung/7829.cpp	/^typedef long long int int64;$/;"	t	line:6	file:
+int64	samsung/7853.cpp	/^typedef long long int int64;$/;"	t	line:8	file:
+int64	samsung/7854.cpp	/^typedef long long int int64;$/;"	t	line:4	file:
+int64	samsung/7966.cpp	/^typedef long long int int64;$/;"	t	line:11	file:
+intToString	tcpServer.cpp	/^string intToString(int n){$/;"	f	line:19
+intersection	Tresure.cpp	/^polygon intersection(const polygon &p, double x1, double y1, double x2, double y2){$/;"	f	line:36
+is30Multi	Backjoon/10610.cpp	/^bool is30Multi(){$/;"	f	line:16
+isBest	Allergy.cpp	/^bool isBest(int index){\/\/ chart에서 1이고 list 에서 0인 부분 하나라도 있으면 true;$/;"	f	line:54
+isBroken	Backjoon/2206.cpp	/^	bool isBroken;$/;"	m	line:14	struct:node	file:
+isClear	Backjoon/1006.cpp	/^bool isClear(){$/;"	f	line:20
+isClock12	ClockSyn.cpp	/^bool isClock12(int *clock){$/;"	f	line:46
+isContinue	BlockGame.cpp	/^bool isContinue(){$/;"	f	line:67
+isEmpty	Backjoon/5430_3.cpp	/^	bool isEmpty(){$/;"	f	line:23	struct:my_deque
+isEmpty	kakao_C.cpp	/^bool isEmpty(){$/;"	f	line:24
+isFinished	Tictactoe.cpp	/^bool isFinished(char turn){$/;"	f	line:34
+isGroup	Backjoon/1316.cpp	/^int isGroup[26];$/;"	v	line:8
+isInclude	Fortress.cpp	/^bool isInclude(circleInfo &c1, circleInfo &c2){ \/\/ c2가 c1에 포함 되는가$/;"	f	line:27
+isIncludeK	CanadaTrip.cpp	/^bool isIncludeK(int dis){\/\/잘못 생각했다.$/;"	f	line:25
+isInside	vector2.h	/^bool isInside(vector2 q, const vector<vector2> &p){$/;"	f	line:88
+isNoNerd	Nerd2.cpp	/^bool isNoNerd(int x,int y){$/;"	f	line:10
+isOk	Arctic2.cpp	/^bool isOk(double maxdis){$/;"	f	line:61
+isOk	Darpa.cpp	/^bool isOk(double minDistance){$/;"	f	line:23
+isOk	Loan.cpp	/^bool isOk(double pay){$/;"	f	line:13
+isOk	WithdRawal.cpp	/^bool isOk(double rank){$/;"	f	line:14
+isRagne	Backjoon/1012.cpp	/^bool isRagne(int y, int x){$/;"	f	line:13
+isRange	Backjoon/1014.cpp	/^bool isRange(int y,int x){$/;"	f	line:14
+isRange	Backjoon/11559.cpp	/^bool isRange(int y, int x){$/;"	f	line:46
+isRange	Backjoon/11559_2.cpp	/^bool isRange(int _y, int _x){$/;"	f	line:14
+isRange	Backjoon/1938.cpp	/^bool isRange(int y, int x){$/;"	f	line:26
+isRange	Backjoon/2096.cpp	/^bool isRange(int x){$/;"	f	line:15
+isRange	Backjoon/2096_2.cpp	/^bool isRange(int x){$/;"	f	line:14
+isRange	Backjoon/2206.cpp	/^bool isRange(int y,int x){$/;"	f	line:19
+isRange	Backjoon/2573_2.cpp	/^bool isRange(int y, int x){$/;"	f	line:16
+isRange	Backjoon/2931.cpp	/^bool isRange(int y, int x){$/;"	f	line:16
+isRange	Backjoon/7576.cpp	/^bool isRange(int y, int x){$/;"	f	line:12
+isRange	Backjoon/9663.cpp	/^bool isRange(int y, int x){$/;"	f	line:18
+isRange	samsung/7830.cpp	/^bool isRange(int y, int x ){$/;"	f	line:15
+isRise	Ratio.cpp	/^bool isRise(long win){$/;"	f	line:20
+isRoot	Backjoon/1949.cpp	/^	bool isRoot;$/;"	m	line:16	struct:vilige	file:
+isSame	Backjoon/11559.cpp	/^bool isSame(char a[MAX_N][MAX_M],char b[MAX_N][MAX_M]){$/;"	f	line:40
+isSuburb	Fortress.cpp	/^bool isSuburb(vector<circleInfo> &circleSet, circleInfo &circle){$/;"	f	line:21
+jump	Braveduck.cpp	/^int cache[MAX_N + 2], jump, N;$/;"	v	line:17
+k	1753_v2.cpp	/^int v,e,k;$/;"	v	line:11
+k	Backjoon/1012.cpp	/^int n,m,k;$/;"	v	line:11
+k	Backjoon/1036.cpp	/^int n,k;$/;"	v	line:9
+k	Backjoon/11047.cpp	/^int coin[MAX_N], n, k;$/;"	v	line:7
+k	Backjoon/1654.cpp	/^int64 k, n;$/;"	v	line:10
+k	Backjoon/2482.cpp	/^int n, k;$/;"	v	line:10
+k	Backjoon/2875.cpp	/^int n, m, k;$/;"	v	line:6
+k	Genius.cpp	/^int n,k,m;$/;"	v	line:62
+k	Habit.cpp	/^int k;$/;"	v	line:73
+k	Ites.cpp	/^int k,n;$/;"	v	line:24
+k	KLIS.cpp	/^int n,c,k;$/;"	v	line:123
+k	Morse.cpp	/^int k;$/;"	v	line:68
+k	Restore.cpp	/^int c,k;$/;"	v	line:19
+k	Restore2.cpp	/^int k;$/;"	v	line:136
+k	WithdRawal.cpp	/^int n, k;$/;"	v	line:12
+k	samsung/7966.cpp	/^int n, x, k;$/;"	v	line:14
+k	samsung/7966_2.cpp	/^int n, x, k;$/;"	v	line:14
+k	samsung/7966_3.cpp	/^int n, x, k;$/;"	v	line:15
+karatsuba	FanMeeting.cpp	/^vector<int> karatsuba(vector<int> &a, vector<int> &b){$/;"	f	line:27
+kmpSearch	Backjoon/1786.cpp	/^vector<int> kmpSearch(string &H, string &N){$/;"	f	line:28
+kmpSearch	JeahaSafe2.cpp	/^int kmpSearch(const string &H, const string &N){$/;"	f	line:25
+known	Kakuro2.cpp	/^int q, sum[MAX_N*MAX_N],length[MAX_N*MAX_N], known[MAX_N*MAX_N];$/;"	v	line:14
+kth	Morse.cpp	/^string kth(int n, int m, int skip){$/;"	f	line:118
+kthNode	Insertion.cpp	/^tripNode* kthNode(tripNode *root,int index){$/;"	f	line:78
+kthNode	Insertion2.cpp	/^treapNode *kthNode(treapNode *root, int k){$/;"	f	line:94
+kthNodeReverse	Insertion2.cpp	/^treapNode *kthNodeReverse(treapNode *root, int k){$/;"	f	line:107
+l	Backjoon/1938.cpp	/^	int y, x, l, s;$/;"	m	line:12	struct:point	file:
+l	Dragon.cpp	/^int c,n,p,l;$/;"	v	line:7
+l	samsung/8275.cpp	/^int l[11],r[11],s[11];$/;"	v	line:9
+lan	Backjoon/1654.cpp	/^int64 *lan;$/;"	v	line:11
+left	Backjoon/1991.cpp	/^	treeNode *left, *right;$/;"	m	line:8	struct:treeNode	file:
+left	Backjoon/2250.cpp	/^	treeNode *left, *right;$/;"	m	line:27	struct:treeNode	file:
+left	Backjoon/2250_2.cpp	/^	int left, right;$/;"	m	line:14	struct:treeNode	file:
+left	Insertion.cpp	/^	tripNode *left,*right;$/;"	m	line:11	struct:tripNode	file:
+left	Insertion2.cpp	/^	treapNode *left, *right;$/;"	m	line:12	struct:treapNode	file:
+left	Traversal.cpp	/^	treenode *left, *right;$/;"	m	line:15	struct:treenode	file:
+left	Trip.h	/^	tripNode *left,*right;$/;"	m	line:3	struct:tripNode
+length	Dragon.cpp	/^int length[51];$/;"	v	line:20
+length	Kakuro2.cpp	/^int q, sum[MAX_N*MAX_N],length[MAX_N*MAX_N], known[MAX_N*MAX_N];$/;"	v	line:14
+level	Backjoon/1726.cpp	/^	int y, x, direct, level;$/;"	m	line:22	struct:point	file:
+level	Backjoon/2206.cpp	/^	int y, x, level;$/;"	m	line:13	struct:node	file:
+level	Backjoon/2250_V3.cpp	/^vector< int > level[MAX_N + 1]; \/\/locate$/;"	v	line:11
+lineCnt	Backjoon/1020.cpp	/^const int lineCnt[10] = {6,2,5,5,4,5,6,3,7,5};$/;"	v	line:6
+lineCnt	Backjoon/1020_2.cpp	/^const int lineCnt[10] = {6,2,5,5,4,5,6,3,7,5};$/;"	v	line:6
+lineCnt	Backjoon/1020_test.cpp	/^const int lineCnt[10] = {6, 2, 5, 5, 4, 5, 6, 3, 7, 5};$/;"	v	line:12
+lineIntersection	vector2.h	/^bool lineIntersection(vector2 a, vector2 b, vector2 c, vector2 d, vector2 &x){$/;"	f	line:55
+lis	KLIS.cpp	/^int lis(int start){$/;"	f	line:126
+lis1	LIS.cpp	/^int lis1(int* seq, int n){$/;"	f	line:27
+lis1	lis4.cpp	/^int lis1(int* seq, int n){$/;"	f	line:49
+list	Allergy.cpp	/^int chart[MAX_N][MAX_N], list[MAX_N];$/;"	v	line:25
+list	Backjoon/10815.cpp	/^int list[MAX_N], n;$/;"	v	line:7
+list	Backjoon/1648.cpp	/^vector<int> list;$/;"	v	line:42
+list	Backjoon/1753_v2.cpp	/^vector<pair<int,int> > list[MAX_V];$/;"	v	line:14
+list	Backjoon/1920.cpp	/^int list[MAX_N], n;$/;"	v	line:7
+list	Backjoon/1920_v.2.cpp	/^int list[MAX_N];$/;"	v	line:7
+list	Backjoon/1949.cpp	/^	vector< int >list;$/;"	m	line:17	struct:vilige	file:
+list	Backjoon/2042.cpp	/^long long int list[MAX_N + 1] = {0};$/;"	v	line:11
+list	Backjoon/2805.cpp	/^int64 list[MAX_N], maxHight = 0;$/;"	v	line:6
+list	Backjoon/3079.cpp	/^int64 list[MAX_N];$/;"	v	line:11
+list	Darpa.cpp	/^float list[MAX_M];$/;"	v	line:14
+list	samsung/7854.cpp	/^int64 list[5] = {1,2,5,25,125};$/;"	v	line:6
+ll	Backjoon/1020_test.cpp	/^typedef long long ll;$/;"	t	line:5	file:
+ll	Backjoon/15998.cpp	/^typedef long long int ll;$/;"	t	line:6	file:
+ll	Backjoon/15998_2.cpp	/^typedef long long int ll;$/;"	t	line:7	file:
+ll	Backjoon/15998_3.cpp	/^typedef long long int ll;$/;"	t	line:7	file:
+lo	Pass486.cpp	/^int n, lo, hi;$/;"	v	line:16
+locInTrip	FamilyTree_book.cpp	/^int locInTrip[MAX_N], depth[MAX_N];$/;"	v	line:38
+location	Backjoon/2250.cpp	/^	int location;$/;"	m	line:26	struct:treeNode	file:
+location	Backjoon/2250_2.cpp	/^	int hight, location;$/;"	m	line:15	struct:treeNode	file:
+log_E	Zimbabwe.cpp	/^int log_E(int a){$/;"	f	line:24
+longest	Fortress.cpp	/^int longest;$/;"	v	line:55
+lower	Fossil.cpp	/^vector<pair<point,point> > upper, lower;$/;"	v	line:16
+m	Allergy.cpp	/^int n,m, best;$/;"	v	line:26
+m	Backjoon/1012.cpp	/^int n,m,k;$/;"	v	line:11
+m	Backjoon/1014.cpp	/^int n,m;$/;"	v	line:9
+m	Backjoon/1016.cpp	/^long long int n, m;$/;"	v	line:10
+m	Backjoon/1018.cpp	/^int n, m;$/;"	v	line:8
+m	Backjoon/1648.cpp	/^int n,m;$/;"	v	line:9
+m	Backjoon/1920_v.2.cpp	/^int n, m;$/;"	v	line:8
+m	Backjoon/2178.cpp	/^int n, m;$/;"	v	line:10
+m	Backjoon/2178_v2.cpp	/^int n, m;$/;"	v	line:12
+m	Backjoon/2206.cpp	/^int n, m;$/;"	v	line:10
+m	Backjoon/2252.cpp	/^int n, m;$/;"	v	line:11
+m	Backjoon/2573_2.cpp	/^int n, m;$/;"	v	line:12
+m	Backjoon/2623.cpp	/^int n, m;$/;"	v	line:10
+m	Backjoon/2805.cpp	/^int n, m;$/;"	v	line:7
+m	Backjoon/2875.cpp	/^int n, m, k;$/;"	v	line:6
+m	Backjoon/3079.cpp	/^int n, m;$/;"	v	line:10
+m	Backjoon/7469.cpp	/^int n, m;$/;"	v	line:12
+m	Backjoon/7576.cpp	/^int m,n;$/;"	v	line:10
+m	Backjoon/9370.cpp	/^int n, m, t;$/;"	v	line:12
+m	Backjoon/9370_2.cpp	/^int n, m, t;$/;"	v	line:12
+m	Darpa.cpp	/^int n,m;$/;"	v	line:13
+m	Darpa_sol.cpp	/^int m;$/;"	v	line:16
+m	Dolls.cpp	/^long n,m;$/;"	v	line:80
+m	Fossil.cpp	/^int n,m;$/;"	v	line:49
+m	Genius.cpp	/^int n,k,m;$/;"	v	line:62
+m	Morse.cpp	/^int n,m;$/;"	v	line:67
+m	OCR.cpp	/^int m,q,n;$/;"	v	line:7
+m	Prefix.cpp	/^int n,m;$/;"	v	line:8
+m	Sushi2.cpp	/^int n,m;$/;"	v	line:11
+m	Zimbabwe.cpp	/^int c,m,n;$/;"	v	line:17
+m	algospot9th/park.cpp	/^int n,m,s;$/;"	v	line:11
+m	kakao_C.cpp	/^int m,n;$/;"	v	line:14
+m	samsung/7830.cpp	/^int n, m;$/;"	v	line:13
+m	samsung/8275.cpp	/^int n, x, m;$/;"	v	line:8
+m	snail.cpp	/^int n,m;$/;"	v	line:7
+madeCache	Sushi2.cpp	/^int madeCache(int budge){$/;"	f	line:16
+main	1753_v2.cpp	/^int main(void){$/;"	f	line:15
+main	Allergy.cpp	/^int main(void){$/;"	f	line:113
+main	Arctic.cpp	/^int main(void){$/;"	f	line:47
+main	Arctic2.cpp	/^int main(void){$/;"	f	line:99
+main	AsymTiling.cpp	/^int main(void){$/;"	f	line:29
+main	Backjoon/1003.cpp	/^int main(void){$/;"	f	line:18
+main	Backjoon/1006.cpp	/^int main(void){$/;"	f	line:124
+main	Backjoon/1006_2.cpp	/^int main(void){$/;"	f	line:74
+main	Backjoon/1006_3.cpp	/^int main(void){$/;"	f	line:67
+main	Backjoon/1006_4.cpp	/^int main()$/;"	f	line:50
+main	Backjoon/1011.cpp	/^int main(void){$/;"	f	line:29
+main	Backjoon/1012.cpp	/^int main(void){$/;"	f	line:50
+main	Backjoon/1013.cpp	/^int main(void){$/;"	f	line:47
+main	Backjoon/1014.cpp	/^int main(void){$/;"	f	line:56
+main	Backjoon/1016.cpp	/^int main(void){$/;"	f	line:30
+main	Backjoon/1018.cpp	/^int main(void){$/;"	f	line:29
+main	Backjoon/1020.cpp	/^int main(void){$/;"	f	line:38
+main	Backjoon/1020_2.cpp	/^int main(void){$/;"	f	line:68
+main	Backjoon/1020_test.cpp	/^int main(){$/;"	f	line:54
+main	Backjoon/1021.cpp	/^int main(void){$/;"	f	line:17
+main	Backjoon/1021_2.cpp	/^int main(void){$/;"	f	line:23
+main	Backjoon/1022.cpp	/^int main(void){$/;"	f	line:6
+main	Backjoon/1026.cpp	/^int main(void){$/;"	f	line:16
+main	Backjoon/1036.cpp	/^int main(void){$/;"	f	line:52
+main	Backjoon/10610.cpp	/^int main(void){$/;"	f	line:24
+main	Backjoon/10799.cpp	/^int main(void){$/;"	f	line:31
+main	Backjoon/10815.cpp	/^int main(void){$/;"	f	line:17
+main	Backjoon/1102.cpp	/^int main(void){$/;"	f	line:53
+main	Backjoon/11047.cpp	/^int main(void){$/;"	f	line:9
+main	Backjoon/11050.cpp	/^int main(void){$/;"	f	line:28
+main	Backjoon/1110.cpp	/^int main(void){$/;"	f	line:21
+main	Backjoon/11399.cpp	/^int main(void){$/;"	f	line:12
+main	Backjoon/1149.cpp	/^int main(void){$/;"	f	line:50
+main	Backjoon/11505.cpp	/^int main(void){$/;"	f	line:32
+main	Backjoon/11559.cpp	/^int main(void){$/;"	f	line:115
+main	Backjoon/11559_2.cpp	/^int main(void){$/;"	f	line:74
+main	Backjoon/11718.cpp	/^int main(void){$/;"	f	line:8
+main	Backjoon/11726.cpp	/^int main(void){$/;"	f	line:22
+main	Backjoon/11727.cpp	/^int main(void){$/;"	f	line:22
+main	Backjoon/11866.cpp	/^int main(void){$/;"	f	line:11
+main	Backjoon/1238.cpp	/^int main(void){$/;"	f	line:11
+main	Backjoon/1260.cpp	/^int main(void){$/;"	f	line:68
+main	Backjoon/1316.cpp	/^int main(void){$/;"	f	line:10
+main	Backjoon/1427.cpp	/^int main(void){$/;"	f	line:13
+main	Backjoon/14502.cpp	/^int main(void){$/;"	f	line:74
+main	Backjoon/1463.cpp	/^int main(void){$/;"	f	line:24
+main	Backjoon/14888.cpp	/^int main(void){$/;"	f	line:27
+main	Backjoon/1509.cpp	/^int main(void){$/;"	f	line:26
+main	Backjoon/1520.cpp	/^int main(void){$/;"	f	line:31
+main	Backjoon/1520_2.cpp	/^int main(void){$/;"	f	line:29
+main	Backjoon/15998.cpp	/^int main(void){$/;"	f	line:13
+main	Backjoon/15998_2.cpp	/^int main(void){$/;"	f	line:18
+main	Backjoon/15998_3.cpp	/^int main(void){$/;"	f	line:18
+main	Backjoon/1600.cpp	/^int main(void){$/;"	f	line:53
+main	Backjoon/1600_2.cpp	/^int main(void){$/;"	f	line:59
+main	Backjoon/1648.cpp	/^int main(void){$/;"	f	line:89
+main	Backjoon/1654.cpp	/^int main(void){$/;"	f	line:32
+main	Backjoon/1707.cpp	/^int main(void){$/;"	f	line:14
+main	Backjoon/17128.cpp	/^int main(void){$/;"	f	line:29
+main	Backjoon/1719.cpp	/^int main(void){$/;"	f	line:11
+main	Backjoon/1726.cpp	/^int main(void){$/;"	f	line:33
+main	Backjoon/17262.cpp	/^int main(void){$/;"	f	line:7
+main	Backjoon/1753.cpp	/^int main(void){$/;"	f	line:48
+main	Backjoon/1753_v2.cpp	/^int main(void){$/;"	f	line:16
+main	Backjoon/1786.cpp	/^int main(void){$/;"	f	line:49
+main	Backjoon/1890.cpp	/^int main(void){$/;"	f	line:27
+main	Backjoon/1914.cpp	/^int main(void){$/;"	f	line:39
+main	Backjoon/1920.cpp	/^int main(void){$/;"	f	line:17
+main	Backjoon/1920_v.2.cpp	/^int main(void){$/;"	f	line:25
+main	Backjoon/1929.cpp	/^int main(void){$/;"	f	line:21
+main	Backjoon/1932.cpp	/^int main(void){$/;"	f	line:23
+main	Backjoon/1934.cpp	/^int main(void){$/;"	f	line:9
+main	Backjoon/1938.cpp	/^int main(void){$/;"	f	line:31
+main	Backjoon/1949.cpp	/^int main(void){$/;"	f	line:61
+main	Backjoon/1965.cpp	/^int main(void){$/;"	f	line:8
+main	Backjoon/1966.cpp	/^int main(void){$/;"	f	line:7
+main	Backjoon/1967.cpp	/^int main(void){$/;"	f	line:15
+main	Backjoon/1967_2.cpp	/^int main(void){$/;"	f	line:34
+main	Backjoon/1991.cpp	/^int main(void){$/;"	f	line:65
+main	Backjoon/2042.cpp	/^int main(void){$/;"	f	line:73
+main	Backjoon/2042_2.cpp	/^int main(void){$/;"	f	line:30
+main	Backjoon/2096.cpp	/^int main(void){$/;"	f	line:34
+main	Backjoon/2096_2.cpp	/^int main(void){$/;"	f	line:37
+main	Backjoon/2098.cpp	/^int main(void){$/;"	f	line:29
+main	Backjoon/2133.cpp	/^int main(void){$/;"	f	line:27
+main	Backjoon/2156.cpp	/^int main(void){$/;"	f	line:24
+main	Backjoon/2178.cpp	/^int main(void){$/;"	f	line:38
+main	Backjoon/2178_v2.cpp	/^int main(void){$/;"	f	line:14
+main	Backjoon/2206.cpp	/^int main(void){$/;"	f	line:24
+main	Backjoon/2250.cpp	/^int main(void){$/;"	f	line:140
+main	Backjoon/2250_2.cpp	/^int main(void){$/;"	f	line:80
+main	Backjoon/2250_V3.cpp	/^int main(void){$/;"	f	line:22
+main	Backjoon/2252.cpp	/^int main(void){$/;"	f	line:12
+main	Backjoon/2293.cpp	/^int main(void){$/;"	f	line:11
+main	Backjoon/2294.cpp	/^int main(void){$/;"	f	line:10
+main	Backjoon/2294_2.cpp	/^int main(void){$/;"	f	line:11
+main	Backjoon/2448.cpp	/^int main(void){$/;"	f	line:16
+main	Backjoon/2448_2.cpp	/^int main(void){$/;"	f	line:77
+main	Backjoon/2482.cpp	/^int main(void){$/;"	f	line:22
+main	Backjoon/2565.cpp	/^int main(void){$/;"	f	line:10
+main	Backjoon/2573.cpp	/^int main(void){$/;"	f	line:41
+main	Backjoon/2573_2.cpp	/^int main(void){$/;"	f	line:38
+main	Backjoon/2579.cpp	/^int main(void){$/;"	f	line:27
+main	Backjoon/2580.cpp	/^int main(void){$/;"	f	line:51
+main	Backjoon/2583.cpp	/^int main(void){$/;"	f	line:24
+main	Backjoon/2606.cpp	/^int main(void){$/;"	f	line:8
+main	Backjoon/2623.cpp	/^int main(void){$/;"	f	line:11
+main	Backjoon/2805.cpp	/^int main(void){$/;"	f	line:42
+main	Backjoon/2869.cpp	/^int main(void){$/;"	f	line:25
+main	Backjoon/2869_v2.cpp	/^int main(void){$/;"	f	line:6
+main	Backjoon/2875.cpp	/^int main(void){$/;"	f	line:8
+main	Backjoon/2908.cpp	/^int main(void){$/;"	f	line:15
+main	Backjoon/2931.cpp	/^int main(void){$/;"	f	line:67
+main	Backjoon/3079.cpp	/^int main(void){$/;"	f	line:13
+main	Backjoon/3980.cpp	/^int main(void){$/;"	f	line:27
+main	Backjoon/5430.cpp	/^int main(void){$/;"	f	line:6
+main	Backjoon/5430_2.cpp	/^int main(void){$/;"	f	line:19
+main	Backjoon/5430_3.cpp	/^int main(void){$/;"	f	line:69
+main	Backjoon/5676.cpp	/^int main(void){$/;"	f	line:24
+main	Backjoon/6118.cpp	/^int main(void){$/;"	f	line:14
+main	Backjoon/6593.cpp	/^int main(void){$/;"	f	line:70
+main	Backjoon/6603.cpp	/^int main(void){$/;"	f	line:32
+main	Backjoon/7469.cpp	/^int main(void){$/;"	f	line:40
+main	Backjoon/7576.cpp	/^int main(void){$/;"	f	line:17
+main	Backjoon/8979.cpp	/^int main(void){$/;"	f	line:32
+main	Backjoon/8979_2.cpp	/^int main(void){$/;"	f	line:32
+main	Backjoon/9095.cpp	/^int main(void){$/;"	f	line:20
+main	Backjoon/9237.cpp	/^int main(void){$/;"	f	line:15
+main	Backjoon/9370.cpp	/^int main(void){$/;"	f	line:58
+main	Backjoon/9370_2.cpp	/^int main(void){$/;"	f	line:48
+main	Backjoon/9663.cpp	/^int main(void){$/;"	f	line:47
+main	Backjoon/9935.cpp	/^int main(void){$/;"	f	line:82
+main	Backjoon/9935_2.cpp	/^int main(void){$/;"	f	line:125
+main	Backjoon/9935_3.cpp	/^int main(void){$/;"	f	line:8
+main	Backjoon/Rinp.cpp	/^int main(void){$/;"	f	line:38
+main	Backjoon/makeinput.cpp	/^int main(void){$/;"	f	line:39
+main	Backjoon/rand.cpp	/^int main(void){$/;"	f	line:45
+main	Backjoon1003.cpp	/^int main(void){$/;"	f	line:18
+main	BlockGame.cpp	/^int main(void){$/;"	f	line:123
+main	BoardCover.cpp	/^int main (void) {$/;"	f	line:65
+main	BoardCover2.cpp	/^int main(void){$/;"	f	line:118
+main	Boggle.cpp	/^int main(void){$/;"	f	line:35
+main	Bracket2.cpp	/^int main(void){$/;"	f	line:31
+main	Braveduck.cpp	/^int main(void){$/;"	f	line:47
+main	CanadaTrip.cpp	/^int main(void){$/;"	f	line:56
+main	Christmas.cpp	/^int main(void){$/;"	f	line:59
+main	ClockSyn.cpp	/^int main(void){$/;"	f	line:74
+main	ClocksyncReview.cpp	/^int main(void){$/;"	f	line:41
+main	CogiRun.cpp	/^int main(void){$/;"	f	line:214
+main	Csbaseball.cpp	/^int main(void){$/;"	f	line:12
+main	Darpa.cpp	/^int main(void){$/;"	f	line:82
+main	Darpa_sol.cpp	/^int main(){$/;"	f	line:95
+main	Death.cpp	/^int main(void){$/;"	f	line:60
+main	Decual.cpp	/^int main(void){$/;"	f	line:101
+main	Dolls.cpp	/^int main(void){$/;"	f	line:107
+main	Dragon.cpp	/^int main(void){$/;"	f	line:62
+main	Duathlon.cpp	/^int main(void){$/;"	f	line:36
+main	EditerWar.cpp	/^int main(void){$/;"	f	line:81
+main	Encrypt.cpp	/^int main(void){$/;"	f	line:14
+main	Escapegees.cpp	/^int main(void){$/;"	f	line:111
+main	FamilyTree.cpp	/^int main(void){$/;"	f	line:73
+main	FamilyTree_book.cpp	/^int main(void){$/;"	f	line:67
+main	FanMeeting.cpp	/^int main(void){$/;"	f	line:65
+main	Fence.cpp	/^int main(void){$/;"	f	line:83
+main	FenceReview.cpp	/^int main(void){$/;"	f	line:12
+main	Fence_stack.cpp	/^int main(void){$/;"	f	line:28
+main	Fix.cpp	/^int main(){$/;"	f	line:7
+main	Fortress.cpp	/^int main(void){$/;"	f	line:83
+main	Fossil.cpp	/^int main(void){$/;"	f	line:51
+main	Genius.cpp	/^int main(void){$/;"	f	line:82
+main	GggCccDdd.cpp	/^int main(void){$/;"	f	line:75
+main	Graduation.cpp	/^int main(void){$/;"	f	line:72
+main	Habit.cpp	/^int main(void){$/;"	f	line:82
+main	Insertion.cpp	/^int main(void){$/;"	f	line:104
+main	Insertion2.cpp	/^int main(void){$/;"	f	line:130
+main	Ites.cpp	/^int main(void){$/;"	f	line:43
+main	JLIS.cpp	/^int main(void){$/;"	f	line:47
+main	JeahaSafe.cpp	/^int main(void){$/;"	f	line:100
+main	JeahaSafe2.cpp	/^int main(void){$/;"	f	line:56
+main	Josephus.cpp	/^int main(void){$/;"	f	line:67
+main	Josephus_Queue.cpp	/^int main(void){$/;"	f	line:30
+main	Jumpgame.cpp	/^int main(void){$/;"	f	line:44
+main	KLIS.cpp	/^int main(void){$/;"	f	line:191
+main	Kakao_A.cpp	/^int main(void){$/;"	f	line:31
+main	Kakao_B.cpp	/^int main(void){$/;"	f	line:49
+main	Kakao_C.cpp	/^int main(void){$/;"	f	line:45
+main	Kakao_D.cpp	/^int main(void){$/;"	f	line:8
+main	Kakuro2.cpp	/^int main(void){$/;"	f	line:109
+main	LIS.cpp	/^int main(void){$/;"	f	line:45
+main	Loan.cpp	/^int main(void){$/;"	f	line:44
+main	LunchBox.cpp	/^int main(void){$/;"	f	line:43
+main	MatchOrder.cpp	/^int main(void){$/;"	f	line:43
+main	MaxSum.cpp	/^int main(void){$/;"	f	line:73
+main	MeasureTime.cpp	/^int main(void){$/;"	f	line:33
+main	MeetingRoom.cpp	/^int main(void){$/;"	f	line:15
+main	Minas.cpp	/^int main(void){$/;"	f	line:92
+main	Mordor.cpp	/^int main(void){$/;"	f	line:64
+main	Morse.cpp	/^int main(void){$/;"	f	line:124
+main	NPoly.cpp	/^int main(void){$/;"	f	line:27
+main	Naming.cpp	/^int main(void){$/;"	f	line:42
+main	Nerd2.cpp	/^int main(void){$/;"	f	line:42
+main	Nerds.cpp	/^int main(void){$/;"	f	line:49
+main	NumB3RS.cpp	/^int main(void){$/;"	f	line:38
+main	NumberGame.cpp	/^int main(void){$/;"	f	line:34
+main	OCR.cpp	/^int main(void){$/;"	f	line:123
+main	OCRSol.cpp	/^int main(void)$/;"	f	line:142
+main	Packing.cpp	/^int main(void){$/;"	f	line:56
+main	PalinDroMize.cpp	/^int main(void){$/;"	f	line:107
+main	Pass486.cpp	/^int main(void){$/;"	f	line:57
+main	Picnic.cpp	/^int main(void){$/;"	f	line:38
+main	Pinball.cpp	/^int main(void){$/;"	f	line:117
+main	Poly.cpp	/^int main(void){$/;"	f	line:31
+main	Potion.cpp	/^int main(void){$/;"	f	line:45
+main	Prefix.cpp	/^int main(void){$/;"	f	line:50
+main	Quantization.cpp	/^int main (void){$/;"	f	line:110
+main	QuardTreeReview.cpp	/^int main(void){$/;"	f	line:17
+main	RandomInputMake.cpp	/^int main(){$/;"	f	line:128
+main	Ratio.cpp	/^int main(void){$/;"	f	line:35
+main	Restore.cpp	/^int main(void){$/;"	f	line:94
+main	Restore2.cpp	/^int main(void){$/;"	f	line:220
+main	Roots.cpp	/^int main(void){$/;"	f	line:98
+main	RunningMedian.cpp	/^int main(void){$/;"	f	line:42
+main	SoLong.cpp	/^int main(){$/;"	f	line:61
+main	StrJoin.cpp	/^int main(void){$/;"	f	line:26
+main	Sushi.cpp	/^int main(void){$/;"	f	line:42
+main	Sushi2.cpp	/^int main(void){$/;"	f	line:63
+main	TPS_DP.cpp	/^int main(void){$/;"	f	line:67
+main	Tictactoe.cpp	/^int main(){$/;"	f	line:94
+main	Tiling2.cpp	/^int main(void){$/;"	f	line:21
+main	Traversal.cpp	/^int main(void){$/;"	f	line:68
+main	Tresure.cpp	/^int main(void){$/;"	f	line:45
+main	WildCard.cpp	/^int main(void){$/;"	f	line:61
+main	WithdRawal.cpp	/^int main(void){$/;"	f	line:37
+main	ZeroOne.cpp	/^int main(void){$/;"	f	line:19
+main	Zimbabwe.cpp	/^int main(void){$/;"	f	line:137
+main	algospot9th/park.cpp	/^int main(void){$/;"	f	line:115
+main	algospot9th/sfw.cpp	/^int main(void){$/;"	f	line:14
+main	backjoon1010.cpp	/^int main(void){$/;"	f	line:15
+main	etc/1.cpp	/^int main(void){$/;"	f	line:21
+main	kakao_B.cpp	/^int main(void){$/;"	f	line:62
+main	kakao_C.cpp	/^int main(void){$/;"	f	line:156
+main	kakao_D.cpp	/^int main(void){$/;"	f	line:70
+main	line/najab.cpp	/^int main(void)$/;"	f	line:52
+main	lis4.cpp	/^int main(void){$/;"	f	line:67
+main	pi.cpp	/^int main(void){$/;"	f	line:67
+main	picnic.cpp	/^int main(void){$/;"	f	line:36
+main	quardTree.cpp	/^int main(void){	$/;"	f	line:26
+main	samsung/1767.cpp	/^int main(void){$/;"	f	line:82
+main	samsung/7829.cpp	/^int main(void){$/;"	f	line:12
+main	samsung/7830.cpp	/^int main(void){$/;"	f	line:97
+main	samsung/7853.cpp	/^int main(void){$/;"	f	line:12
+main	samsung/7854.cpp	/^int main(void){$/;"	f	line:8
+main	samsung/7964.cpp	/^int main(void){$/;"	f	line:28
+main	samsung/7964_2.cpp	/^int main(void){$/;"	f	line:28
+main	samsung/7964_3.cpp	/^int main(void){$/;"	f	line:41
+main	samsung/7964_4.cpp	/^int main(void){$/;"	f	line:45
+main	samsung/7964_5.cpp	/^int main(void){$/;"	f	line:36
+main	samsung/7964_6.cpp	/^int main(void){$/;"	f	line:38
+main	samsung/7966.cpp	/^int main(void){$/;"	f	line:30
+main	samsung/7966_2.cpp	/^int main(void){$/;"	f	line:34
+main	samsung/7966_3.cpp	/^int main(void){$/;"	f	line:36
+main	samsung/8275.cpp	/^int main(void){$/;"	f	line:35
+main	samsung/ran.cpp	/^int main(){$/;"	f	line:26
+main	snail.cpp	/^int main(void){$/;"	f	line:37
+main	src/main.c	/^int main(int argc, char* argv[]) {$/;"	f	line:3
+main	sushi2.cpp	/^int main(void){$/;"	f	line:46
+main	t.cpp	/^int main(void){$/;"	f	line:42
+main	tcpClient.cpp	/^int main(int argc, char* argv[]){$/;"	f	line:15
+main	tcpServer.cpp	/^int main(int argc, char* argv[]){$/;"	f	line:25
+makeAn	Death.cpp	/^void makeAn(){$/;"	f	line:24
+makeBlock	BlockGame.cpp	/^void makeBlock(){$/;"	f	line:40
+makeC	backjoon1010.cpp	/^int makeC(){$/;"	f	line:6
+makeCache	GggCccDdd.cpp	/^void makeCache(){$/;"	f	line:21
+makeChart	Allergy.cpp	/^void makeChart(int index, string name){$/;"	f	line:45
+makeDirection	CanadaTrip.cpp	/^void makeDirection(){$/;"	f	line:17
+makeDis	Arctic2.cpp	/^void makeDis(){$/;"	f	line:31
+makeFactor	Pass486.cpp	/^void makeFactor(){$/;"	f	line:32
+makeListAndSearch	Josephus.cpp	/^void makeListAndSearch(circleList &mylist){$/;"	f	line:54
+makePsum	Christmas.cpp	/^void makePsum(){$/;"	f	line:11
+makePsum	ZeroOne.cpp	/^void makePsum(){$/;"	f	line:8
+makeRotations	BoardCover2.cpp	/^void makeRotations(vector<string> block){$/;"	f	line:50
+makeString	Kakao_C.cpp	/^string makeString(int n){$/;"	f	line:36
+makeSumeCache	Kakao_B.cpp	/^void makeSumeCache(vector<int> &a){$/;"	f	line:24
+makeTable	Backjoon/2250.cpp	/^void nodeChain::makeTable(int _a,int _b, int _c){$/;"	f	line:57	class:nodeChain
+makeTable	JeahaSafe.cpp	/^vector<int> makeTable(string &s){$/;"	f	line:10
+makeTable	Naming.cpp	/^vector<int> makeTable(){$/;"	f	line:10
+makeTable	PalinDroMize.cpp	/^vector<int> makeTable(string s){$/;"	f	line:10
+makeTreeAndSearch	Traversal.cpp	/^void makeTreeAndSearch(){$/;"	f	line:43
+make_b	Backjoon/2448_2.cpp	/^void make_b(){$/;"	f	line:16
+make_board	Backjoon/9663.cpp	/^void make_board(int _y, int _x, int _b){$/;"	f	line:23
+makepPath	FamilyTree.cpp	/^void makepPath(){$/;"	f	line:19
+map	CogiRun.cpp	/^char map[MAX_H][MAX_W];$/;"	v	line:10
+matchIndex	OCR.cpp	/^int matchIndex(char *a){$/;"	f	line:14
+mathMemoized	WildCard.cpp	/^bool mathMemoized(int w, int s){$/;"	f	line:39
+max	Backjoon/2805.cpp	/^int64 max(int64 a, int64 b){$/;"	f	line:11
+max	Backjoon/3980.cpp	/^int max(int a, int b){$/;"	f	line:9
+max	BlockGame.cpp	/^int max(int a, int b){$/;"	f	line:6
+max	Fence.cpp	/^int max(int a, int b){$/;"	f	line:13
+max	KLIS.cpp	/^int max(int a, int b){$/;"	f	line:113
+max	LunchBox.cpp	/^}int max(int a,int b){$/;"	f	line:7
+max	MatchOrder.cpp	/^}int max(int a,int b){$/;"	f	line:9
+max	Minas.cpp	/^}int max(int a,int b){$/;"	f	line:10
+max	NumberGame.cpp	/^int max(int a, int b){$/;"	f	line:6
+max	OCR.cpp	/^double max(double a, double b){$/;"	f	line:19
+max	Packing.cpp	/^int max(int a,int b){$/;"	f	line:20
+max	Restore.cpp	/^}int max(int a,int b){$/;"	f	line:9
+max	Restore2.cpp	/^}int max(int a,int b){$/;"	f	line:9
+max	Sushi.cpp	/^int max(int &a, int &b){$/;"	f	line:10
+max	Tictactoe.cpp	/^}int max(int a,int b){$/;"	f	line:9
+max	pi.cpp	/^int max(int &a,int &b){$/;"	f	line:8
+max	sushi2.cpp	/^int max(int &a, int &b){$/;"	f	line:11
+maxCnt	SoLong.cpp	/^	int maxCnt;$/;"	m	line:14	struct:trieNode	file:
+maxConnect	samsung/1767.cpp	/^int maxConnect;$/;"	v	line:17
+maxCost	samsung/7966_2.cpp	/^int maxCost;$/;"	v	line:15
+maxDiff	Duathlon.cpp	/^double maxDiff(){$/;"	f	line:23
+maxHight	Backjoon/2805.cpp	/^int64 list[MAX_N], maxHight = 0;$/;"	v	line:6
+maxLeft	Backjoon/2250.cpp	/^int nodeChain::maxLeft(int _level, treeNode *node, int now){$/;"	f	line:130	class:nodeChain
+maxOverlap	PalinDroMize.cpp	/^int maxOverlap(){$/;"	f	line:81
+maxOverlap2	PalinDroMize.cpp	/^int maxOverlap2(){	$/;"	f	line:56
+maxRight	Backjoon/2250.cpp	/^int nodeChain::maxRight(int _level, treeNode *node, int now){$/;"	f	line:120	class:nodeChain
+maxStair	Backjoon/2579.cpp	/^int maxStair;$/;"	v	line:12
+maxStr	Backjoon/1036.cpp	/^string maxStr;$/;"	v	line:11
+maxSum	samsung/8275.cpp	/^int maxSum;$/;"	v	line:7
+maxValue	Backjoon/14888.cpp	/^int n, minValue, maxValue;$/;"	v	line:8
+maxValue	Backjoon/2096.cpp	/^int minValue, maxValue;$/;"	v	line:12
+maxValue	Backjoon/2096_2.cpp	/^int minValue, maxValue;$/;"	v	line:11
+maxValue	samsung/1767.cpp	/^int maxValue;$/;"	v	line:16
+max_val	Backjoon/1967_2.cpp	/^int n, max_val = -1;$/;"	v	line:13
+maxh	Mordor.cpp	/^	int minh,maxh;$/;"	m	line:11	struct:pathInfo	file:
+maxinum	Backjoon/14502.cpp	/^int maxinum;$/;"	v	line:22
+medal	Backjoon/8979.cpp	/^	medal(int _g, int _s, int _b, int _n, int _r){$/;"	f	line:13	struct:medal
+medal	Backjoon/8979.cpp	/^struct medal{$/;"	s	line:11	file:
+medal	Backjoon/8979_2.cpp	/^	medal(int _g, int _s, int _b, int _n, int _r){$/;"	f	line:13	struct:medal
+medal	Backjoon/8979_2.cpp	/^struct medal{$/;"	s	line:11	file:
+merge	Trip.h	/^tripNode *merge(tripNode *left, tripNode *right){$/;"	f	line:40
+mergeNode	Insertion.cpp	/^tripNode* mergeNode(tripNode *left, tripNode *right){$/;"	f	line:63
+mergeTreap	Insertion2.cpp	/^treapNode *mergeTreap(treapNode* left, treapNode* right){$/;"	f	line:71
+metal	Backjoon/10799.cpp	/^	int metal;$/;"	m	line:8	struct:stack	file:
+middleware	OCR.cpp	/^string middleware(){$/;"	f	line:82
+min	BlockGame.cpp	/^int min( int a, int b){$/;"	f	line:10
+min	Dragon.cpp	/^int min(int a,int b){$/;"	f	line:11
+min	Fence.cpp	/^int min(int a, int b){$/;"	f	line:17
+min	KLIS.cpp	/^int min(long long a, long long b){$/;"	f	line:117
+min	LunchBox.cpp	/^int min(int a,int b){$/;"	f	line:4
+min	MatchOrder.cpp	/^int min(int a,int b){$/;"	f	line:6
+min	Minas.cpp	/^int min(int a,int b){$/;"	f	line:7
+min	Morse.cpp	/^int min(int a, int b){$/;"	f	line:90
+min	Restore.cpp	/^int min(int a,int b){$/;"	f	line:6
+min	Restore2.cpp	/^int min(int a,int b){$/;"	f	line:6
+min	Tictactoe.cpp	/^int min(int a,int b){$/;"	f	line:6
+min	Zimbabwe.cpp	/^int min(int a,int b){$/;"	f	line:6
+min	kakao_C.cpp	/^int min(int a,int b){$/;"	f	line:19
+min	pi.cpp	/^int min(int &a,int &b){$/;"	f	line:12
+minFactor	Pass486.cpp	/^int minFactor[MAX + 1];$/;"	v	line:13
+minLevel	Backjoon/1726.cpp	/^int minLevel;$/;"	v	line:19
+minValue	Backjoon/14888.cpp	/^int n, minValue, maxValue;$/;"	v	line:8
+minValue	Backjoon/2096.cpp	/^int minValue, maxValue;$/;"	v	line:12
+minValue	Backjoon/2096_2.cpp	/^int minValue, maxValue;$/;"	v	line:11
+minh	Mordor.cpp	/^	int minh,maxh;$/;"	m	line:11	struct:pathInfo	file:
+mini	Backjoon/1600.cpp	/^int mini;$/;"	v	line:18
+missMatched	OCRSol.cpp	/^double missMatched[501][501];$/;"	v	line:31
+move	algospot9th/park.cpp	/^const int move[4][2] = {{-1,0},{1,0},{0,-1},{0,1}};$/;"	v	line:10
+movePt	Backjoon/6603.cpp	/^bool movePt(int index){$/;"	f	line:18
+myCharToInt	Zimbabwe.cpp	/^int myCharToInt(char a){$/;"	f	line:39
+myObj	Packing.cpp	/^}typedef myObj;$/;"	t	line:13	file:
+myToString	Zimbabwe.cpp	/^string myToString(long long a){$/;"	f	line:32
+my_deque	Backjoon/5430_3.cpp	/^	my_deque(){$/;"	f	line:14	struct:my_deque
+my_deque	Backjoon/5430_3.cpp	/^struct my_deque{$/;"	s	line:9	file:
+my_stoi	Backjoon/5430_2.cpp	/^int my_stoi(char *str){$/;"	f	line:10
+my_stoi	Backjoon/5430_3.cpp	/^int my_stoi(char *tmp){$/;"	f	line:60
+myobj	Packing.cpp	/^myObj *myobj = new myObj[100];$/;"	v	line:15
+n	Allergy.cpp	/^int n,m, best;$/;"	v	line:26
+n	Backjoon/1006.cpp	/^int n,w;$/;"	v	line:9
+n	Backjoon/1006_2.cpp	/^int n,w;$/;"	v	line:13
+n	Backjoon/1006_3.cpp	/^int n,w;$/;"	v	line:13
+n	Backjoon/1006_4.cpp	/^int n,w;$/;"	v	line:6
+n	Backjoon/1012.cpp	/^int n,m,k;$/;"	v	line:11
+n	Backjoon/1014.cpp	/^int n,m;$/;"	v	line:9
+n	Backjoon/1016.cpp	/^long long int n, m;$/;"	v	line:10
+n	Backjoon/1018.cpp	/^int n, m;$/;"	v	line:8
+n	Backjoon/1026.cpp	/^int a[MAX_N], b[MAX_N], n;$/;"	v	line:7
+n	Backjoon/1036.cpp	/^int n,k;$/;"	v	line:9
+n	Backjoon/10610.cpp	/^int n = 0;$/;"	v	line:9
+n	Backjoon/10815.cpp	/^int list[MAX_N], n;$/;"	v	line:7
+n	Backjoon/1102.cpp	/^int p,n;$/;"	v	line:11
+n	Backjoon/11047.cpp	/^int coin[MAX_N], n, k;$/;"	v	line:7
+n	Backjoon/11399.cpp	/^int p[MAX_N], n;$/;"	v	line:10
+n	Backjoon/1149.cpp	/^int cache[MAX_N][1<<3], n;$/;"	v	line:14
+n	Backjoon/11726.cpp	/^int n;$/;"	v	line:10
+n	Backjoon/11727.cpp	/^int n;$/;"	v	line:10
+n	Backjoon/14888.cpp	/^int n, minValue, maxValue;$/;"	v	line:8
+n	Backjoon/1509.cpp	/^int n;$/;"	v	line:10
+n	Backjoon/1648.cpp	/^int n,m;$/;"	v	line:9
+n	Backjoon/1654.cpp	/^int64 k, n;$/;"	v	line:10
+n	Backjoon/1890.cpp	/^int n;$/;"	v	line:11
+n	Backjoon/1920.cpp	/^int list[MAX_N], n;$/;"	v	line:7
+n	Backjoon/1920_v.2.cpp	/^int n, m;$/;"	v	line:8
+n	Backjoon/1967.cpp	/^int n;$/;"	v	line:13
+n	Backjoon/1967_2.cpp	/^int n, max_val = -1;$/;"	v	line:13
+n	Backjoon/2096.cpp	/^int n;$/;"	v	line:13
+n	Backjoon/2096_2.cpp	/^int n;$/;"	v	line:12
+n	Backjoon/2098.cpp	/^int n;$/;"	v	line:13
+n	Backjoon/2133.cpp	/^int n;$/;"	v	line:7
+n	Backjoon/2156.cpp	/^int n;$/;"	v	line:10
+n	Backjoon/2178.cpp	/^int n, m;$/;"	v	line:10
+n	Backjoon/2178_v2.cpp	/^int n, m;$/;"	v	line:12
+n	Backjoon/2206.cpp	/^int n, m;$/;"	v	line:10
+n	Backjoon/2250.cpp	/^	int n;$/;"	m	line:39	struct:nodeChain	file:
+n	Backjoon/2250_2.cpp	/^int n;$/;"	v	line:19
+n	Backjoon/2250_V3.cpp	/^int n;$/;"	v	line:9
+n	Backjoon/2252.cpp	/^int n, m;$/;"	v	line:11
+n	Backjoon/2482.cpp	/^int n, k;$/;"	v	line:10
+n	Backjoon/2573_2.cpp	/^int n, m;$/;"	v	line:12
+n	Backjoon/2623.cpp	/^int n, m;$/;"	v	line:10
+n	Backjoon/2805.cpp	/^int n, m;$/;"	v	line:7
+n	Backjoon/2875.cpp	/^int n, m, k;$/;"	v	line:6
+n	Backjoon/3079.cpp	/^int n, m;$/;"	v	line:10
+n	Backjoon/7469.cpp	/^int n, m;$/;"	v	line:12
+n	Backjoon/7576.cpp	/^int m,n;$/;"	v	line:10
+n	Backjoon/9237.cpp	/^int n;$/;"	v	line:8
+n	Backjoon/9370.cpp	/^int n, m, t;$/;"	v	line:12
+n	Backjoon/9370_2.cpp	/^int n, m, t;$/;"	v	line:12
+n	Backjoon/9663.cpp	/^int n;$/;"	v	line:8
+n	Darpa.cpp	/^int n,m;$/;"	v	line:13
+n	Darpa_sol.cpp	/^int n;$/;"	v	line:15
+n	Dolls.cpp	/^long n,m;$/;"	v	line:80
+n	Dragon.cpp	/^int c,n,p,l;$/;"	v	line:7
+n	Duathlon.cpp	/^int t,n;$/;"	v	line:11
+n	EditerWar.cpp	/^	int n;$/;"	m	line:14	struct:unionFindTree	file:
+n	FamilyTree_book.cpp	/^	int n;$/;"	m	line:9	struct:RMQ	file:
+n	FamilyTree_book.cpp	/^int n;$/;"	v	line:35
+n	Fossil.cpp	/^int n,m;$/;"	v	line:49
+n	Genius.cpp	/^int n,k,m;$/;"	v	line:62
+n	Insertion2.cpp	/^int value[MAX_N],n;$/;"	v	line:128
+n	Ites.cpp	/^int k,n;$/;"	v	line:24
+n	JeahaSafe2.cpp	/^int n;$/;"	v	line:45
+n	KLIS.cpp	/^int n,c,k;$/;"	v	line:123
+n	Kakuro2.cpp	/^int n, board[MAX_N][MAX_N];$/;"	v	line:12
+n	LunchBox.cpp	/^int n;$/;"	v	line:17
+n	Minas.cpp	/^int n;$/;"	v	line:20
+n	Mordor.cpp	/^	int n;$/;"	m	line:14	struct:RMQ	file:
+n	Morse.cpp	/^int n,m;$/;"	v	line:67
+n	NPoly.cpp	/^int cache[MAX_N + 1][MAX_N],n;$/;"	v	line:9
+n	NumB3RS.cpp	/^int C,n,d,p,t,q;$/;"	v	line:7
+n	NumberGame.cpp	/^int c,n, Board[MAX_N];$/;"	v	line:16
+n	OCR.cpp	/^int m,q,n;$/;"	v	line:7
+n	Packing.cpp	/^int C,n,w;$/;"	v	line:16
+n	Pass486.cpp	/^int n, lo, hi;$/;"	v	line:16
+n	Potion.cpp	/^int r[MAX],p[MAX],n;$/;"	v	line:11
+n	Prefix.cpp	/^int n,m;$/;"	v	line:8
+n	Roots.cpp	/^int n;$/;"	v	line:18
+n	StrJoin.cpp	/^int n;$/;"	v	line:5
+n	Sushi2.cpp	/^int n,m;$/;"	v	line:11
+n	WithdRawal.cpp	/^int n, k;$/;"	v	line:12
+n	Zimbabwe.cpp	/^int c,m,n;$/;"	v	line:17
+n	algospot9th/park.cpp	/^int n,m,s;$/;"	v	line:11
+n	etc/1.cpp	/^int n;$/;"	v	line:7
+n	kakao_B.cpp	/^int n;$/;"	v	line:11
+n	kakao_C.cpp	/^int m,n;$/;"	v	line:14
+n	samsung/1767.cpp	/^int n;$/;"	v	line:11
+n	samsung/7830.cpp	/^int n, m;$/;"	v	line:13
+n	samsung/7964.cpp	/^int n, d;$/;"	v	line:12
+n	samsung/7964_2.cpp	/^int n, d;$/;"	v	line:12
+n	samsung/7964_3.cpp	/^int n, d;$/;"	v	line:13
+n	samsung/7964_4.cpp	/^int n, d;$/;"	v	line:12
+n	samsung/7964_5.cpp	/^int n, d;$/;"	v	line:12
+n	samsung/7964_6.cpp	/^int n, d;$/;"	v	line:12
+n	samsung/7966.cpp	/^int n, x, k;$/;"	v	line:14
+n	samsung/7966_2.cpp	/^int n, x, k;$/;"	v	line:14
+n	samsung/7966_3.cpp	/^int n, x, k;$/;"	v	line:15
+n	samsung/8275.cpp	/^int n, x, m;$/;"	v	line:8
+n	snail.cpp	/^int n,m;$/;"	v	line:7
+name	Backjoon/1991.cpp	/^	char name;$/;"	m	line:7	struct:treeNode	file:
+name	Packing.cpp	/^	string name;$/;"	m	line:10	struct:Obj	file:
+next	Backjoon/1006.cpp	/^int next(){$/;"	f	line:27
+next	Dolls.cpp	/^	dolls *next,*prev;$/;"	m	line:36	struct:dolls	file:
+next	Ites.cpp	/^	uint32 next(){$/;"	f	line:17	class:signal
+next	Josephus.cpp	/^	person *next, * prev;$/;"	m	line:8	struct:person	file:
+next	RunningMedian.cpp	/^	int next(){$/;"	f	line:14	struct:RNG
+nextSerial	FamilyTree_book.cpp	/^int nextSerial;$/;"	v	line:40
+no	Nerds.cpp	6;"	d	line:6	file:
+no2serial	FamilyTree_book.cpp	/^int no2serial[MAX_N], serial2no[MAX_N];$/;"	v	line:37
+node	Backjoon/2206.cpp	/^	node(int _y, int _x, int _level, bool _isBroken){$/;"	f	line:15	struct:node
+node	Backjoon/2206.cpp	/^struct node{$/;"	s	line:12	file:
+nodeChain	Backjoon/2250.cpp	/^nodeChain::nodeChain(int _n){$/;"	f	line:52	class:nodeChain
+nodeChain	Backjoon/2250.cpp	/^struct nodeChain{$/;"	s	line:38	file:
+nodeChain	Backjoon/2250.cpp	/^}typedef nodeChain;$/;"	t	line:50	file:
+nodes	Backjoon/2250.cpp	/^	inputTable *nodes;$/;"	m	line:41	struct:nodeChain	file:
+nodes	Backjoon/2250_2.cpp	/^vector<treeNode> nodes;$/;"	v	line:18
+nominate	kakao_B.cpp	/^char nominate[8] = {'A','C','F','J','M','N','R','T'};$/;"	v	line:10
+norm	Pinball.cpp	/^	double norm() const{$/;"	f	line:33	struct:vector2
+norm	vector2.h	/^	double norm() const {return hypot(x,y);}$/;"	f	line:27	struct:vector2
+normalize	Pinball.cpp	/^	vector2 normalize() const{$/;"	f	line:36	struct:vector2
+normalize	vector2.h	/^	vector2 normalize() const{$/;"	f	line:29	struct:vector2
+now	Pinball.cpp	/^vector2 now, dirction;$/;"	v	line:62
+nowClock	ClocksyncReview.cpp	/^int nowClock[16];$/;"	v	line:18
+num	Backjoon/8979.cpp	/^	int g, s, b, num, rank;$/;"	m	line:12	struct:medal	file:
+num	Backjoon/8979_2.cpp	/^	int g, s, b, num, rank;$/;"	m	line:12	struct:medal	file:
+num	Insertion2.cpp	/^	int num,priority,size;$/;"	m	line:11	struct:treapNode	file:
+num	Josephus.cpp	/^	int num;$/;"	m	line:7	struct:person	file:
+num	Traversal.cpp	/^	int num;$/;"	m	line:14	struct:treenode	file:
+num	Trip.h	/^	int num, priority,size;$/;"	m	line:2	struct:tripNode
+numToString	AhoCorasick.cpp	/^char numToString[MAX_N][MAX_LENGTH];\/\/문자열과 번호 매칭하기,$/;"	v	line:13
+number	TPS_DP.cpp	/^typedef int number;$/;"	t	line:8	file:
+ok	Nerds.cpp	5;"	d	line:5	file:
+onet	Backjoon/1006_3.cpp	/^int onet[2][MAX_N+5];$/;"	v	line:11
+onetagon	Backjoon/1006_2.cpp	/^int onetagon[2][MAX_N+1];$/;"	v	line:11
+op2	Backjoon/1021.cpp	/^int op2(int a,int& point){$/;"	f	line:65
+op2	Backjoon/1021_2.cpp	/^int op2(int index){$/;"	f	line:67
+op3	Backjoon/1021.cpp	/^int op3(int a,int& point){$/;"	f	line:82
+op3	Backjoon/1021_2.cpp	/^int op3(int index){$/;"	f	line:76
+oper	Backjoon/14888.cpp	/^int oper[4];$/;"	v	line:6
+operList	Backjoon/14888.cpp	/^int operList[MAX_N];	$/;"	v	line:7
+operator ()	Habit.cpp	/^	bool operator()(int a, int b){$/;"	f	line:15	struct:Comperater
+operator *	Genius.cpp	/^SquareMatrix SquareMatrix::operator * (const SquareMatrix& rhs) const {$/;"	f	line:34	class:SquareMatrix
+operator *	Pinball.cpp	/^	vector2 operator * (double rhs) const{$/;"	f	line:29	struct:vector2
+operator *	squareMatrix.h	/^SquareMatrix SquareMatrix::operator * (const SquareMatrix& rhs) const {$/;"	f	line:32	class:SquareMatrix
+operator *	vector2.h	/^	vector2 operator *(double rhs) const{$/;"	f	line:23	struct:vector2
+operator +	Pinball.cpp	/^	vector2 operator + (const vector2 &rhs) const{$/;"	f	line:23	struct:vector2
+operator +	vector2.h	/^	vector2 operator +(const vector2 &rhs) const{$/;"	f	line:16	struct:vector2
+operator -	Pinball.cpp	/^	vector2 operator - (const vector2 &rhs) const{$/;"	f	line:26	struct:vector2
+operator -	vector2.h	/^	vector2 operator -(const vector2 &rhs) const{$/;"	f	line:19	struct:vector2
+operator <	Backjoon/1726.cpp	/^	bool operator < (const point &p) const{$/;"	f	line:27	struct:point
+operator <	Backjoon/8979.cpp	/^	bool operator < (struct medal & m){$/;"	f	line:16	struct:medal
+operator <	Backjoon/8979_2.cpp	/^	bool operator < (struct medal & m){$/;"	f	line:16	struct:medal
+operator <	Pinball.cpp	/^	bool operator < ( const vector2 &rhs) const{$/;"	f	line:19	struct:vector2
+operator <	vector2.h	/^	bool operator < (const vector2 &rhs) const{$/;"	f	line:12	struct:vector2
+operator ==	Backjoon/6593.cpp	/^	bool operator ==(point &p) const{$/;"	f	line:25	struct:point
+operator ==	Backjoon/8979.cpp	/^	bool operator == (struct medal & m){$/;"	f	line:26	struct:medal
+operator ==	Backjoon/8979_2.cpp	/^	bool operator == (struct medal & m){$/;"	f	line:26	struct:medal
+operator ==	Pinball.cpp	/^	bool operator == (const vector2 &rhs) const{$/;"	f	line:16	struct:vector2
+operator ==	vector2.h	/^	bool operator == (const vector2 &rhs) const{$/;"	f	line:9	struct:vector2
+operator []	Genius.cpp	/^double* SquareMatrix::operator [] (int idx) {$/;"	f	line:52	class:SquareMatrix
+operator []	squareMatrix.h	/^double* SquareMatrix::operator [] (int idx) {$/;"	f	line:50	class:SquareMatrix
+output	AhoCorasick.cpp	/^	vector<int> output; \/\/출력 문자열 목록,$/;"	m	line:18	struct:TrieNode	file:
+overlap	Restore.cpp	/^void overlap(){$/;"	f	line:35
+overlap	Restore2.cpp	/^int overlap[MAX_K][MAX_K], cache[MAX_K][1<<MAX_K];$/;"	v	line:137
+p	1753_v2.cpp	/^vector<pair<int, int> > p[MAX_V];$/;"	v	line:13
+p	Backjoon/1102.cpp	/^int p,n;$/;"	v	line:11
+p	Backjoon/11399.cpp	/^int p[MAX_N], n;$/;"	v	line:10
+p	Backjoon/1509.cpp	/^bool p[MAX_N][MAX_N];$/;"	v	line:9
+p	Backjoon/1967.cpp	/^pair<int, int> p[MAX_N + 1];$/;"	v	line:12
+p	Backjoon/1967_2.cpp	/^int p[MAX_N + 1];$/;"	v	line:12
+p	Dragon.cpp	/^int c,n,p,l;$/;"	v	line:7
+p	NumB3RS.cpp	/^int C,n,d,p,t,q;$/;"	v	line:7
+p	Potion.cpp	/^int r[MAX],p[MAX],n;$/;"	v	line:11
+p	samsung/7966.cpp	/^pair<int64, int64> p[MAX_N]; \/\/ first : cost, second : value;$/;"	v	line:13
+pPath	FamilyTree.cpp	/^int arr[MAX_N],pPath[MAX_N];$/;"	v	line:11
+pack	t.cpp	/^string pack(int hour, int min, int sec){$/;"	f	line:17
+parallelSegment	vector2.h	/^bool parallelSegment(vector2 a, vector2 b, vector2 c, vector2 d, vector2 &p){\/\/평행한 선분일때 한 점에서 곂치는지 확인$/;"	f	line:61
+parametric_condition	Darpa_sol.cpp	/^int parametric_condition(type leng){$/;"	f	line:17
+parametric_search	Darpa_sol.cpp	/^type parametric_search(){$/;"	f	line:49
+parent	RunningMedian.cpp	6;"	d	line:6	file:
+path	lis4.cpp	/^int path[101];$/;"	v	line:14
+pathInfo	Mordor.cpp	/^struct pathInfo{$/;"	s	line:10	file:
+pathInfo	Mordor.cpp	/^}typedef pathInfo;$/;"	t	line:12	file:
+pattern	Backjoon/1013.cpp	/^char pattern[4][10] ={"10","0","1","01"};$/;"	v	line:8
+per	Death.cpp	/^double *per;$/;"	v	line:16
+person	Backjoon/1949.cpp	/^	int person;$/;"	m	line:15	struct:vilige	file:
+person	Josephus.cpp	/^person::person(int _num){$/;"	f	line:12	class:person
+person	Josephus.cpp	/^struct person{$/;"	s	line:6	file:
+person	Josephus.cpp	/^}typedef person;$/;"	t	line:10	file:
+person	Kakao_A.cpp	/^const int person[2][6] = {{1,3,6,10,15,21},$/;"	v	line:8
+pi	Minas.cpp	/^const double pi = 2.0 *acos(0);$/;"	v	line:54
+picture	kakao_B.cpp	/^int picture(int index, int selected){$/;"	f	line:50
+pii	Backjoon/1020_test.cpp	/^typedef pair<int,int> pii;$/;"	t	line:6	file:
+pivot	Backjoon/1012.cpp	/^const int pivot[4][2] = {{0,1},{0,-1},{1,0},{-1,0}};$/;"	v	line:9
+pivot	Backjoon/1014.cpp	/^const int pivot[5][2] = {{0,0},{0,-1},{0,1},{-1,-1},{-1,1}};$/;"	v	line:12
+pll	Backjoon/1020_test.cpp	/^typedef pair<ll,ll> pll;$/;"	t	line:7	file:
+point	Backjoon/1707.cpp	/^int point[MAX_N + 1];$/;"	v	line:12
+point	Backjoon/1726.cpp	/^	point(int _y, int _x, int _d, int _l){$/;"	f	line:23	struct:point
+point	Backjoon/1726.cpp	/^struct point{$/;"	s	line:21	file:
+point	Backjoon/1938.cpp	/^	point(int _y, int _x, int _l, int _s){$/;"	f	line:13	struct:point
+point	Backjoon/1938.cpp	/^struct point{$/;"	s	line:11	file:
+point	Backjoon/6593.cpp	/^	point(){$/;"	f	line:16	struct:point
+point	Backjoon/6593.cpp	/^	point(int _x, int _y, int _z){$/;"	f	line:19	struct:point
+point	Backjoon/6593.cpp	/^struct point{$/;"	s	line:14	file:
+point	Braveduck.cpp	/^struct point{$/;"	s	line:12	file:
+point	Braveduck.cpp	/^}typedef point;$/;"	t	line:14	file:
+point	Fossil.cpp	/^struct point{$/;"	s	line:11	file:
+point	Fossil.cpp	/^}typedef point;$/;"	t	line:13	file:
+polar	Pinball.cpp	/^	double polar() const{$/;"	f	line:40	struct:vector2
+polar	vector2.h	/^	double polar() const {return fmod(atan2(y,x) + 2*PI,2* PI);}$/;"	f	line:33	struct:vector2
+polygon	Nerds.cpp	/^typedef vector<vector2 > polygon;$/;"	t	line:14	file:
+polygon	Tresure.cpp	/^typedef vector<vector2> polygon;$/;"	t	line:12	file:
+polygonIntersects	Nerds.cpp	/^bool polygonIntersects(const polygon &p, const polygon& q){$/;"	f	line:39
+pop_back	Backjoon/5430_3.cpp	/^	void pop_back(){$/;"	f	line:34	struct:my_deque
+pop_front	Backjoon/5430_3.cpp	/^	void pop_front(){$/;"	f	line:30	struct:my_deque
+position	Backjoon/3980.cpp	/^int position[11][11];$/;"	v	line:6
+postorder	Backjoon/1991.cpp	/^void treeChain::postorder(treeNode *node){$/;"	f	line:58	class:treeChain
+potionInput	RandomInputMake.cpp	/^void potionInput(){$/;"	f	line:76
+pow	Genius.cpp	/^SquareMatrix SquareMatrix::pow(int n) const {$/;"	f	line:45	class:SquareMatrix
+pow	etc/1.cpp	/^int64 pow(int _n){$/;"	f	line:9
+pow	squareMatrix.h	/^SquareMatrix SquareMatrix::pow(int n) const {$/;"	f	line:43	class:SquareMatrix
+pre	Darpa.cpp	/^void pre(){$/;"	f	line:61
+pre	Darpa_sol.cpp	/^void pre(){$/;"	f	line:74
+preDel	Restore2.cpp	/^void preDel(vector<string> &a){$/;"	f	line:154
+precalc	Dragon.cpp	/^void precalc(){$/;"	f	line:21
+preorder	Backjoon/1991.cpp	/^void treeChain::preorder(treeNode *node){$/;"	f	line:46	class:treeChain
+preorder	Traversal.cpp	/^int preorder[MAX_N], inorder[MAX_N];$/;"	v	line:11
+prepareRMQ	FamilyTree_book.cpp	/^RMQ* prepareRMQ(){$/;"	f	line:54
+preper	Sushi.cpp	/^int preper[20];$/;"	v	line:8
+preper	Sushi2.cpp	/^int price[MAX_N+1],preper[MAX_N+1];$/;"	v	line:12
+preper	sushi2.cpp	/^int preper[20];$/;"	v	line:8
+prev	Dolls.cpp	/^	dolls *next,*prev;$/;"	m	line:36	struct:dolls	file:
+prev	Josephus.cpp	/^	person *next, * prev;$/;"	m	line:8	struct:person	file:
+price	Kakao_A.cpp	/^const int price[2][6] ={{5000000,3000000,2000000,500000,300000,100000},$/;"	v	line:6
+price	Sushi.cpp	/^int price[20];$/;"	v	line:7
+price	Sushi2.cpp	/^int price[MAX_N+1],preper[MAX_N+1];$/;"	v	line:12
+price	sushi2.cpp	/^int price[20];$/;"	v	line:7
+printCnt	Backjoon/1914.cpp	/^}void printCnt(){$/;"	f	line:33
+printDis	Arctic2.cpp	/^void printDis(){$/;"	f	line:19
+printField	Backjoon/1012.cpp	/^void printField(){$/;"	f	line:27
+printLen	Dragon.cpp	/^int printLen;$/;"	v	line:46
+printList	Allergy.cpp	/^void printList(){$/;"	f	line:39
+printPath	TPS_DP.cpp	/^void printPath(int **P, int n){$/;"	f	line:58
+printPath	lis4.cpp	/^void printPath(int n){$/;"	f	line:34
+printPostOrder	Traversal.cpp	/^void printPostOrder(const vector<int> &PreOrder, const vector<int>& InOrder){$/;"	f	line:55
+printPt	Backjoon/6603.cpp	/^void printPt(){$/;"	f	line:13
+printRes	Backjoon/2250_2.cpp	/^void printRes(){$/;"	f	line:52
+printSeq	lis4.cpp	/^void printSeq(vector<int> &s){$/;"	f	line:39
+printSolution	Kakuro2.cpp	/^void printSolution(){$/;"	f	line:74
+printStar	Backjoon/2448.cpp	/^void printStar(){$/;"	f	line:23
+print_b	Backjoon/2448_2.cpp	/^void print_b(){$/;"	f	line:10
+print_board	Backjoon/2580.cpp	/^int print_board(){$/;"	f	line:7
+print_dq	Backjoon/1021_2.cpp	/^void print_dq(){$/;"	f	line:14
+print_point	Backjoon/6593.cpp	/^	void print_point(){$/;"	f	line:29	struct:point
+priority	Insertion.cpp	/^	int value,priority,size;$/;"	m	line:10	struct:tripNode	file:
+priority	Insertion2.cpp	/^	int num,priority,size;$/;"	m	line:11	struct:treapNode	file:
+priority	Trip.h	/^	int num, priority,size;$/;"	m	line:2	struct:tripNode
+project	Pinball.cpp	/^	vector2 project(const vector2 & rhs) const{$/;"	f	line:50	struct:vector2
+project	vector2.h	/^	vector2 project(const vector2& rhs) const{$/;"	f	line:42	struct:vector2
+psum	Christmas.cpp	/^int psum[100001],D[100000];$/;"	v	line:10
+psum	MaxSum.cpp	/^int psum[MAX + 1];$/;"	v	line:11
+psum	ZeroOne.cpp	/^long long unsigned int psum[1000001];$/;"	v	line:7
+pt	Backjoon/6603.cpp	/^int *pt[6];$/;"	v	line:9
+push	Backjoon/10799.cpp	/^	int push(char *a){$/;"	f	line:13	struct:stack
+push	Backjoon/5430_3.cpp	/^	void push(int a){$/;"	f	line:26	struct:my_deque
+push_back	Josephus.cpp	/^void circleList::push_back(int _num){$/;"	f	line:29	class:circleList
+put	Kakuro2.cpp	/^void put(int y, int x, int val){$/;"	f	line:17
+put1	Backjoon/14502.cpp	/^void put1(vector<pair<int, int> > &v, int cnt,int _i, int _j){$/;"	f	line:54
+q	Kakuro2.cpp	/^int q, sum[MAX_N*MAX_N],length[MAX_N*MAX_N], known[MAX_N*MAX_N];$/;"	v	line:14
+q	NumB3RS.cpp	/^int C,n,d,p,t,q;$/;"	v	line:7
+q	OCR.cpp	/^int m,q,n;$/;"	v	line:7
+query	FamilyTree.cpp	/^	int query(int left, int right){$/;"	f	line:53	struct:RMQ
+query	FamilyTree.cpp	/^	int query(int left, int right, int node, int nodeLeft, int nodeRight){$/;"	f	line:47	struct:RMQ
+query	FamilyTree_book.cpp	/^	int query(int left, int right){$/;"	f	line:29	struct:RMQ
+query	FamilyTree_book.cpp	/^	int query(int left, int right, int node, int nodeLeft, int nodeRight){$/;"	f	line:22	struct:RMQ
+query	MeasureTime.cpp	/^	long long query(int index){$/;"	f	line:16	struct:fenwickTree
+query	Mordor.cpp	/^	pathInfo query(int left, int right, int node, int nodeLeft, int nodeRight){$/;"	f	line:38	struct:RMQ
+query	Mordor.cpp	/^	pathInfo query(int left,int right){$/;"	f	line:44	struct:RMQ
+query	SoLong.cpp	/^	int query(char _str[]){$/;"	f	line:47	struct:trieNode
+query	SoLong.cpp	/^	int query(char _str[], int _it, int _n){$/;"	f	line:37	struct:trieNode
+r	Backjoon/1149.cpp	/^	int r, g, b;$/;"	m	line:10	struct:RGB	file:
+r	Duathlon.cpp	/^double r[MAX_N],c[MAX_N];$/;"	v	line:12
+r	Fortress.cpp	/^	int x, y, r;$/;"	m	line:10	struct:circleInfo	file:
+r	Minas.cpp	/^double y[MAX_N],x[MAX_N],r[MAX_N]; $/;"	v	line:21
+r	Potion.cpp	/^int r[MAX],p[MAX],n;$/;"	v	line:11
+r	WithdRawal.cpp	/^int c[MAX_N],r[MAX_N];$/;"	v	line:11
+r	algospot9th/sfw.cpp	/^int r0,c0,r,c;$/;"	v	line:11
+r	samsung/8275.cpp	/^int l[11],r[11],s[11];$/;"	v	line:9
+r0	algospot9th/sfw.cpp	/^int r0,c0,r,c;$/;"	v	line:11
+range	Backjoon/1016.cpp	/^unsigned char range[MAX_M + 1];$/;"	v	line:9
+rangeRMQ	FamilyTree.cpp	/^	vector<int> rangeRMQ;$/;"	m	line:25	struct:RMQ	file:
+rangeRMQ	FamilyTree_book.cpp	/^	vector<int> rangeRMQ;$/;"	m	line:10	struct:RMQ	file:
+rangeRMQ	Mordor.cpp	/^	vector<pathInfo> rangeRMQ;$/;"	m	line:15	struct:RMQ	file:
+ranges	Minas.cpp	/^pair<double,double> ranges[MAX_N];$/;"	v	line:55
+rank	Backjoon/8979.cpp	/^	int g, s, b, num, rank;$/;"	m	line:12	struct:medal	file:
+rank	Backjoon/8979_2.cpp	/^	int g, s, b, num, rank;$/;"	m	line:12	struct:medal	file:
+rechange	ClockSyn.cpp	/^void rechange(int i,int *clock){$/;"	f	line:39
+recognize	OCR.cpp	/^double recognize(int segment, int previousMatch){$/;"	f	line:57
+recognize	OCRSol.cpp	/^double recognize(int segment, int previousMatch)$/;"	f	line:45
+reconstruct	KLIS.cpp	/^void reconstruct(int start,int skip, vector<int>& list){$/;"	f	line:151
+reconstruct	OCR.cpp	/^string reconstruct(int segment, int previousMatch){$/;"	f	line:75
+reconstruct	OCRSol.cpp	/^string reconstruct(int segment, int previousMatch)$/;"	f	line:105
+reconstruct	Restore.cpp	/^string reconstruct(int last, int select){$/;"	f	line:80
+reconstruct	Restore2.cpp	/^string reconstruct(vector<string> &a, int last, int selected){$/;"	f	line:207
+reconstruct	lis4.cpp	/^void reconstruct(int start, vector<int> &seq, int *s){$/;"	f	line:44
+recover	BoardCover.cpp	/^bool recover(vector<vector<int> > &board, int index ,int y, int x){$/;"	f	line:34
+reflect	Pinball.cpp	/^vector2 reflect(vector2 dir, vector2 center, vector2 contact){$/;"	f	line:90
+registerPerson	Nerd2.cpp	/^int registerPerson(int x, int y){$/;"	f	line:36
+remove	Kakuro2.cpp	/^void remove(int y, int x, int val){$/;"	f	line:22
+replace	Trip.h	/^tripNode *replace(tripNode *root, tripNode *node){$/;"	f	line:17
+res	kakao_C.cpp	/^char res[25];$/;"	v	line:103
+resultString	Encrypt.cpp	/^string resultString(string str){$/;"	f	line:5
+returnK	CanadaTrip.cpp	/^int returnK(){$/;"	f	line:51
+revers	Backjoon/2908.cpp	/^int revers(int a){$/;"	f	line:5
+right	Backjoon/1991.cpp	/^	treeNode *left, *right;$/;"	m	line:8	struct:treeNode	file:
+right	Backjoon/2250.cpp	/^	treeNode *left, *right;$/;"	m	line:27	struct:treeNode	file:
+right	Backjoon/2250_2.cpp	/^	int left, right;$/;"	m	line:14	struct:treeNode	file:
+right	Insertion.cpp	/^	tripNode *left,*right;$/;"	m	line:11	struct:tripNode	file:
+right	Insertion2.cpp	/^	treapNode *left, *right;$/;"	m	line:12	struct:treapNode	file:
+right	Traversal.cpp	/^	treenode *left, *right;$/;"	m	line:15	struct:treenode	file:
+right	Trip.h	/^	tripNode *left,*right;$/;"	m	line:3	struct:tripNode
+rightAfter	OCRSol.cpp	/^double rightAfter[501][501];$/;"	v	line:27
+rock	Braveduck.cpp	/^point rock[MAX_N + 2];$/;"	v	line:18
+root	Backjoon/1991.cpp	/^	treeNode *root;$/;"	m	line:16	struct:treeChain	file:
+root	Backjoon/2250.cpp	/^	treeNode *root;$/;"	m	line:40	struct:nodeChain	file:
+root	OCR.cpp	/^int root[500];$/;"	v	line:12
+rotate	BoardCover2.cpp	/^vector<string> rotate(vector<string> block){$/;"	f	line:40
+rotations	BoardCover2.cpp	/^vector< vector<pair<int,int> > > rotations;$/;"	v	line:12
+round	Darpa_sol.cpp	/^type round(type data){$/;"	f	line:40
+route	Restore.cpp	/^int route[16][16];$/;"	v	line:23
+runningMedian	RunningMedian.cpp	/^int runningMedian(int n, RNG rng){$/;"	f	line:21
+s	Backjoon/1020_test.cpp	/^string s;$/;"	v	line:11
+s	Backjoon/1938.cpp	/^	int y, x, l, s;$/;"	m	line:12	struct:point	file:
+s	Backjoon/8979.cpp	/^	int g, s, b, num, rank;$/;"	m	line:12	struct:medal	file:
+s	Backjoon/8979_2.cpp	/^	int g, s, b, num, rank;$/;"	m	line:12	struct:medal	file:
+s	Backjoon/9370.cpp	/^int s, g, h;$/;"	v	line:13
+s	Backjoon/9370_2.cpp	/^int s, g, h;$/;"	v	line:13
+s	algospot9th/park.cpp	/^int n,m,s;$/;"	v	line:11
+s	samsung/8275.cpp	/^int l[11],r[11],s[11];$/;"	v	line:9
+search	Allergy.cpp	/^void search(int index,int selected){$/;"	f	line:68
+search	Arctic2.cpp	/^double search(){$/;"	f	line:38
+search	AsymTiling.cpp	/^int search(int index,int &n, int *cache){$/;"	f	line:21
+search	Backjoon/1006.cpp	/^const int search[4][2] = {{0,1},{0,-1},{1,0},{-1,0}};$/;"	v	line:7
+search	Backjoon/1006_2.cpp	/^int search(int u, int d){$/;"	f	line:15
+search	Backjoon/1006_3.cpp	/^int search(int u, int flag){$/;"	f	line:15
+search	Backjoon/1012.cpp	/^int search(int index){$/;"	f	line:36
+search	Backjoon/1013.cpp	/^bool search(int index, int patternIndex){$/;"	f	line:10
+search	Backjoon/1014.cpp	/^int search(int y, int x,int up, int now,int prev){$/;"	f	line:28
+search	Backjoon/1018.cpp	/^int search(int pivoty, int pivotx, int y, int x, char flag){$/;"	f	line:10
+search	Backjoon/1020.cpp	/^int search(string &str, int &pivot){$/;"	f	line:28
+search	Backjoon/1020_2.cpp	/^int search(int pos, int left, int bigger){$/;"	f	line:20
+search	Backjoon/1021.cpp	/^int search(int index,int& point){$/;"	f	line:30
+search	Backjoon/1021_2.cpp	/^int search(int index){$/;"	f	line:36
+search	Backjoon/1036.cpp	/^void search(){$/;"	f	line:45
+search	Backjoon/10815.cpp	/^int search(int begin, int end, int value){$/;"	f	line:9
+search	Backjoon/1149.cpp	/^int search(int index, int canSet){$/;"	f	line:34
+search	Backjoon/11559.cpp	/^int search(stack<pair<int, int> > &_s){$/;"	f	line:51
+search	Backjoon/11559_2.cpp	/^int search(int _y, int _x){$/;"	f	line:37
+search	Backjoon/11726.cpp	/^int search(int index){$/;"	f	line:12
+search	Backjoon/11727.cpp	/^int search(int index){$/;"	f	line:12
+search	Backjoon/14888.cpp	/^void search(int index, int sum){$/;"	f	line:10
+search	Backjoon/1509.cpp	/^int search(int index){$/;"	f	line:12
+search	Backjoon/1520.cpp	/^int search(int y, int x){$/;"	f	line:18
+search	Backjoon/1520_2.cpp	/^int search(int y, int x){$/;"	f	line:13
+search	Backjoon/1753.cpp	/^void search(vector< vector <pair<int, int> > > &v){$/;"	f	line:16
+search	Backjoon/1890.cpp	/^int64 search(int y, int x){$/;"	f	line:13
+search	Backjoon/1920.cpp	/^int search(int begin, int end, int value){$/;"	f	line:9
+search	Backjoon/1920_v.2.cpp	/^bool search(int a){$/;"	f	line:10
+search	Backjoon/1932.cpp	/^int search(int y, int x, const int &n){$/;"	f	line:12
+search	Backjoon/1949.cpp	/^int search(int pre,int index, bool canGreat){$/;"	f	line:28
+search	Backjoon/1967_2.cpp	/^int search(int root){$/;"	f	line:15
+search	Backjoon/2096.cpp	/^int search(int index, int locate,int flag){$/;"	f	line:20
+search	Backjoon/2096_2.cpp	/^int search( int flag){$/;"	f	line:19
+search	Backjoon/2098.cpp	/^int search(int now, int sel){$/;"	f	line:15
+search	Backjoon/2133.cpp	/^int search(int index, int flag){$/;"	f	line:9
+search	Backjoon/2156.cpp	/^int search(int index, int flag){$/;"	f	line:12
+search	Backjoon/2178.cpp	/^int search(){$/;"	f	line:22
+search	Backjoon/2250.cpp	/^void nodeChain::search(){$/;"	f	line:91	class:nodeChain
+search	Backjoon/2482.cpp	/^int search(int index, int left, int flag){$/;"	f	line:12
+search	Backjoon/2573_2.cpp	/^void search(int y, int x){$/;"	f	line:20
+search	Backjoon/2579.cpp	/^int search(int locate, int canSel){$/;"	f	line:14
+search	Backjoon/2580.cpp	/^int search(int y, int x){$/;"	f	line:16
+search	Backjoon/2805.cpp	/^int64 search(int64 begin, int64 end){$/;"	f	line:16
+search	Backjoon/2869.cpp	/^int64 search(int64 begin, int64 end){$/;"	f	line:11
+search	Backjoon/2931.cpp	/^bool search(int y, int x, int direct, bool added){$/;"	f	line:22
+search	Backjoon/3980.cpp	/^int search(int index, int sel){$/;"	f	line:13
+search	Backjoon/6593.cpp	/^int search(){$/;"	f	line:47
+search	Backjoon/9095.cpp	/^int search(int n){$/;"	f	line:10
+search	Backjoon/9370.cpp	/^void search(vector< vector<pair<int, int> > > &vl, vector<int> &vt){$/;"	f	line:15
+search	Backjoon/9370_2.cpp	/^void search(vector< vector<pair<int, int> > > &vl, vector<int> &vt){$/;"	f	line:15
+search	Backjoon/9663.cpp	/^int search(int y){$/;"	f	line:35
+search	BoardCover.cpp	/^int search(vector< vector<int> > &board ){$/;"	f	line:40
+search	BoardCover2.cpp	/^void search(int placed, vector<string> &board){$/;"	f	line:84
+search	Boggle.cpp	/^bool search(int y, int x, vector<char> &word, int index, vector< vector<char> > &metrix){$/;"	f	line:21
+search	Braveduck.cpp	/^bool search(int index){$/;"	f	line:30
+search	CanadaTrip.cpp	/^int search(){$/;"	f	line:38
+search	Christmas.cpp	/^void search(){$/;"	f	line:54
+search	ClockSyn.cpp	/^int search(int *clock,int *path,int index,int switchNum){$/;"	f	line:52
+search	ClocksyncReview.cpp	/^int search(int index){$/;"	f	line:31
+search	CogiRun.cpp	/^int search(int locate){ \/\/ problem : stack Overflow$/;"	f	line:183
+search	Darpa.cpp	/^float search(){$/;"	f	line:48
+search	Death.cpp	/^void search(){$/;"	f	line:31
+search	Dolls.cpp	/^void search(chainDolls& chain){$/;"	f	line:81
+search	Escapegees.cpp	/^int search(){$/;"	f	line:89
+search	Fence.cpp	/^int search(vector<int> &a, int left, int right){$/;"	f	line:22
+search	FenceReview.cpp	/^int search(vector<int> &a, int left, int right){$/;"	f	line:8
+search	GggCccDdd.cpp	/^int search(){$/;"	f	line:29
+search	Graduation.cpp	/^int search(int learned, int now){$/;"	f	line:34
+search	Insertion.cpp	/^void search(vector<int> &list){$/;"	f	line:87
+search	Ites.cpp	/^int search(){$/;"	f	line:26
+search	JLIS.cpp	/^int search(int* seq1,int* seq2, int** cache, int n, int m, int index1,int index2){$/;"	f	line:20
+search	JeahaSafe.cpp	/^int search(string &a, string &b,int flag){$/;"	f	line:28
+search	JeahaSafe2.cpp	/^int search(){$/;"	f	line:47
+search	Josephus_Queue.cpp	/^void search(){$/;"	f	line:12
+search	Jumpgame.cpp	/^bool search(vector< vector<int> > &b,vector< vector<int> > &c, int y, int x){$/;"	f	line:22
+search	Kakuro2.cpp	/^bool search(){$/;"	f	line:83
+search	LIS.cpp	/^int search(int* seq, int* cache, int n, int index){$/;"	f	line:12
+search	Loan.cpp	/^double search(){$/;"	f	line:32
+search	LunchBox.cpp	/^int search(vector<pair<int, int> > &a){$/;"	f	line:28
+search	MatchOrder.cpp	/^int search(vector<int> &rus, vector<int> &kor ){$/;"	f	line:29
+search	Minas.cpp	/^int search(int pre, int now){$/;"	f	line:31
+search	NPoly.cpp	/^int search(int pre,int rest){$/;"	f	line:11
+search	Naming.cpp	/^void search(){$/;"	f	line:30
+search	NumB3RS.cpp	/^double search(int nowLocate,int nowDay){$/;"	f	line:22
+search	NumberGame.cpp	/^int search(int left, int right){$/;"	f	line:18
+search	Packing.cpp	/^int search(int restW,int now){$/;"	f	line:31
+search	PalinDroMize.cpp	/^int search(){$/;"	f	line:28
+search	Pass486.cpp	/^int search(){$/;"	f	line:49
+search	Picnic.cpp	/^int search(vector<vector<bool> > &metrix, vector<bool> &isfriend){$/;"	f	line:15
+search	Poly.cpp	/^int search(int pre,int n){$/;"	f	line:9
+search	Potion.cpp	/^void search(){$/;"	f	line:18
+search	Prefix.cpp	/^void search(){$/;"	f	line:11
+search	QuardTreeReview.cpp	/^string search(string str,int &i){$/;"	f	line:6
+search	Ratio.cpp	/^int search(){$/;"	f	line:12
+search	Restore.cpp	/^int search(int last, int select){$/;"	f	line:43
+search	Restore2.cpp	/^int search(vector<string> &a, int last, int selected){$/;"	f	line:193
+search	Roots.cpp	/^vector<double> search(vector<double> degree){$/;"	f	line:61
+search	StrJoin.cpp	/^int search(vector<int> &a){$/;"	f	line:13
+search	Sushi.cpp	/^int search(int restW, int now, int &n){$/;"	f	line:15
+search	Tiling2.cpp	/^int search(int index,int &n, int *cache){$/;"	f	line:13
+search	WildCard.cpp	/^bool search(string p, string s,int index){$/;"	f	line:23
+search	WithdRawal.cpp	/^double search(){$/;"	f	line:25
+search	Zimbabwe.cpp	/^int search(int index, int select, int less, int flag){$/;"	f	line:43
+search	algospot9th/park.cpp	/^void search(vector<int> &res){$/;"	f	line:14
+search	etc/1.cpp	/^int64 search(int _n){$/;"	f	line:16
+search	kakao_C.cpp	/^string search(int index,int select){$/;"	f	line:116
+search	line/najab.cpp	/^int search()$/;"	f	line:39
+search	lis4.cpp	/^int search(int* seq, int* cache, int n, int index){$/;"	f	line:15
+search	pi.cpp	/^int search(string &a, int *cache,int index, int type){$/;"	f	line:20
+search	picnic.cpp	/^bool search(int y, int x, vector<char> &word, int index, vector< vector<char> > &metrix){$/;"	f	line:22
+search	quardTree.cpp	/^string search(string *str, int *i){$/;"	f	line:8
+search	samsung/1767.cpp	/^int search(int index, int connected, int value){$/;"	f	line:19
+search	samsung/7830.cpp	/^int search(){$/;"	f	line:66
+search	samsung/7964.cpp	/^int search(int index){$/;"	f	line:14
+search	samsung/7964_2.cpp	/^int search(){$/;"	f	line:14
+search	samsung/7964_3.cpp	/^int search(){$/;"	f	line:15
+search	samsung/7964_4.cpp	/^int search(){$/;"	f	line:14
+search	samsung/7964_5.cpp	/^int search(int index){$/;"	f	line:14
+search	samsung/7964_6.cpp	/^int search(){$/;"	f	line:14
+search	samsung/7966.cpp	/^void search(int64 _cost, int64 _value, int64 index){$/;"	f	line:17
+search	samsung/7966_2.cpp	/^int search(int _cost, int _value, int index){$/;"	f	line:17
+search	samsung/7966_3.cpp	/^int search(){$/;"	f	line:18
+search	samsung/8275.cpp	/^bool search(vector<int> &res, vector<int> &list, int index, int sum){$/;"	f	line:11
+search	sushi2.cpp	/^int search(int restW, int now, int &n){$/;"	f	line:16
+search1	Arctic.cpp	/^double search1(vector< vector<double> > &v, vector<bool> &pass,int index, double mindest){$/;"	f	line:20
+search1	Backjoon/2573.cpp	/^bool search1(int y, int x){$/;"	f	line:15
+search2	Allergy.cpp	/^void search2(int selected){\/\/친구를 기준으로 생각해보자,$/;"	f	line:90
+search2	Backjoon/1648.cpp	/^int search2( int line, int index){$/;"	f	line:55
+search2	Backjoon/1654.cpp	/^int64 search2(){$/;"	f	line:13
+search2	Backjoon/2573.cpp	/^void search2(int y, int x){$/;"	f	line:33
+search2	Backjoon/2805.cpp	/^int64 search2(){$/;"	f	line:28
+search2	CogiRun.cpp	/^int search2(int locate){$/;"	f	line:199
+search2	GggCccDdd.cpp	/^int search2(){$/;"	f	line:50
+search2	JeahaSafe.cpp	/^vector<int> search2(string a,string b){$/;"	f	line:66
+search2	MaxSum.cpp	/^int search2(){$/;"	f	line:33
+search2	Ratio.cpp	/^int search2(){$/;"	f	line:25
+search2	Zimbabwe.cpp	/^int search2(int index, int select, int less, int flag){$/;"	f	line:74
+search3	Zimbabwe.cpp	/^int search3(int index, int select, int less, int flag){$/;"	f	line:107
+searchAndPrint	Fortress.cpp	/^void searchAndPrint(vector<circleInfo> &circleSet){$/;"	f	line:68
+searchAndPrint	Traversal.cpp	/^void searchAndPrint(treenode *root){$/;"	f	line:36
+searchCarry	Packing.cpp	/^void searchCarry(int capacitiy, int now, vector<string> &a){$/;"	f	line:46
+searchRoot	FamilyTree.cpp	/^int searchRoot(int a){$/;"	f	line:13
+searched	Backjoon/11559.cpp	/^bool searched[MAX_N][MAX_M];$/;"	v	line:14
+second	Christmas.cpp	/^int second(){$/;"	f	line:27
+second	Quantization.cpp	/^int second(vector<int> &a, int **cache, int x, int y){$/;"	f	line:33
+second2	Christmas.cpp	/^int second2(){$/;"	f	line:40
+seed	Dragon.cpp	/^char seed;$/;"	v	line:26
+seed	Ites.cpp	/^	uint32 seed;$/;"	m	line:11	class:signal	file:
+seed	RunningMedian.cpp	/^	int seed,a,b;$/;"	m	line:12	struct:RNG	file:
+segmentInterseation	vector2.h	/^bool segmentInterseation(vector2 a, vector2 b, vector2 c, vector2 d, vector2 &p){$/;"	f	line:73
+segmentIntersection	vector2.h	/^bool segmentIntersection(vector2 a, vector2 b, vector2 c,vector2 d){$/;"	f	line:78
+sel	kakao_D.cpp	/^int sel;$/;"	v	line:6
+selected	Arctic2.cpp	/^int selected[MAX_N];$/;"	v	line:37
+selected	Braveduck.cpp	/^bool selected[MAX_N + 3];$/;"	v	line:20
+selecting	Allergy.cpp	/^void selecting(int index,int delta){$/;"	f	line:64
+semester	Graduation.cpp	/^int subject[MAX_N],semester[MAX_M];$/;"	v	line:10
+sentenceNum	OCRSol.cpp	/^int composition, wordNum, sentenceNum;$/;"	v	line:15
+serial2no	FamilyTree_book.cpp	/^int no2serial[MAX_N], serial2no[MAX_N];$/;"	v	line:37
+set	Backjoon/2042.cpp	/^int set(int locate, int value){$/;"	f	line:34
+set	BoardCover2.cpp	/^bool set(int y, int x, const vector<pair<int,int> > &block, int delta){$/;"	f	line:73
+setCache	line/najab.cpp	/^void setCache(){$/;"	f	line:18
+setLeft	Insertion.cpp	/^	void setLeft(tripNode *_left){$/;"	f	line:17	struct:tripNode
+setMax	Backjoon/1036.cpp	/^void setMax(){$/;"	f	line:39
+setPoint	Backjoon/6593.cpp	/^	void setPoint(int _x, int _y, int _z){$/;"	f	line:22	struct:point
+setRight	Insertion.cpp	/^	void setRight(tripNode *_right){$/;"	f	line:21	struct:tripNode
+setRight	Insertion2.cpp	/^	void setRight(treapNode * _right){ right = _right; calSize(); }$/;"	f	line:19	struct:treapNode
+setStd	Allergy.cpp	/^void setStd(){$/;"	f	line:5
+setStd	Arctic2.cpp	/^void setStd(){$/;"	f	line:9
+setStd	BlockGame.cpp	/^void setStd(){$/;"	f	line:14
+setStd	BoardCover2.cpp	/^void setStd(){$/;"	f	line:5
+setStd	CanadaTrip.cpp	/^void setStd(){$/;"	f	line:7
+setStd	Darpa.cpp	/^void setStd(){$/;"	f	line:7
+setStd	Darpa_sol.cpp	/^void setStd(){$/;"	f	line:6
+setStd	Dragon.cpp	/^void setStd(){$/;"	f	line:15
+setStd	Duathlon.cpp	/^void setStd(){$/;"	f	line:5
+setStd	Fossil.cpp	/^void setStd(){$/;"	f	line:6
+setStd	Genius.cpp	/^void setStd(){$/;"	f	line:56
+setStd	KLIS.cpp	/^void setStd(){$/;"	f	line:8
+setStd	Kakuro2.cpp	/^void setStd(){$/;"	f	line:6
+setStd	Loan.cpp	/^void setStd(){$/;"	f	line:4
+setStd	LunchBox.cpp	/^void setStd(){$/;"	f	line:11
+setStd	MatchOrder.cpp	/^void setStd(){$/;"	f	line:13
+setStd	MeetingRoom.cpp	/^void setStd(){$/;"	f	line:4
+setStd	Minas.cpp	/^void setStd(){$/;"	f	line:14
+setStd	Morse.cpp	/^void setStd(){$/;"	f	line:3
+setStd	Nerds.cpp	/^void setStd(){$/;"	f	line:8
+setStd	NumberGame.cpp	/^void setStd(){$/;"	f	line:10
+setStd	Pass486.cpp	/^void setStd(){$/;"	f	line:5
+setStd	Pinball.cpp	/^void setStd(){$/;"	f	line:7
+setStd	Potion.cpp	/^void setStd(){$/;"	f	line:5
+setStd	Ratio.cpp	/^void setStd(){$/;"	f	line:5
+setStd	Restore.cpp	/^void setStd(){$/;"	f	line:13
+setStd	Restore2.cpp	/^void setStd(){$/;"	f	line:13
+setStd	Roots.cpp	/^void setStd(){$/;"	f	line:6
+setStd	Sushi2.cpp	/^void setStd(){$/;"	f	line:4
+setStd	Tictactoe.cpp	/^void setStd(){$/;"	f	line:13
+setStd	Tresure.cpp	/^void setStd(){$/;"	f	line:6
+setStd	WithdRawal.cpp	/^void setStd(){$/;"	f	line:5
+setStd	Zimbabwe.cpp	/^void setStd(){$/;"	f	line:10
+setleft	Insertion2.cpp	/^	void setleft(treapNode * _left){ left = _left; calSize(); }$/;"	f	line:20	struct:treapNode
+shift	JeahaSafe.cpp	/^int shift(string original, string target){$/;"	f	line:86
+signal	Ites.cpp	/^	signal(){$/;"	f	line:14	class:signal
+signal	Ites.cpp	/^class signal{$/;"	c	line:9	file:
+simulate	Pinball.cpp	/^void simulate(vector2 here, vector2 dir){$/;"	f	line:94
+size	Backjoon/5430_3.cpp	/^	int size;$/;"	m	line:13	struct:my_deque	file:
+size	Dolls.cpp	/^	int size;$/;"	m	line:46	struct:chainDolls	file:
+size	EditerWar.cpp	/^	int group[MAX_N], enermy[MAX_N], size[MAX_N], depth[MAX_N];$/;"	m	line:13	struct:unionFindTree	file:
+size	Insertion.cpp	/^	int value,priority,size;$/;"	m	line:10	struct:tripNode	file:
+size	Insertion2.cpp	/^	int num,priority,size;$/;"	m	line:11	struct:treapNode	file:
+size	Josephus.cpp	/^	int size;$/;"	m	line:18	struct:circleList	file:
+size	Trip.h	/^	int num, priority,size;$/;"	m	line:2	struct:tripNode
+slice	Backjoon/1018.cpp	/^int slice(){$/;"	f	line:20
+slice	Traversal.cpp	/^vector<int> slice(const vector<int> & v, int a, int b){$/;"	f	line:51
+slist	Prefix.cpp	/^string slist[3000];$/;"	v	line:9
+solve	Backjoon/1020_test.cpp	/^int solve(int pos, int left, bool bigger){$/;"	f	line:15
+solve	Decual.cpp	/^string solve(const string &a){$/;"	f	line:8
+solve	Fence.cpp	/^int solve(vector<int> &h, int left, int right){$/;"	f	line:61
+solve	Fossil.cpp	/^double solve(){$/;"	f	line:45
+solve	Roots.cpp	/^vector<double> solve(vector<double> degree){$/;"	f	line:32
+solve2	Decual.cpp	/^bool solve2(const string &a, const string &b){$/;"	f	line:53
+solve2	Pinball.cpp	/^vector<double> solve2(double a, double b, double c){$/;"	f	line:65
+solveCircular	Minas.cpp	/^int solveCircular(){$/;"	f	line:80
+solveLinear	Minas.cpp	/^int solveLinear(double begin, double end){$/;"	f	line:66
+solveStack	Fence_stack.cpp	/^int solveStack(){$/;"	f	line:9
+split	Insertion2.cpp	/^treapPair split(treapNode* root, int key){$/;"	f	line:32
+splitNode	Insertion.cpp	/^NodePair splitNode(tripNode *root, int value){$/;"	f	line:37
+spread	Backjoon/14502.cpp	/^void spread(vector<pair<int, int> > &v,int flag){$/;"	f	line:31
+stack	Backjoon/10799.cpp	/^	stack():metal(0),total(0) {};$/;"	f	line:11	struct:stack
+stack	Backjoon/10799.cpp	/^struct stack{$/;"	s	line:7	file:
+stair	Backjoon/2579.cpp	/^int stair[MAX_CNT + 1];$/;"	v	line:11
+startD	Backjoon/1726.cpp	/^int startX, startY, startD;$/;"	v	line:17
+startS	Backjoon/1938.cpp	/^int startX, startY, startS;$/;"	v	line:23
+startX	Backjoon/1726.cpp	/^int startX, startY, startD;$/;"	v	line:17
+startX	Backjoon/1938.cpp	/^int startX, startY, startS;$/;"	v	line:23
+startY	Backjoon/1726.cpp	/^int startX, startY, startD;$/;"	v	line:17
+startY	Backjoon/1938.cpp	/^int startX, startY, startS;$/;"	v	line:23
+start_p	Backjoon/6593.cpp	/^struct point start_p, end_p;$/;"	v	line:34	typeref:struct:point
+state	Tictactoe.cpp	/^int state(){$/;"	f	line:23
+stdRelocate	OCR.cpp	/^void stdRelocate(){$/;"	f	line:119
+stdRelocate	OCRSol.cpp	/^ void stdRelocate(){$/;"	f	line:137
+str	Backjoon/1020_2.cpp	/^string str;$/;"	v	line:10
+str	Backjoon/1036.cpp	/^string str[MAX_N];$/;"	v	line:10
+str	Dragon.cpp	/^string str ="FX", str1 = "X+YF", str2 = "FX-Y";$/;"	v	line:8
+str	Habit.cpp	/^string str;$/;"	v	line:72
+str	JeahaSafe2.cpp	/^string str[101];$/;"	v	line:44
+str	Kakao_C.cpp	/^vector<string> str;$/;"	v	line:8
+str	OCR.cpp	/^char str[500][11],input[100][11];$/;"	v	line:8
+str	Restore.cpp	/^string str[16];$/;"	v	line:20
+str1	Dragon.cpp	/^string str ="FX", str1 = "X+YF", str2 = "FX-Y";$/;"	v	line:8
+str2	Dragon.cpp	/^string str ="FX", str1 = "X+YF", str2 = "FX-Y";$/;"	v	line:8
+strTokenize	Allergy.cpp	/^vector<string> strTokenize(string str,char pivot){$/;"	f	line:10
+stringE	Zimbabwe.cpp	/^string stringE;$/;"	v	line:20
+stringToInt	Backjoon/1020_2.cpp	/^long long int stringToInt(string &str){$/;"	f	line:39
+stringToInt	Backjoon/1020_test.cpp	/^long long int stringToInt(string &str){$/;"	f	line:45
+subFrom	FanMeeting.cpp	/^void subFrom(vector<int> &a, vector<int> &b){$/;"	f	line:22
+subString	Kakao_C.cpp	/^void subString(){$/;"	f	line:15
+subString2	Kakao_C.cpp	/^void subString2(string a, string s[3]){$/;"	f	line:25
+subject	Graduation.cpp	/^int subject[MAX_N],semester[MAX_M];$/;"	v	line:10
+sum	Kakuro2.cpp	/^int q, sum[MAX_N*MAX_N],length[MAX_N*MAX_N], known[MAX_N*MAX_N];$/;"	v	line:14
+sum36	Backjoon/1036.cpp	/^string sum36(string &s1,string &s2){$/;"	f	line:16
+sumCache	Kakao_B.cpp	/^int sumCache[MAX_N][MAX_N];$/;"	v	line:12
+sushi3	Sushi2.cpp	/^int sushi3(){$/;"	f	line:48
+switchs	ClocksyncReview.cpp	/^const int switchs[10][16] = {$/;"	v	line:6
+t	Backjoon/9370.cpp	/^int n, m, t;$/;"	v	line:12
+t	Backjoon/9370_2.cpp	/^int n, m, t;$/;"	v	line:12
+t	Duathlon.cpp	/^int t,n;$/;"	v	line:11
+t	Habit.cpp	/^	int t;$/;"	m	line:11	struct:Comperater	file:
+t	NumB3RS.cpp	/^int C,n,d,p,t,q;$/;"	v	line:7
+tail	Dolls.cpp	/^	dolls *head, *tail;$/;"	m	line:45	struct:chainDolls	file:
+tail	Josephus.cpp	/^	person *head,*tail;$/;"	m	line:19	struct:circleList	file:
+tenPow	Backjoon/1020_test.cpp	/^ll tenPow(int a){$/;"	f	line:41
+terminal	AhoCorasick.cpp	/^	int terminal; \/\/현 위치에서 끝나는 문자번호$/;"	m	line:16	struct:TrieNode	file:
+test	Allergy.cpp	/^void test(){$/;"	f	line:28
+test	Arctic.cpp	/^void test(vector<bool> &pass){$/;"	f	line:14
+test	AsymTiling.cpp	/^void test(int *a,int n){$/;"	f	line:7
+test	Backjoon/1006.cpp	/^void test(){$/;"	f	line:12
+test	Backjoon/1014.cpp	/^void test(){$/;"	f	line:47
+test	Backjoon/14502.cpp	/^void test(){$/;"	f	line:13
+test	Backjoon/9663.cpp	/^void test(){$/;"	f	line:10
+test	BoardCover.cpp	/^void test(vector<vector<int> > &board) {$/;"	f	line:13
+test	BoardCover2.cpp	/^void test(vector<string> block){$/;"	f	line:18
+test	BoardCover2.cpp	/^}void test(){$/;"	f	line:22
+test	Boggle.cpp	/^void test(vector< vector<char> > &metrix){$/;"	f	line:9
+test	ClockSyn.cpp	/^void test(int *clock,int index){$/;"	f	line:19
+test	CogiRun.cpp	/^void test(){$/;"	f	line:12
+test	Death.cpp	/^void test(double *temp){$/;"	f	line:18
+test	EditerWar.cpp	/^	void test(){$/;"	f	line:73	struct:unionFindTree
+test	Escapegees.cpp	/^void test(){$/;"	f	line:82
+test	FamilyTree.cpp	/^void test(int c,int n, int q){$/;"	f	line:59
+test	FanMeeting.cpp	/^void test(vector<int> &a){$/;"	f	line:7
+test	Fence.cpp	/^void test (vector<int> &a, int begin, int size){$/;"	f	line:7
+test	Fortress.cpp	/^void test(vector<circleInfo> &circleSet){$/;"	f	line:75
+test	GggCccDdd.cpp	/^void test(vector<int> &t){$/;"	f	line:15
+test	Graduation.cpp	/^void test(){$/;"	f	line:21
+test	Insertion2.cpp	/^void test(treapNode *root,int height){$/;"	f	line:24
+test	Jumpgame.cpp	/^void test(vector< vector<int> > &a){$/;"	f	line:8
+test	KLIS.cpp	/^void test(){$/;"	f	line:172
+test	Kakao_B.cpp	/^void test(){$/;"	f	line:14
+test	Kakao_C.cpp	/^void test(){$/;"	f	line:10
+test	LunchBox.cpp	/^int test(vector<pair<int, int> > &a){$/;"	f	line:19
+test	MatchOrder.cpp	/^int test(vector<int> &rus, vector<int> &kor ){$/;"	f	line:20
+test	MaxSum.cpp	/^void test(){$/;"	f	line:13
+test	Nerds.cpp	/^void test(polygon p){$/;"	f	line:16
+test	NumB3RS.cpp	/^void test(){$/;"	f	line:11
+test	OCR.cpp	/^void test(){$/;"	f	line:98
+test	Packing.cpp	/^void test(){$/;"	f	line:26
+test	Picnic.cpp	/^void test(vector< vector<bool> > &metrix){$/;"	f	line:8
+test	Prefix.cpp	/^void test(){$/;"	f	line:44
+test	Quantization.cpp	/^int test(vector<int> &a){$/;"	f	line:15
+test	Restore2.cpp	/^int test(vector<string> &a){$/;"	f	line:140
+test	Roots.cpp	/^void test(vector<double> degree){$/;"	f	line:12
+test	SoLong.cpp	/^void test(trieNode *root){$/;"	f	line:57
+test	StrJoin.cpp	/^void test(vector<int> &a){$/;"	f	line:6
+test	Tiling2.cpp	/^void test(int *a,int n){$/;"	f	line:7
+test	Tresure.cpp	/^void test(polygon p){$/;"	f	line:13
+test	ZeroOne.cpp	/^void test(){$/;"	f	line:13
+test	kakao_C.cpp	/^void test(){$/;"	f	line:104
+test	picnic.cpp	/^void test(vector< vector<char> > &metrix){$/;"	f	line:10
+test	snail.cpp	/^double test(){$/;"	f	line:30
+test1	WildCard.cpp	/^void test1(char *pattern){$/;"	f	line:11
+thrid	Quantization.cpp	/^int thrid(vector<int> &a, int **cache,int **cache2,int start, int s){$/;"	f	line:48
+thrid2	Quantization.cpp	/^int thrid2(vector<int> &a, int *cache,int start, int s){$/;"	f	line:92
+tictectoe	Tictactoe.cpp	/^int tictectoe(char turn){$/;"	f	line:71
+time	Duathlon.cpp	/^double time(int i, double d){$/;"	f	line:14
+tmp	samsung/7966.cpp	/^int64 value, cost, tmp;$/;"	v	line:15
+tmp	samsung/7966_3.cpp	/^int value, cost, tmp;$/;"	v	line:16
+total	Backjoon/10799.cpp	/^	int total;$/;"	m	line:9	struct:stack	file:
+travel	TPS_DP.cpp	/^void travel(int n, index **P, number& minLength){$/;"	f	line:19
+travers	FamilyTree_book.cpp	/^void travers(int here, int d, vector<int> & trip){$/;"	f	line:41
+treapNode	Insertion2.cpp	/^	treapNode(int _num):num(_num),priority(rand()),left(NULL),right(NULL),size(1){};$/;"	f	line:13	struct:treapNode
+treapNode	Insertion2.cpp	/^struct treapNode{$/;"	s	line:10	file:
+treapNode	Insertion2.cpp	/^}typedef treapNode;$/;"	t	line:21	file:
+treapPair	Insertion2.cpp	/^typedef pair<treapNode *,treapNode *> treapPair;$/;"	t	line:31	file:
+tree	Backjoon/2042.cpp	/^long long int tree[MAX_N*4] = {0};$/;"	v	line:12
+tree	Backjoon/9237.cpp	/^int tree[MAX_N];$/;"	v	line:9
+treeChain	Backjoon/1991.cpp	/^struct treeChain{$/;"	s	line:15	file:
+treeChain	Backjoon/1991.cpp	/^}typedef treeChain;$/;"	t	line:23	file:
+treeInit	Backjoon/7469.cpp	/^vector<int> treeInit(vector<vector<int> > &tree, int node, int start, int end){$/;"	f	line:14
+treeNode	Backjoon/1991.cpp	/^	treeNode(char _name){$/;"	f	line:9	struct:treeNode
+treeNode	Backjoon/1991.cpp	/^struct treeNode{$/;"	s	line:6	file:
+treeNode	Backjoon/1991.cpp	/^}typedef treeNode;$/;"	t	line:13	file:
+treeNode	Backjoon/2250.cpp	/^	treeNode(){$/;"	f	line:28	struct:treeNode
+treeNode	Backjoon/2250.cpp	/^struct treeNode{$/;"	s	line:25	file:
+treeNode	Backjoon/2250.cpp	/^}typedef treeNode;$/;"	t	line:32	file:
+treeNode	Backjoon/2250_2.cpp	/^struct treeNode{ \/\/ 번호로 자식 구분$/;"	s	line:13	file:
+treeNode	Backjoon/2250_2.cpp	/^}typedef treeNode;$/;"	t	line:16	file:
+treeNode	Fortress.cpp	/^struct treeNode{$/;"	s	line:13	file:
+treeNode	Fortress.cpp	/^}typedef treeNode;$/;"	t	line:15	file:
+treeSize	Backjoon/11505.cpp	/^int treeSize;$/;"	v	line:13
+treeSize	Backjoon/2042.cpp	/^int treeSize = 0;$/;"	v	line:13
+treenode	Traversal.cpp	/^struct treenode{$/;"	s	line:13	file:
+treenode	Traversal.cpp	/^} typedef treenode;$/;"	t	line:16	file:
+tri	Backjoon/2448.cpp	/^char *tri[3];$/;"	v	line:10
+triangle	Backjoon/1932.cpp	/^int triangle[MAX][MAX];$/;"	v	line:9
+trieNode	SoLong.cpp	/^	trieNode(){$/;"	f	line:17	struct:trieNode
+trieNode	SoLong.cpp	/^struct trieNode{$/;"	s	line:12	file:
+trieNode	SoLong.cpp	/^}typedef trieNode;$/;"	t	line:56	file:
+tripClass	Trip.h	/^	explicit tripClass(int _num):num(_num){$/;"	f	line:4	struct:tripNode
+tripNode	Insertion.cpp	/^	tripNode(int _valvue):value(_valvue),priority(rand()),size(1){$/;"	f	line:13	struct:tripNode
+tripNode	Insertion.cpp	/^struct tripNode{$/;"	s	line:9	file:
+tripNode	Insertion.cpp	/^}typedef tripNode;$/;"	t	line:32	file:
+tripNode	Trip.h	/^struct tripNode{$/;"	s	line:1
+tripNode	Trip.h	/^}typedef tripNode;$/;"	t	line:15
+turnOn	Backjoon/1102.cpp	/^char turnOn[MAX_N + 10];$/;"	v	line:12
+type	Darpa_sol.cpp	/^typedef int type;$/;"	t	line:13	file:
+uint32	Ites.cpp	/^typedef unsigned int uint32;$/;"	t	line:7	file:
+ull	Backjoon/15998.cpp	/^typedef unsigned long long int ull;$/;"	t	line:7	file:
+ull	Backjoon/15998_2.cpp	/^typedef unsigned long long int ull;$/;"	t	line:8	file:
+ull	Backjoon/15998_3.cpp	/^typedef unsigned long long int ull;$/;"	t	line:8	file:
+unionFindTree	EditerWar.cpp	/^	unionFindTree(int _n){$/;"	f	line:15	struct:unionFindTree
+unionFindTree	EditerWar.cpp	/^struct unionFindTree{$/;"	s	line:12	file:
+unionTree	EditerWar.cpp	/^	int unionTree(int r1, int r2){$/;"	f	line:24	struct:unionFindTree
+unpack	t.cpp	/^int unpack(string s1){$/;"	f	line:8
+up	CogiRun.cpp	/^bool up(int locate, int hight, int &next){$/;"	f	line:128
+upAndDown	CogiRun.cpp	/^int upAndDown(int locate, int hight, int jump){$/;"	f	line:159
+update	Backjoon/11505.cpp	/^int64 update(vector<int64> &tree,int node, int start, int end, int index, int64 value){$/;"	f	line:20
+update	Backjoon/17128.cpp	/^void update(vector<int> &tree, int node, int start, int end, int index, int dif){$/;"	f	line:20
+update	Backjoon/2042_2.cpp	/^void update(vector<int64> &tree, int node, int start, int end, int index, int64 value){$/;"	f	line:16
+update	Backjoon/5676.cpp	/^int update(vector<int> &tree, int node, int start, int end, int lo, int val){$/;"	f	line:12
+update	Mordor.cpp	/^	pathInfo update(int index, int newValue){$/;"	f	line:59	struct:RMQ
+update	Mordor.cpp	/^	pathInfo update(int index, int newValue, int node, int nodeLeft, int nodeRight){$/;"	f	line:47	struct:RMQ
+upper	Fossil.cpp	/^vector<pair<point,point> > upper, lower;$/;"	v	line:16
+urgent	Packing.cpp	/^	int urgent;$/;"	m	line:12	struct:Obj	file:
+v	1753_v2.cpp	/^int v,e,k;$/;"	v	line:11
+v	Backjoon/1021.cpp	/^vector<int> v;$/;"	v	line:9
+v	Backjoon/1021_2.cpp	/^vector<int> v;$/;"	v	line:10
+v	Backjoon/1949.cpp	/^vilige v[MAX_N];$/;"	v	line:24
+v	Backjoon/5430_3.cpp	/^	int v[100000];$/;"	m	line:10	struct:my_deque	file:
+v	Darpa_sol.cpp	/^vector<type> v;$/;"	v	line:14
+v	Genius.cpp	/^    vector<vector<double> > v;$/;"	m	line:11	struct:SquareMatrix	file:
+v	samsung/7966_2.cpp	/^vector< pair<pair<int, int>,int> > v[MAX_N]; \/\/ first : cost, second : value, return cost;$/;"	v	line:13
+v	samsung/7966_3.cpp	/^vector< pair<int, int> > v[MAX_N];\/\/[index] , first : value, second : cost;$/;"	v	line:14
+v	squareMatrix.h	/^    vector<vector<double> > v;$/;"	m	line:9	struct:SquareMatrix
+value	Insertion.cpp	/^	int value,priority,size;$/;"	m	line:10	struct:tripNode	file:
+value	Insertion2.cpp	/^int value[MAX_N],n;$/;"	v	line:128
+value	Kakuro2.cpp	/^int value[MAX_N][MAX_N],hint[MAX_N][MAX_N][2];$/;"	v	line:13
+value	samsung/7966.cpp	/^int64 value, cost, tmp;$/;"	v	line:15
+value	samsung/7966_3.cpp	/^int value, cost, tmp;$/;"	v	line:16
+vector2	Pinball.cpp	/^	explicit vector2(double x_ = 0, double y_ = 0) : x(x_),y(y_){}$/;"	f	line:15	struct:vector2
+vector2	Pinball.cpp	/^struct vector2{$/;"	s	line:13	file:
+vector2	vector2.h	/^	explicit vector2(double x_ = 0, double y_ = 0) : x(x_),y(y_){}$/;"	f	line:7	struct:vector2
+vector2	vector2.h	/^struct vector2{$/;"	s	line:5
+vertical	Fossil.cpp	/^double vertical(double x){$/;"	f	line:35
+vilige	Backjoon/1949.cpp	/^	vilige(){$/;"	f	line:18	struct:vilige
+vilige	Backjoon/1949.cpp	/^struct vilige{$/;"	s	line:14	file:
+vilige	Backjoon/1949.cpp	/^}typedef vilige;$/;"	t	line:22	file:
+visit	1753_v2.cpp	/^int visit[MAX_V];$/;"	v	line:12
+visit	Backjoon/1260.cpp	/^bool visit[1000];$/;"	v	line:11
+visit	Backjoon/1726.cpp	/^int visit[MAX_N][MAX_N];$/;"	v	line:14
+visit	Backjoon/1753_v2.cpp	/^int visit[MAX_V];$/;"	v	line:13
+visit	Backjoon/1938.cpp	/^int visit[MAX_N][MAX_N][2] = {-1};$/;"	v	line:21
+visit	Backjoon/2178.cpp	/^bool visit[MAX_N][MAX_N];$/;"	v	line:12
+visit	Backjoon/2178_v2.cpp	/^bool visit[MAX_N][MAX_N];$/;"	v	line:10
+visit	Backjoon/2573_2.cpp	/^bool visit[MAX_N][MAX_N];$/;"	v	line:11
+volume	Packing.cpp	/^	int volume;$/;"	m	line:11	struct:Obj	file:
+w	Backjoon/1006.cpp	/^int n,w;$/;"	v	line:9
+w	Backjoon/1006_2.cpp	/^int n,w;$/;"	v	line:13
+w	Backjoon/1006_3.cpp	/^int n,w;$/;"	v	line:13
+w	Backjoon/1006_4.cpp	/^int n,w;$/;"	v	line:6
+w	Backjoon/2098.cpp	/^int w[MAX_N][MAX_N];$/;"	v	line:11
+w	Packing.cpp	/^int C,n,w;$/;"	v	line:16
+wine	Backjoon/2156.cpp	/^int wine[MAX_N];$/;"	v	line:9
+word	OCRSol.cpp	/^string word[501]; \/\/입력받은 단어들의 목록$/;"	v	line:37
+wordNum	OCRSol.cpp	/^int composition, wordNum, sentenceNum;$/;"	v	line:15
+wordprint	Boggle.cpp	/^void wordprint(vector<char> &word){$/;"	f	line:16
+wordprint	picnic.cpp	/^void wordprint(vector<char> &word){$/;"	f	line:17
+x	Backjoon/1726.cpp	/^	int y, x, direct, level;$/;"	m	line:22	struct:point	file:
+x	Backjoon/1938.cpp	/^	int y, x, l, s;$/;"	m	line:12	struct:point	file:
+x	Backjoon/2206.cpp	/^	int y, x, level;$/;"	m	line:13	struct:node	file:
+x	Backjoon/6593.cpp	/^	int x,y,z;$/;"	m	line:15	struct:point	file:
+x	Braveduck.cpp	/^	int x, y;$/;"	m	line:13	struct:point	file:
+x	Fortress.cpp	/^	int x, y, r;$/;"	m	line:10	struct:circleInfo	file:
+x	Fossil.cpp	/^	double y,x;$/;"	m	line:12	struct:point	file:
+x	Minas.cpp	/^double y[MAX_N],x[MAX_N],r[MAX_N]; $/;"	v	line:21
+x	Pinball.cpp	/^	double x,y;$/;"	m	line:14	struct:vector2	file:
+x	samsung/7966.cpp	/^int n, x, k;$/;"	v	line:14
+x	samsung/7966_2.cpp	/^int n, x, k;$/;"	v	line:14
+x	samsung/7966_3.cpp	/^int n, x, k;$/;"	v	line:15
+x	samsung/8275.cpp	/^int n, x, m;$/;"	v	line:8
+x	vector2.h	/^	double x,y;$/;"	m	line:6	struct:vector2
+xx	Backjoon/1020_test.cpp	8;"	d	line:8	file:
+y	Backjoon/1726.cpp	/^	int y, x, direct, level;$/;"	m	line:22	struct:point	file:
+y	Backjoon/1938.cpp	/^	int y, x, l, s;$/;"	m	line:12	struct:point	file:
+y	Backjoon/2206.cpp	/^	int y, x, level;$/;"	m	line:13	struct:node	file:
+y	Backjoon/6593.cpp	/^	int x,y,z;$/;"	m	line:15	struct:point	file:
+y	Braveduck.cpp	/^	int x, y;$/;"	m	line:13	struct:point	file:
+y	Fortress.cpp	/^	int x, y, r;$/;"	m	line:10	struct:circleInfo	file:
+y	Fossil.cpp	/^	double y,x;$/;"	m	line:12	struct:point	file:
+y	Minas.cpp	/^double y[MAX_N],x[MAX_N],r[MAX_N]; $/;"	v	line:21
+y	Pinball.cpp	/^	double x,y;$/;"	m	line:14	struct:vector2	file:
+y	vector2.h	/^	double x,y;$/;"	m	line:6	struct:vector2
+yy	Backjoon/1020_test.cpp	9;"	d	line:9	file:
+z	Backjoon/6593.cpp	/^	int x,y,z;$/;"	m	line:15	struct:point	file:
+~SquareMatrix	Genius.cpp	/^SquareMatrix::~SquareMatrix() {$/;"	f	line:25	class:SquareMatrix
+~SquareMatrix	squareMatrix.h	/^SquareMatrix::~SquareMatrix() {$/;"	f	line:23	class:SquareMatrix

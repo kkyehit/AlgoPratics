@@ -1,0 +1,40 @@
+a : 1 b 12 LCA : -1
+2
+a : 8 b 15 LCA : -1
+6
+a : 1 b 16 LCA : -1
+3
+a : 1 b 19 LCA : -1
+4
+a : 5 b 16 LCA : -1
+7
+a : 7 b 19 LCA : -1
+4
+a : 8 b 18 LCA : -1
+5
+a : 8 b 11 LCA : -1
+4
+a : 6 b 13 LCA : -1
+6
+a : 1 b 4 LCA : 0
+3
+a : 11 b 15 LCA : -1
+8
+a : 0 b 6 LCA : -1
+1
+a : 0 b 2 LCA : -1
+2
+a : 7 b 19 LCA : -1
+4
+a : 2 b 13 LCA : -1
+7
+a : 7 b 11 LCA : -1
+4
+a : 6 b 7 LCA : -1
+2
+a : 8 b 15 LCA : -1
+6
+a : 14 b 15 LCA : 0
+5
+a : 1 b 12 LCA : -1
+2
